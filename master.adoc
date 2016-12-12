@@ -1,0 +1,49 @@
+= El aprendiz de software
+
+:author: José Juan Reyes Zuñiga
+:email: neodevelop@gmil.com
+:doctype: book
+:toc:
+:icons: font
+:lang: es
+:source-highlighter: coderay
+
+[preface]
+include::chapters/introduction.adoc[]
+
+== Parte 1. Carrera en el desarrollo de software
+
+include::chapters/chapter1.adoc[]
+include::chapters/chapter2.adoc[]
+include::chapters/chapter3.adoc[]
+include::chapters/chapter4.adoc[]
+include::chapters/chapter5.adoc[]
+include::chapters/chapter6.adoc[]
+
+== Parte 2. Elementos esenciales
+
+include::chapters/chapter7.adoc[]
+include::chapters/chapter8.adoc[]
+include::chapters/chapter9.adoc[]
+include::chapters/chapter10.adoc[]
+
+== Parte 3. Cultura en el software
+
+include::chapters/chapter11.adoc[]
+include::chapters/chapter12.adoc[]
+include::chapters/chapter13.adoc[]
+include::chapters/chapter14.adoc[]
+include::chapters/chapter15.adoc[]
+include::chapters/chapter16.adoc[]
+include::chapters/chapter17.adoc[]
+
+== Parte 4. Comunicación
+
+include::chapters/chapter18.adoc[]
+include::chapters/chapter19.adoc[]
+
+== Parte 5. Consejos de los veteranos
+
+[colophon]
+include::chapters/bibliography.adoc[]
+include::chapters/addons.adoc[]
