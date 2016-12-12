@@ -1,5 +1,4 @@
 = El aprendiz de software
-
 :author: José Juan Reyes Zuñiga
 :email: neodevelop@gmil.com
 :doctype: book
