@@ -5,3 +5,5 @@ gem 'coderay'
 gem 'asciidoctor'
 gem 'asciidoctor-epub3'
 gem 'asciidoctor-pdf'
+
+gem "rake", :group => :test
