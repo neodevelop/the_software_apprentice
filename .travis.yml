@@ -6,3 +6,6 @@ notifications:
   email:
     recipients:
       - yadelisa4@gmail.com
+    template:
+      - "%{repository} (%{commit}) : %{message} %{foo} "
+      - "Build details: %{build_url}"
