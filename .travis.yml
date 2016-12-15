@@ -1,3 +1,15 @@
 language: ruby
+cache: bundler
 rvm:
   - 2.2.6
+notifications:
+  email:
+    recipients:
+      - juan@makingdevs.com
+      - yadelisa4@gmail.com
+    template:
+      - "%{repository} (%{commit}) : %{message} %{foo} "
+      - "Build details: %{build_url}"
+branches:
+  only:
+    - master
