@@ -7,9 +7,6 @@ notifications:
     recipients:
       - juan@makingdevs.com
       - yadelisa4@gmail.com
-    template:
-      - "%{repository} (%{commit}) : %{message} %{foo} "
-      - "Build details: %{build_url}"
 branches:
   only:
     - master
