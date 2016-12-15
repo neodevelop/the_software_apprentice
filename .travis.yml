@@ -1,3 +1,8 @@
 language: ruby
+cache: bundler
 rvm:
   - 2.2.6
+notifications:
+  email:
+    recipients:
+      - yadelisa4@gmail.com
