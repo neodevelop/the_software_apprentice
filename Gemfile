@@ -7,3 +7,5 @@ gem 'asciidoctor-epub3'
 gem 'asciidoctor-pdf'
 
 gem "rake", :group => :test
+gem "rest-client", :group => :test
+gem "json", :group => :test
