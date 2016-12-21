@@ -7,7 +7,7 @@ require 'base64'
 @mail_recipients = ENV["MAIL_RECIPIENTS"]
 @template_id = ENV["TEMPLATE_ID"]
 
-task :default => 'build:html'
+task :default => 'notification:send'
 
 namespace :build do
 
