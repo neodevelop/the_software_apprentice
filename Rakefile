@@ -31,6 +31,15 @@ namespace :build do
 
 end
 
+namespace :dictation do
+
+  desc "Makes the correct capitalization"
+  task :capitalize, [:filename] do |t, args|
+    s = File.read(args[:filename]).to_s
+    puts s.downcase.capitalize.gsub(/[a-z][^.?!]*/) { |match| match[0].upcase + match[1..-1].rstrip }
+  end
+end
+
 namespace :notification do
 
   desc "Create the changelog with 5 last commits"
