@@ -1,1 +1,21 @@
 === Capítulo 1. ¿Qué es un profesional de software?
+
+Piensa en un buen doctor, y recuerda todos los elementos que hay alrededor de él,
+
+Ahora piensa en el software que haces, y lo importante que es para las personas que lo usan
+
+Piensa en el software que usas y para que lo usas
+
+==== Responsabilidad
+
+==== Principios y valores
+
+==== Trabajo ético
+
+==== Aprendizaje continuo
+
+=== Comunicación efectiva
+
+==== Practicar
+
+==== Conocimientos generales
