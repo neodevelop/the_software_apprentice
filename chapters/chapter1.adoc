@@ -1,13 +1,13 @@
 === Capítulo 1. ¿Qué es un profesional de software?
 
-> Los profesionales, en su mayoría, están sujetos a estrictos códigos de conducta, rigurosa ética profesional y obligación moral con la sociedad.
+> ...Los profesionales, en su mayoría, están sujetos a estrictos códigos de conducta, rigurosa ética profesional y obligación moral con la sociedad.
 > — Wikipedia
 
-piensa en un buen doctor, y analiza por un momento, verás que está rodeado de varios elementos que son proyectados a través de su cultura y la forma como se dirige a las personas, incluyendo sus propios compañeros. Verás que en esa persona que puede llegar a ser admirable, hay conocimiento, una buena comunicación, podrías incluir buenos hábitos y costumbres, una gran responsabilidad, y el deseo de ayudar a la gente de alguna manera. Veras también que es el resultado de años de estudio y práctica, y que constantemente sigue ejerciendo, practicando, estudiando y tratando de ser mejor el usuario, en algunos casos especializándose en algo muy particular.
+Piensa en un buen doctor, y analiza por un momento, verás que está rodeado de varios elementos que son proyectados a través de su cultura y la forma como se dirige a las personas, incluyendo sus propios compañeros. Verás que en esa persona que puede llegar a ser admirable, hay conocimiento, una buena comunicación, podrías incluir buenos hábitos y costumbres, una gran responsabilidad, y el deseo de ayudar a la gente de alguna manera. Veras también que es el resultado de años de estudio y práctica, y que constantemente sigue ejerciendo, practicando, estudiando y tratando de ser mejor el usuario, en algunos casos especializándose en algo muy particular.
 
 Un profesional de software no es muy diferente a aquel doctor, inclusive podría decirse que mientras el doctor tienen la responsabilidad de una vida a la vez, un programador tiene una responsabilidad de un grupo de personas a la vez, que son los usuarios finales de todas las creaciones que él pueda hacer.
 
-Ahora regresa al doctor, ¿que lo hace bueno? ¿Cómo es que el ofrece un lazo de confianza hacia ti?, Piensa las veces en las que has visitado alguno, te han atendido de tal manera que puedas sentir la experiencia o conocimiento que te transmiten al tratarte de alguna enfermedad, ¿de qué manera te está garantizando que cualquier diagnóstico o prescripción médica será efectiva para ti; podríamos decir que basado en una serie de estudios e inclusive pruebas bien demostradas que lo avalan, o también en la cantidad de veces que ha atendido un caso similar al que tú tienes, es una experiencia pero también le podría proporcionar determinación al momento de diferenciar algo muy particular que escapa de cualquier cuadro médico, algo que específicamente tú necesitas, de tal manera que te hace sentir con un trato de una forma única, aunque posiblemente ya hayan tratado casos muy similares al tuyo, siempre será única la forma en la que él te puede transmitir lo que tú podrías hacer para estar mejor.
+Ahora regresa al doctor, ¿que lo hace bueno? ¿Cómo es que el ofrece un lazo de confianza hacia ti?, piensa las veces en las que has visitado alguno, te han atendido de tal manera que puedas sentir la experiencia o conocimiento que te transmiten al tratarte de alguna enfermedad, ¿de qué manera te está garantizando que cualquier diagnóstico o prescripción médica será efectiva para ti; podríamos decir que basado en una serie de estudios e inclusive pruebas bien demostradas que lo avalan, o también en la cantidad de veces que ha atendido un caso similar al que tú tienes, es una experiencia pero también le podría proporcionar determinación al momento de diferenciar algo muy particular que escapa de cualquier cuadro médico, algo que específicamente tú necesitas, de tal manera que te hace sentir con un trato de una forma única, aunque posiblemente ya hayan tratado casos muy similares al tuyo, siempre será única la forma en la que él te puede transmitir lo que tú podrías hacer para estar mejor.
 
 Ahora, piensa en el software que tú estás haciendo o qué podrías hacer, ¿como garantizas que funciona correctamente?, ¿Como podrías trasmitir la misma confianza de que el producto que está desarrollando cumple con lo que la gente espera de ti?, ¿Como sabes que cada uso horario pues de sentirse atendido de forma única al momento de usar el software que tú estás haciendo?, O bien, ¿como puedes garantizar que el software desarrollado por ti realmente es una herramienta que ayuda a realizar las tareas para las cuales está diseñado?, Cualesquiera que éstas sean, porque si bien el software está siendo creado para resolver problemas que de otra forma podrían tomar mucho tiempo o esfuerzo.
 
@@ -17,7 +17,7 @@ Todo lo anterior, me lleva a mencionar varios aspectos que deberías de consider
 
 ==== Responsabilidad
 
-tal vez no lo estás viendo del todo, pero en el momento en el que estás creando una herramienta o un programa con un propósito, algún tipo de responsabilidad recae en la ejecución de este programa. Es por esto, que debes de ser consciente de qué lo que estás haciendo puede ser un componente muy importante para alguien que lo usara diariamente, y que puedes ayudarle a mejorar la manera en que realice sus actividades, o bien impedirle de alguna manera que estas actividades se ejecuten correctamente solamente por cumplir ciertas condicionantes que se han puesto en dicho programa. La falta de flexibilidad en ciertas aplicaciones de software han demostrado cómo es que se puede aumentar el tiempo que se dedica una actividad cuando un software está mal enfocado o mal diseñado.
+Tal vez no lo estás viendo del todo, pero en el momento en el que estás creando una herramienta o un programa con un propósito, algún tipo de responsabilidad recae en la ejecución de este programa. Es por esto, que debes de ser consciente de qué lo que estás haciendo puede ser un componente muy importante para alguien que lo usara diariamente, y que puedes ayudarle a mejorar la manera en que realice sus actividades, o bien impedirle de alguna manera que estas actividades se ejecuten correctamente solamente por cumplir ciertas condicionantes que se han puesto en dicho programa. La falta de flexibilidad en ciertas aplicaciones de software han demostrado cómo es que se puede aumentar el tiempo que se dedica una actividad cuando un software está mal enfocado o mal diseñado.
 
 Considera también que en algún momento tú ya no estás desarrollando este programa, y deberá ser lo suficientemente claro para quien continúe con tu trabajo pueda entenderlo, de tal manera que permita extender funcionalidad, o bien reparar algún tipo de error que se haya suscitado.
 
@@ -31,12 +31,12 @@ Dicho lo anterior, puedo describir el conjunto de elementos pueden ayudar a un a
 
 ==== Principios y valores
 
-creo que uno de los elementos más importantes para generar un lazo de confianza en un equipo de desarrollo es siendo honesto desde el principio. Lamentablemente, la sociedad en la forma en la que solicita a personas que puedas realizar un trabajo, establecer ciertos parámetros y condiciones que deben de cumplir los candidatos para poder ser competitivos dentro de lugar que pueden ocupar, que muchos de nosotros nos hemos vendido en algún momento por los elementos que conocemos, mas no por los que nos conocemos, esto trae como consecuencia el hecho de poder engañar a nuestro empleado diciendo que sabemos lo que nos está pidiendo, cuando realmente no lo sabemos con la finalidad de obtener un lugar dentro de la empresa u organización.
+Creo que uno de los elementos más importantes para generar un lazo de confianza en un equipo de desarrollo es siendo honesto desde el principio. Lamentablemente, la sociedad en la forma en la que solicita a personas que puedas realizar un trabajo, establecer ciertos parámetros y condiciones que deben de cumplir los candidatos para poder ser competitivos dentro de lugar que pueden ocupar, que muchos de nosotros nos hemos vendido en algún momento por los elementos que conocemos, mas no por los que nos conocemos, esto trae como consecuencia el hecho de poder engañar a nuestro empleado diciendo que sabemos lo que nos está pidiendo, cuando realmente no lo sabemos con la finalidad de obtener un lugar dentro de la empresa u organización.
 Pareciera que ser honesto es más difícil, sin embargo, creo que podría resultar bastante simple si planteamos el escenario inicial con todos sus defectos, me refiero a aceptar el hecho de que hay muchas cosas que verdaderamente como aprendiz de software no sabemos, pero que en el camino vamos a aprender y que estamos comprometidos a hacerlo, dado el punto platicado anteriormente. Esto es mucho más despreciable por cualquier persona, pues son elementos importantes que determinan la toma de una decisión de alguien que nos puede emplear, o de nosotros mismos al saber que invertiremos esfuerzo y tiempo en conocer alguna plataforma, tecnología o proceso.
 
 La honestidad siempre funciona, asimismo, el coraje de poder expresar nuestras opiniones de la forma adecuada y en el momento adecuado, de decir lo que no nos parece o bien lo que podría resultar raro, lo que quiero decir es que necesitamos verdaderamente saber que estamos haciendo y porque lo estamos haciendo, y esa curiosidad debe invadir nuestra mente para determinar las acciones que nosotros vamos ejecutar durante la realización de un programa.
 
-Asimismo, debemos de aprender a escuchar y reflexionar, a aprender de lo que estamos viendo y absorber el conocimiento que nos sea otorgado, filtrarlo y saber que nos servirá de momento y que no, mucho de esto se podría reflejar en un aspecto de humildad frente a nuestros compañeros, es decir tener la mente abierta de posibilidades ante los hechos que se los puedan presentar o bien ante el paradigma tecnológico que se nos requiera aprender, y estar siempre atentos de esos elementos nuevos que nos puedan interesar, para reforzarlos y siempre preguntar al respecto de ellos. Pero también, la humildad deberá reflejar el hecho de aceptar que hay muchas cosas que no conocemos y podremos conocer ya sea en la realización del proyecto o bien en la inversión del tiempo que nosotros le hagamos por nuestra cuenta.
+Asímismo, debemos de aprender a escuchar y reflexionar, a aprender de lo que estamos viendo y absorber el conocimiento que nos sea otorgado, filtrarlo y saber que nos servirá de momento y que no, mucho de esto se podría reflejar en un aspecto de humildad frente a nuestros compañeros, es decir tener la mente abierta de posibilidades ante los hechos que se los puedan presentar o bien ante el paradigma tecnológico que se nos requiera aprender, y estar siempre atentos de esos elementos nuevos que nos puedan interesar, para reforzarlos y siempre preguntar al respecto de ellos. Pero también, la humildad deberá reflejar el hecho de aceptar que hay muchas cosas que no conocemos y podremos conocer ya sea en la realización del proyecto o bien en la inversión del tiempo que nosotros le hagamos por nuestra cuenta.
 
 Y aunque hay muchos tipos de personas, que piensan distinto a como yo pensaría, los aspectos de empatía y tolerancia deben ser presentes mientras se realiza la convivencia con los miembros del equipo que a su vez también podrán coincidir o no en mis ideas personales por lo que yo creo, pero eso no es un obstáculo para portar algo útil a la aplicación que estamos haciendo.
 
@@ -44,32 +44,78 @@ Al final del día, ¿como se que estoy haciendo es lo correcto y que verdaderame
 
 ==== Trabajo ético
 
-durante los últimos 20 años, se ha escuchado alguna corriente denominada como ágil, que permite conocer establecer ciertas metas al momento de desarrollar software.
+Durante los últimos 20 años, se ha escuchado alguna corriente denominada como ágil, que permite conocer establecer ciertas metas al momento de desarrollar software.
 
 Así como el doctor tiene un código de ética que cumplir, y que lo puede guiar de forma esencial en su carrera, actualmente contamos con lo que se llama *el manifiesto ágil*, que si bien no es del todo un código de ética, si es una muy buena base para realizar un trabajo de la forma más profesional posible.
 
 Aquí lo citaré, y aunque estaremos platicando profundamente de algunos de estos aspectos más adelante, si en algún momento al crear un software podemos sentir que estamos perdidos, simple y sencillamente tenemos que regresar a este manifiesto.
 
-> *Individuos e interacciones* sobre procesos y herramientas > *software funcionando* sobre documentación extensiva > *colaboración con el cliente* sobre negociación contractual > *respuesta ante el cambio* sobre seguir un plan
->
-> esto es, aunque valoramos los elementos de la derecha, valoramos más los de la izquierda.
+[quote, Agile manifesto]
+____
+- *Individuos e interacciones* sobre procesos y herramientas 
+- *Software funcionando* sobre documentación extensiva 
+- *Colaboración con el cliente* sobre negociación contractual 
+- *Respuesta ante el cambio* sobre seguir un plan
+
+Esto es, aunque valoramos los elementos de la derecha, valoramos más los de la izquierda.
+____
 
 ==== Aprendizaje continuo
 
-no existe otra manera de avanzar en una carrera si no es aprendiendo continuamente nuevas técnicas y métodos, tienes caso muy particular del desarrollo de software también tecnología.
+No existe otra manera de avanzar en una carrera si no es aprendiendo continuamente nuevas técnicas y métodos, y en este caso muy particular del desarrollo de software también tecnología.
 
-Por lo anterior, deberá ser muy importante plantear un escenario en donde la prendes eso pues puedo tener una lista de elementos que no conoce it escribirla honestamente, para trabajar en ella.
+Por lo anterior, deberá ser muy importante plantear un escenario en donde aprendas, y puedes tener una lista de elementos que no conoces y escribirla honestamente, para trabajar en ella.
 
-Aquí lo difícil es para cualquiera que comience hacer esta lista, saber qué que desconoce realmente coma sin embargo, puede ser muy sencillo resolver esta duda, con solamente una cuestión.
+Aquí lo difícil es para cualquiera que comience a hacer esta lista, saber qué que desconoce realmente, sin embargo, puede ser muy sencillo resolver esta duda, con solamente una cuestión.
 
-Toma el software que más te guste, ya sé tu celular otro una aplicación en tu equipo de cómputo, un intermedio inclusive, y búsqueda de que elementos está hecho, que tecnologías usa oki herramientas ocupan dentro de la organización que está haciendo ese software, con esto podrás dar una idea de lo que desconoces y que posiblemente deberás veras de conocer de alguna u otra manera y en algún punto en tu carrera.
+Toma el software que más te guste, ya sea tu celular o una aplicación en tu equipo de cómputo, un intermedio inclusive, y búsqueda de que elementos está hecho, que tecnologías usa o que herramientas ocupan dentro de la organización que está haciendo ese software, con esto podrás darte una idea de lo que desconoces y que posiblemente deberás de conocer de alguna u otra manera y en algún punto en tu carrera.
 
-Lo importante aquí es tener esa lista, ordenarla y priorizarla, y buscar los elementos que sean necesarios para comprender en su totalidad los elementos conceptuales que rodean los puntos a atacar.
+Lo importante aquí es tener esa lista, ordenarla y priorizarla, y buscar los elementos que sean necesarios para comprender en su totalidad los elementos conceptuales que rodean a los puntos a atacar.
 
-Inclusive, años después beber comenzado tu carrera como profesionales shower, te darás cuenta que esto es una técnica muy efectiva, pues cada vez saldrá masó fuerte que usarás que seguramente querrás saber como funciona, lo importante aquí es mantener la curiosidad de conocer realmente que hacen otras personas y como lo están haciendo.
+Inclusive, años después haber comenzado tu carrera como profesional de software, te darás cuenta que esto es una técnica muy efectiva, pues cada vez saldrá más software que usarás y que seguramente querrás saber como funciona, lo importante aquí es mantener la curiosidad de conocer realmente que hacen otras personas y como lo están haciendo.
 
 ==== Comunicación efectiva
 
+Llegados a este punto, debo reconocer lo importante que ha sido y será la comunicación oral y escrita impartida a través de las materias de español, la literatura incluida ahí también, esencial en su forma más simple y necesario para transmitir las ideas de la manera que pretendemos lleguen a los demás.
+
+Definitivamente, esta es una habilidad que se tiene que adoptar de alguna u otra manera en el proceso de desarrollo software, pues necesitaremos crear acuerdos, convenios y procedimientos con nuestros compañeros, tendremos que expresar a los clientes de forma clara que estamos haciendo y darles a entender de la mejor manera que existen elementos intangibles que deberán existir dentro de un programa, que requerirán un esfuerzo y una dedicación para ser desarrollados.
+
+Justo como el doctor puede transmitir sus ideas a sus colegas, y también hablar con los familiares de sus pacientes, nosotros deberemos de conversar y ser lo suficientemente críticos de las ideas de los demás de la forma más constructiva posible, y ser capaces de transmitirle a los clientes y usuarios finales lo crítico que puede ser tomar una decisión, o las consecuencias de alguna acción, basándonos en la honestidad de la cual hemos descrito anteriormente, tener el tacto y la elocuencia de transmitir las malas noticias y las buenas también.
+
+He visto como malos entendidos a través de ideas difusas y suposiciones pueden terminar en malos productos de software, debido a nuestra deficiencia al comunicarnos y quedar en el entendido de cosas que en la concepción de otras personas son totalmente diferentes, dos personas hablando exactamente lo mismo, pero entienden situaciones muy distintas, a pesar de que usemos una lengua o idioma siempre podremos encontrar huecos para malas interpretaciones.
+
+Lo mejor que podemos hacer aquí, es leer, pues de entrada nos enseñará a escribir y a formular una secuencia de ideas enlazadas entre sí, lo cual nos da estructura y a su vez nos daría un plan. Y me refiero a leer de forma general, no textos de tecnología exclusivos, sino también historia, algo muy recomendable sería la historia de la computación, pero es simplemente una sugerencia.
+
+Una gran práctica que podríamos realizar para mejorar nuestras habilidades de comunicación siempre será confrontarse con el cliente o los usuarios finales para explicarles cómo funciona nuestra aplicación, o conocer más al respecto de las necesidades que pretenden resolver a través de nosotros. En este escenario, definitivamente aprenderemos acerca del hablar y del escuchar, del interpretar y del no suponer, de llegar a acuerdos y de presentar los riesgos. Pero que hacer dado caso de que este cliente no exista, si bien puedes estar desarrollando un producto de forma interna o como un proyecto personal, deberías de pensar en la manera en como se lo explicarías a alguien que no conoce al respecto de tecnología o del proceso que quiere solventar.
+
+Una vez escuché decir a un amigo qué tendrías que explicar algunas cosas como si se se las estuvieras diciendo ah tu mamá o a tu abuela, pensando en ese escenario las cosas se complican, no porque no sepan de tecnología si no más bien por el cuidado y la dedicación que invertirías para hacer que quede claro.
+
 ==== Practicar
 
+Hemos tocado varios puntos que hablan de practicar ciertas habilidades, sin embargo, ¿qué hay en la adopción de nuevas tecnologías y plataformas de software?, pues bien, definitivamente lo que tienes que hacer es plantearte el objetivo de querer aprenderlas y comenzar a practicar.
+
+Para este momento, existen muchos problemas que se pretenden resolver en las ciencias computacionales, sin embargo, existen algunos ejercicios comprobados que sirven justo para determinar si has comprendido algún concepto, dicho sea de paso, estos problemas están disponibles en la red y en los libros de texto, puede ser desde el desarrollo de una simple calculadora, hasta la creación del algoritmo más complicado.
+
+Siempre existirán tutoriales que quieren mostrarte cómo usar una tecnología, sin embargo, creo que hay que diferenciar muy bien que el buen aprendizaje y la buena enseñanza tienen un costo, ya sea en tiempo, dinero y esfuerzo, es por esto que yo incito a que si tienes la posibilidad de comprar algún libro reconocido lo hagas sin dudarlo, pues te va a retribuir mucho más de lo que piensas.
+
+Busca ejercicios, algunos de ellos los podrás encontrar como *katas de código*, y están diseñados para enseñarte técnicas y métodos, pero también pueden enseñarte a hacerte las preguntas adecuadas, ¿como diseñar un software? ¿Cómo estructurar un programa? ¿Cómo crear mejor código? ¿Qué pasa si tengo un cálculo muy complicado porque lleva mucho tiempo de ejecución?
+
+Así como un músico práctica todos los días con su instrumento, tú deberías estar practicando todos los días con tu lenguaje algún código en la resolución de un problema.
+
+En algunos casos, podrás encontrar un objetivo que cumplir, una aplicación completa que te permite experimentar toda una plataforma, si ese es tu caso entonces tendrás mucho que investigar y por lo tanto tendrás la necesidad de ejecutar componentes aislados para incorporarlos después en tu proyecto.
+
+Como se puede ver, todo esto es práctica y entre más la ejecutes mejor la dominarás, la tecnología está ahí y está disponible para ser explotada, hoy en día contamos con herramientas de muy alto nivel que ayudan a abstraer la complejidad de ciertos conceptos, lo cual está bien para comenzar a adentrarse, sin embargo considera el hecho de profundizar y practicar mucho más allá de lo superficial, de poner a prueba los conceptos más esenciales que vayas conociendo.
+
+En esta profesión, uno de los mayores beneficios lo encontrarás al practicar y tener la satisfacción de que tú también lo puedes hacer.
+
 ==== Conocimientos generales
+
+Se han expuesto varios puntos al respecto de los elementos esenciales que debería de conocer un aprendiz de software para comenzar su carrera, sin embargo, no queda de lado el hecho de que se debe enriquecer la mente a través de otras ciencias ajenas a la computación, especialmente aquellas que permitan llevar el ámbito tecnológico a algo más humano, a la convivencia y a una charla en algún lugar lejano de la computadora.
+
+Para ser honestos, siempre estamos programando sin embargo hay veces que no ocupamos la computadora para hacerlo, pues estamos pensando en cómo resolver un problema y es aquí en donde otras áreas nos pueden inspirar para ver nuestro problema desde otro tipo de perspectiva más creativa.
+
+Dado esto, también es muy bueno que se pueda conocer al respecto de elementos generales de programación en todos sus sentidos, creo yo que cualquier programador tiene la responsabilidad de conocer al respecto de temas como sistemas operativos, redes de telecomunicaciones, seguridad informática, compiladores, arquitectura de computadoras, algoritmos computacionales, teoría de la computación, sistemas digitales, matemáticas, entre muchos otros que son verdaderamente necesarios para comprender completamente el funcionamiento de una computadora. Estoy hablándo no solamente de aprender o memorizar conceptos, me refiero a que verdaderamente se puede demostrar de alguna manera la comprensión total todos los conceptos de los temas que he mencionado anteriormente, creo que eso es de las cosas más importantes que podemos ofrecer a nuestro equipo de trabajo, pues nuestro entendimiento ayudarán a resolver las dudas más simples o bien aquellas que aparentemente no tienen solución.
+
+Conocer de política, biología, humanidades, medicina o cualquier otra cosa no resta nada, en éste punto donde se está emprendiendo este camino, todo esto suma, pues ofrecerás soluciones para alguna de estas áreas y debes de conocer muy bien qué es lo que pretendes resolver, porque tú puedes comprenderlo de tal manera que podrías experimentarlo, y eso ayudará a que tus empleadores vean en ti a una persona de confianza que no solamente conoce de tecnología sino también sabe el tipo de problema que se enfrenta.
+
+Al final, como se puede observar, todo esto se trata de conocimiento y de sus aplicaciones, a través de la tecnología usando técnicas, métodos y herramientas.
