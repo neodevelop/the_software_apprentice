@@ -3,6 +3,7 @@
 :email: neodevelop@gmil.com
 :doctype: book
 :toc: left
+:toc-title: Contenido de estas memorias
 :icons: font
 :lang: es
 :source-highlighter: coderay

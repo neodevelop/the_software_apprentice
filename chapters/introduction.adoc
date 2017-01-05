@@ -1,3 +1,6 @@
+
+[abstract]
+
 Para el momento en el que escribo esto tendré poco más de 17 años de haber comenzado mi carrera en el desarrollo de software, a lo largo de todo este tiempo he podido ver avances personales y profesionales qué son los que me gustaría compartir aquí, con el objetivo de que otros desarrolladores aprendan y acorten su camino basados en la experiencia que puedo ofrecerles, y también, guiarlos a través elementos muy simples que les permitan saber que pasos tomar a continuación en su carrera como profesionales de software.
 
 He tenido la oportunidad de desarrollar en diferentes plataformas, tecnologías también, he podido aplicar algunos métodos y técnicas existentes dentro del desarrollo de software, pero siempre enfrento el mismo problema cuando de iniciar alguien se trata dentro de esta carrera.
@@ -12,6 +15,7 @@ Es por esto, que podido identificar algunos elementos que haciendo comunes en lo
 
 Todo lo escrito aquí, está enfocado a guiar a un aprendiz de software que tenga la pasión de emprender en camino muy largo lleno de frustraciones satisfacciones, pero tan importante como poder hacer la carrera de un abogado o doctor o cualquier otra disciplina que impacte la vida de las personas.
 
+[preface]
 == A quién va dirigido
 
 Creo que es importante mencionar que todo lo que puedas leer aquí está orientado a desarrolladores de software, sin embargo, bien podría servirte para algunos aspectos en alguna de las ramas alternas de la tecnología o de la ciencias computacionales en las que te deseas desempeñar, pero quiero hacer mucho énfasis en el hecho de que si estás pensando en ser un desarrollador de software y te agrada mucho la tecnología, pero sobretodo quieres aprender continuamente de todos los cambios que existen actualmente del mercado, entonces creo que lo que estoy escribiendo aquí podré ayudarte.
