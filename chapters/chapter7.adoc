@@ -1,1 +1,8 @@
+
 === Capítulo 7. Herramientas necesarias
+
+===== Manejo del Sistema Operativo
+
+===== Un editor de texto
+
+===== Un control de versiones

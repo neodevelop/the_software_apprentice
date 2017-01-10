@@ -1,1 +1,6 @@
+
 === Capítulo 10. Teoría y pragmatismo en el software
+
+==== ¿Cuándo ser pragmatico?
+
+==== ¿Cuándo apoyarse en la teoría?
