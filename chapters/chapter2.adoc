@@ -28,8 +28,20 @@ Entre mayor sea el esfuerzo que inviertas al aprender algún elemento, mayor ser
 
 ==== Tiempo
 
-Uno de los elementos que más tienes cuando estás estudiando es el tiempo,
+Uno de los elementos que más tienes cuando estás iniciando es el tiempo, Y deberás aprovecharlo de la mejor manera, investigando, leyendo O bien practicando.
 
-==== dinero
+Creo que uno de los hechos que marca la diferencia en algunas carreras conocidas de los profesionales de software es la forma en la que invierten su tiempo para avanzar de alguna manera, me refiero a que deberás de usarlo para conocer no solamente de tecnología, sino también de elementos que conciernen a las humanidades, la literatura, tal vez la biología, la sociedad, incluso podría decirte algunos elementos relacionados con el ocio y la cultura, pues es bien conocido que entre los desarrolladores se acostumbra una buena taza de café O un buen tarro de cerveza, de un videojuego inclusive, Y deberás de conocer al respecto de esto o algunas otras actividades que te permitan relacionarte con muchas más personas que incluso no compartan tus mismos gustos.
 
-Definitivamente, si tienes la posibilidad de acortar un camino literal en tu carrera, deberías hacerlo y enfocarlo en aquello que deseas lograr.
+Deberás de darte la oportunidad de conocer más al respecto de la cultura digital y todo lo que lo rodea, de los elementos E ideas que puedes adoptar Y probar para usar en tu vida diaria, Aplicaciones que existen hoy en día y programas que harán las cosas por ti.
+
+En definitiva, lo que creo es que deberás ser muy cuidadoso al explorar ciertas herramientas en las cuales tendrás que invertir un espacio en tu día Y que seguramente te beneficiarán una vez que las hayas dominado o aprendido, bien se dice que una herramienta puede ahorrarte mucho tiempo y esfuerzo cuando verdaderamente cumple su función.
+
+Te encontrarás en algún momento con el problema en donde pareciera ser que el tiempo que tienes disponible es muy poco O casi nulo, piénsalo bien pues tal vez tienes espacios o huecos de tiempo que puedes aprovechar para avanzar en algo que estés haciendo, Y no me refiero a llevarte una computadora a todas partes para que estés programando, me refiero más al hecho de que lleves contigo un libro O un medio de reproducción de audio que te permita leer al respecto de un tema mientras estás viajando en el transporte público, O bien escuchar algún podcast de tecnología O programación que te dé de alguna idea de cómo se expresan otras personas al respecto, incluso en el mejor de los casos podrás descargar videos que podrás reproducir en algún dispositivo con los que se encuentran actualmente Y verlos durante el camino al trabajo, a la escuela, O a tu casa.
+
+Considera una cuenta muy simple en donde un día tiene 24 horas, si tú durmieras ocho horas Y estuvieras en tu escuela O en tu trabajo Durante otras ocho horas Y el tiempo de transporte te tomará alrededor de tres horas, aún te quedan cinco de las cuales podrías tomar tres para tus alimentos Y actividades cotidianas, te quedan aún 2 horas al día que puedes usar en ti, en tu carrera como profesional, ya sea con algún libro o curso, con un video o simplemente aprendiendo un lenguaje nuevo, y si sólo lo sumas entonces tendrás 14 horas a la semana. Pero reflexiona, siendo honestos no dormimos 8 horas, yo diría que a veces es menos, y no trabajamos 8 horas, incluso también podría decir que es menos, entonces piénsalo de nuevo por un momento por que tal vez tengas más tiempo del que planteo aquí.
+
+Lo que digo es que como lo sugirió Robert C. Martin en el libro _”The clean coder”_, tienes que dedicarle un tiempo sustancioso a ti como profesional, y a tu carrera como lo que eres y representas.
+
+==== Dinero
+
+Definitivamente, si tienes la posibilidad de acortar un camino literal en tu carrera, deberías hacerlo Y enfocarlo en aquello que deseas lograr.
