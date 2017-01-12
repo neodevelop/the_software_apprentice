@@ -40,8 +40,20 @@ Te encontrarás en algún momento con el problema en donde pareciera ser que el 
 
 Considera una cuenta muy simple en donde un día tiene 24 horas, si tú durmieras ocho horas Y estuvieras en tu escuela O en tu trabajo Durante otras ocho horas Y el tiempo de transporte te tomará alrededor de tres horas, aún te quedan cinco de las cuales podrías tomar tres para tus alimentos Y actividades cotidianas, te quedan aún 2 horas al día que puedes usar en ti, en tu carrera como profesional, ya sea con algún libro o curso, con un video o simplemente aprendiendo un lenguaje nuevo, y si sólo lo sumas entonces tendrás 14 horas a la semana. Pero reflexiona, siendo honestos no dormimos 8 horas, yo diría que a veces es menos, y no trabajamos 8 horas, incluso también podría decir que es menos, entonces piénsalo de nuevo por un momento por que tal vez tengas más tiempo del que planteo aquí.
 
-Lo que digo es que como lo sugirió Robert C. Martin en el libro _”The clean coder”_, tienes que dedicarle un tiempo sustancioso a ti como profesional, y a tu carrera como lo que eres y representas.
+Lo que digo es que como lo sugirió robert c. Martin en el libro _”the clean coder”_, tienes que dedicarle un tiempo sustancioso a ti como profesional, y a tu carrera como lo que eres y representas, deberás dedicarle también un tiempo a descansar y dormir, inspirarte y retomar energía para el aspecto creativo, a planear lo que tienes que hacer entre trabajo y en tu persona, revisando los objetivos que has logrado de forma periódica.
+
+Todo esto te servirá para que administres correctamente uno de los recursos que jamás se recupera, el que no puedes comprar y que te gustaría aprovechar con las personas buenas actividades que más te gustan.
 
 ==== Dinero
 
-Definitivamente, si tienes la posibilidad de acortar un camino literal en tu carrera, deberías hacerlo Y enfocarlo en aquello que deseas lograr.
+Definitivamente, si tienes la posibilidad de acortar un camino literal en tu carrera, deberías hacerlo y enfocarlo en aquello que deseas lograr.
+
+No todos tenemos esta oportunidad, sin embargo, siempre será bueno ahorrar para invertir en uno mismo a través de algún curso o una conferencia, que tal vez sea gratuita pero que no se encuentra en tu localidad, si no en alguna parte muy lejana en la cual tendrás que comprar algún boleto de autobús o de avión para poder asistir.
+
+A lo que me refiero es que definitivamente tendrás que invertir recursos económicos en tu carrera, pero tendrás que ser diligente con lo que gastas y observar detenidamente que quieres lograr con lo que estás gastando.
+
+Actualmente, la cantidad de recursos que puedes acceder y que tienen un precio modesto son muchos, desde videos con un gran contenido y edición que te permiten digerir mucho conocimiento, libros que puedes encontrar en descuentos en algunos días, o talleres cortos que ofrecen un conocimiento muy particular aunque no sea referente a tecnología.
+
+Considera lo siguiente por un momento, seguramente has usado algún software entre equipo de cómputo o en algún dispositivo móvil, el cual has disfrutado y usado, o inclusive te ha sacado de algún apuro, este software es gratuito; ahora bien, considera el software que tú estás haciendo y que otras personas podrían ocupar para beneficiarse por resolver un problema justo como tú lo hiciste, si tú no estás pagando por un software que estás usando y que te es muy útil,¿porque alguien más tendría que pagar el software que tu haces, con la calidad cualquiera que sea, que puedes ofrecer? No quiero que me mal entiendan, a lo que me refiero es que aveces hay software que podríamos comprar y esta en nuestras manos, los precios de algunas aplicaciones son muy pequeñas y alcanzables por muchas personas, tu como desarrollador de software deberías de invertir también en software, deberías de comprar el software que otras personas hacen o bien contribuir de forma económica a las aportaciones que solicitan.
+
+Todo esto podrá crear una cultura que le permita a cualquier individuo comprar software de forma muy común, justo como hoy compramos cualquier artículo, la gente también podrá comprar o colaborar con el software que tú estás haciendo. Al final del día, este es el tema al que quiero llegar, el poder transmitir la cultura de adquirir software o servicios basados en software que verdaderamente aportan un valor, resuelvan un problema o una necesidad, o generen alguna ganancia o retribución aún a comunidad de personas, que no necesariamente tendría que ser económica.
