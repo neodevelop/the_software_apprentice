@@ -1,10 +1,38 @@
 
 === Capítulo 3. No escuches a nadie
 
-Hace mucho tiempo escuche a unos compañeros con los que estudie
+==== No escuches a tus compañeros/amigos
 
-No escuches a tu padres
+Hace mucho tiempo después de que salí de la universidad, platiqué con algunos de mis compañeros con los que había estudiado y dado que ya habían pasado algunos años desde que regresamos, vino a la mesa la inevitable platicar al respecto de qué estás haciendo o en qué estás trabajando ahorita, esta plática puede resultar un poco incómoda dependiendo de donde la tomes, quiero explicar porqué, parafraseando un poco la charla iba algo así:
 
-No escuches los consejos de tus amigos
+p1: oigan, y que están haciendo ahorita? Ya tiene algunos años que salimos de la universidad…
+p2: yo ahorita estoy de gerente de administración tecnológica…
+p3: yo soy líder de proyecto en la empresa donde trabajo…
+p4: yo estoy de project manager en la implementación de un erp
+p1: yo soy encargado de la administración de ser servidores e infraestructura para varias empresas…
+yo: yo estoy programando!!!
+Todos: queeeeee?
+P3: acaso no has pedido un ascenso?
+P2: aún sigues programando?
+P1: por qué no has avanzado?
 
-No escuches a aquellos que te dicen que no puedes
+La reacción de mis compañeros podría parecer muy obvia, bajo el contexto en el cual posiblemente ellos están formando una carrera, sin embargo, hay algo que ellos no saben porque posiblemente no han visto, y he aquí varias preguntas que deberías de hacer:
+
+¿Qué significa ascender?, ¿Qué significa seguir programando?, ¿Qué es realmente avanzar como profesional?, ¿Qué es crecer?, ¿Qué es el éxito?, ¿Qué es lo que realmente quieres hacer o conseguir?
+
+Lo que ellos no saben es que si he crecido, he avanzado, inclusive podría apostar que en ese momento me ingreso económico por mi trabajo era similar o inclusive un poco superior al de alguno de ellos, porque realmente lo que ellos estaban buscando era un reconocimiento, una posición o un título elegante que les permitiera describir su trabajo, y yo solamente estuve buscando nuevas formas de resolver problemas, que me permitieran enfrentar retos verdaderamente interesantes y obtener soluciones con todo lo que iba aprendiendo a mi paso.
+
+Un título nobiliario no te hace mejor o peor en el contexto del desarrollo de software por lo menos, yo realmente había conseguido avanzar pues ya conocía más de un lenguaje de programación con el que podía resolver algún problema, ya dominaba un par de frameworks que me permitían ser productivo al desarrollar alguna aplicación, conocía de algunas técnicas y métodos que me permitían garantizar la calidad del software estaba desarrollando, conocía algunas metodologías de trabajo, enseñaba a mis compañeros, conocía cada vez a más gente interesante que resolvía problemas verdaderamente difíciles, yo enfrentaba restos que antes ni siquiera podía imaginar, ¿y no es acaso las ganas de aprender a hacer cosas y resolver problemas lo que me hizo estudiar lo que estudie?, Lo mejor era que lo podía seguir haciendo.
+
+Nuevamente, esto es como la analogía al preguntarle a algún doctor si todavía sigue operando, lo cual denotaría la experiencia que puede proveer en la excelencia técnica que ha alcanzado a lo largo del tiempo ejecutando una y otra vez cada operación, el respeto ganado por haber dominado la maestría de manejar instrumentos y herramientas que le permiten explorar rincones que nadie más ha explorado o que puede sentirse confiado con la forma de hacerlo, sin temor y con certeza, ¿no es acaso lo mismo que queremos hacer con nuestras herramientas en el software?
+
+No quiero que me mal entiendan, lo que quiero decir es que definitivamente si puedes avanzar tu carrera siendo programador, yo me veo siendo programador toda mi vida, y aprendiendo continuamente, adoptando más tecnología y más técnicas, resolviendo nuevos retos y sintiéndome estudiante constante de todos los elementos nuevos que pueda ir encontrando.
+
+También, y de forma colateral tus percepciones aumentarán pues serás de los pocos que pueden hacer algo verdaderamente bien, incluso podrás dominar herramientas antes que muchos y usarlas para hacer cosas como nadie, lo cual, en definitiva te traerá nuevos retos que a su vez tienen sus recompensas.
+
+No veas esto por el efecto económico, pues si lo haces podrás desviarte del verdadero encuentro con el conocimiento, hoy en día el _expertise_ de una tecnología puede ayudarte de muchas maneras, lo alcances tarde o temprano, y conforme pase el tiempo serás cada vez más valioso, muy diferente a otras profesiones en donde el rango de edad para emplearse es muy acotado, en el desarrollo de software cada experiencia cuenta más para el profesional pues tiene lo necesario para resolver una necesidad de magnitudes cada vez superiores.
+
+==== No escuches a tu padres
+
+
+==== no escuches a aquellos que te dicen que no puedes
