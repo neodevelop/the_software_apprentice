@@ -5,12 +5,12 @@
 
 Hace mucho tiempo después de que salí de la universidad, platiqué con algunos de mis compañeros con los que había estudiado y dado que ya habían pasado algunos años desde que regresamos, vino a la mesa la inevitable platicar al respecto de qué estás haciendo o en qué estás trabajando ahorita, esta plática puede resultar un poco incómoda dependiendo de donde la tomes, quiero explicar porqué, parafraseando un poco la charla iba algo así:
 
-p1: oigan, y que están haciendo ahorita? Ya tiene algunos años que salimos de la universidad…
-p2: yo ahorita estoy de gerente de administración tecnológica…
-p3: yo soy líder de proyecto en la empresa donde trabajo…
-p4: yo estoy de project manager en la implementación de un erp
-p1: yo soy encargado de la administración de ser servidores e infraestructura para varias empresas…
-yo: yo estoy programando!!!
+P1: oigan, y que están haciendo ahorita? Ya tiene algunos años que salimos de la universidad…
+P2: yo ahorita estoy de gerente de administración tecnológica…
+P3: yo soy líder de proyecto en la empresa donde trabajo…
+P4: yo estoy de project manager en la implementación de un erp
+P1: yo soy encargado de la administración de ser servidores e infraestructura para varias empresas…
+Yo: yo estoy programando!!!
 Todos: queeeeee?
 P3: acaso no has pedido un ascenso?
 P2: aún sigues programando?
@@ -18,7 +18,7 @@ P1: por qué no has avanzado?
 
 La reacción de mis compañeros podría parecer muy obvia, bajo el contexto en el cual posiblemente ellos están formando una carrera, sin embargo, hay algo que ellos no saben porque posiblemente no han visto, y he aquí varias preguntas que deberías de hacer:
 
-¿Qué significa ascender?, ¿Qué significa seguir programando?, ¿Qué es realmente avanzar como profesional?, ¿Qué es crecer?, ¿Qué es el éxito?, ¿Qué es lo que realmente quieres hacer o conseguir?
+¿que significa ascender?, ¿Que significa seguir programando?, ¿Que es realmente avanzar como profesional?, ¿Que es crecer?, ¿Que es el éxito?, ¿Qué es lo que realmente quieres hacer o conseguir?
 
 Lo que ellos no saben es que si he crecido, he avanzado, inclusive podría apostar que en ese momento me ingreso económico por mi trabajo era similar o inclusive un poco superior al de alguno de ellos, porque realmente lo que ellos estaban buscando era un reconocimiento, una posición o un título elegante que les permitiera describir su trabajo, y yo solamente estuve buscando nuevas formas de resolver problemas, que me permitieran enfrentar retos verdaderamente interesantes y obtener soluciones con todo lo que iba aprendiendo a mi paso.
 
@@ -34,5 +34,18 @@ No veas esto por el efecto económico, pues si lo haces podrás desviarte del ve
 
 ==== No escuches a tu padres
 
+no quiero que me mal entiendan, solamente quiero que consideren el contexto cultural en donde en algún momento en el tiempo la obtención de un título universitario o certificado era valorado de diferente manera, en donde la percepción de tus padres o familiares que te conocen les dice que estudiando podrás alcanzar títulos, y alcanzando títulos tendrás nuevas oportunidades, y por ende te irá mejor en la vida. Pues bien, hoy tenemos casos en donde hay gente que no terminó la escuela y que ha tenido algún tipo de éxito, no me refiero solamente lo económico, en otros casos también es concerniente el aspecto social, es decir cuántas personas ha impactado, o bien incluso los descubrimientos que ha hecho en su campo o el desarrollo de alguna nueva tecnología.
 
-==== no escuches a aquellos que te dicen que no puedes
+Tus padres te dirán que estudies, pues es ahí en donde se encuentra el éxito, y creo estar de acuerdo con todas aquellas personas que te dicen que estudies, sin embargo, no todo el estudio se encuentra dentro de la escuela, inclusive en algunos casos el verdadero conocimiento que tú podrías ocupar en tu carrera como profesional definitivamente no lo vas encontrar ahí, sino en alguna biblioteca. La percepción es que si tú vas al escuela, asistes, y de alguna manera te gradúas entonces te irá bien en la vida. Pues bien, puede ser así en algunos casos, más puedes encontrar oportunidades en caminos alternos que inclusive no tienen nada que ver con la escuela, pero sí con estudiar y practicar.
+
+Comprende a tus padres que te dicen que estudies, pero también hazles comprender que el verdadero estudio y fuente de conocimiento puede encontrarse de muchas maneras.
+
+Enfréntante en una entrevista, asiste a algunas de ellas, inclusive si aún no has terminado la escuela, no importa, pues lo que vas a conocer es un proceso de selección que está allá afuera y en donde seguramente lo peor que te puede pasar es que te acepten.
+
+Y tú debes de comprender que en el aspecto social la apariencia dicta que entre más estudies en una escuela mejores oportunidades tendrás, lo importante aquí es saber que esas oportunidades te las puedes forjar independientemente de la escuela, pero debes de estar preparado para ellas con tu estudio.
+
+También quiero resaltar que seguramente en alguna escuela a la que asistas existen personas que te van a hacer ver las cosas de una forma diferente, incluso ayudarte a mejorarte, seguramente así será, pero lo que yo te estoy diciendo es que no dejes tu carrera solamente en las manos de aquellas personas en las cuales su trabajo es apoyarte, sino que tomes tu carrera en tus manos, enfrentes a tus padres y les hagas comprender que por lo menos el desarrollo de software tiene aspectos que muchas escuelas no ha podido abarcar como se necesita actualmente.
+
+No digo que te reveles de una forma arrogante, sino que comprendas el hecho de que la sociedad en muchos aspectos tradicionales se rige por ciertos elementos los cuales hoy no aplican tanto como quisiéramos.
+
+Finalmente, lo que quiero decir con todo esto es que el único responsable de tu carrera profesional eres tú.
