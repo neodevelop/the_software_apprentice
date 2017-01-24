@@ -1,4 +1,52 @@
 
-=== Capítulo 4. Entusiasmo, motivación y actitud (¿Cuánto vales?)
+=== Capítulo 4. Entusiasmo, motivación y actitud (¿cuánto vales?)
 
-La fórmula V = (C + H) * A
+> Las personas somos como bombillas con patas, hay personas que van a 30mil vatios y hay personas que van fundidas... - Víctor küppers
+
+==== La fórmula `v = (c + h) * a`
+
+En mucho tiempo no había encontrado una forma de describir la manera en que un aprendiz puede desempeñarse, y una vez escuche a víctor küppers, quién comentó en menos de 18 minutos el valor de una persona. El lo describe en una fórmula: `v = (c + h) * a`.
+
+En donde:
+
+*c* es el *conocimiento*, el cúal es importante pues te permitirá aplicarlo en el momento que identifiques la situación.
+
+*h* es la *habilidad*, la cuál es necesaria para ejecutar y tiene que ser elemento de práctica diaria.
+
+Ambas suman y es crucial alimentarlas para poder alcanzar algo denominado la _excelencia técnica_, sin embargo hay un elemento remarcable:
+
+*a* es la *actitud*, la cuál múltiplica o anula tu conocimiento y tus habilidades, y creo que de toda la fórmula es lo más importante.
+
+Cuando comienzas una carrera, tus habilidades y conocimientos son pequeños de alguna forma, hay mucho por aprender y hay mucho por practicar, por lo tanto tu actitud podría multiplicar por mucho lo que tengas al comenzar.
+
+Pero, ¿qué tipo de actitud debes de tomar?, Me refiero a la disponibilidad de poder hacer cosas que antes no hacías y también a vencer ciertos miedos, seguramente estarás en una situación en donde no habías estado anteriormente y te enfrentarás a problemas de los cuales desconoces su solución, sin embargo siempre habrá una forma de enfrentar a ambos, y es siendo totalmente honesto con lo que sabes y lo que puedes hacer.
+
+Tendrás que comenzar a medir tus actividades y la forma en cómo las haces, los elementos que involucras y el tiempo que gastas en ello, podrás notar que existirán mejorías conforme lo vas haciendo y es ahí tu oportunidad para mejorar la actitud que tomas ante los nuevos retos.
+
+A veces, tomarás algún problema y lo verás fácil, sin embargo te darás cuenta que hay muchos otros elementos a considerar y que seguramente no habías pensado, es por esto que debes de tomar en cuenta algo de prudencia para ejecutar. En otros casos, verás muy complicado el problema y cuando lo estés ejecutando te darás cuenta que realmente estuvo muy fácil, y cuando eso ocurra también deberías de adoptar una actitud al respecto.
+
+A lo que me refiero es que seguramente necesitarás ser pro-activo en muchas cosas, proponer ideas y soluciones, las cuales podrían ser viables y quiero comentar el porque. Muchas veces cuando ciertas personas con experiencia discuten la solución de un problema, ven diseños con un grado de complejidad que en algunas ocasiones no les permite proponer una solución más simple que cumple bien con los requisitos, es entonces cuando la visión de alguien que no tiene experiencia y que posiblemente sea muy objetivo puede ser de gran ayuda.
+
+A lo que me refiero con lo anterior, es que deberás de exponer tus propuestas y no quedarte callado pensando que realmente no sabes porque no tienes experiencia, muchas veces las soluciones simples que puedes proponer como aprendes son lo suficiente mente buenas como para implementar las seis cumplir perfectamente bien con un requerimiento.
+
+Mi sugerencia siempre será que expongas todas las propuestas que tengas pues realmente el ánimo y la frescura de las mismas puede motivar al equipo a ver una solución diferente, inclusive enfocada a nuevos paradigmas o tecnologías que pueden ser aplicados.
+
+También deberás de mantener tu curiosidad constantemente, hoy en día creo que mi curiosidad es mayor a cuando comencé con esto y es eso lo que me ha permitido investigar nuevas formas y tecnologías para resolver problemas, es por esto que le invitaciones a qué te mantengas siempre en búsqueda de nuevos elementos que te mantengas siempre en tiempo, forma o desempeño de una actividad.
+
+Hay algo importante que debes de saber, cuando ya tienes más experiencia y por lo tanto conocimiento y habilidad, tu actitud puede decrecer o inclusive ser nula, lo cuál, reduce de todas formas tu valor como persona.
+
+No crezcas tu ego, mantén siempre una actitud proactiva y propositiva, humilde y positiva, que te permite encajar en cualquier equipo y que te dé la oportunidad de conocer las soluciones propuestas por tus compañeros.
+
+Y mejor aún, transmiten tu forma de pensar recordando cómo comenzaste y lo que has alcanzado, enseña a través del ejemplo y hagas pensar o cuestionarse a aquellas personas que también están comenzando este camino, hazles las mismas preguntas que te hiciste tú en algún momento y llévalos a que ellos mismos busquen su conocimiento.
+
+Trata de hacer no sólo lo que se te pide, si no tener una forma de que alguien más lo adopte en dado caso de que tú no estés y pueda entenderlo perfectamente bien, pues es esta la prueba de fuego que te permitirá saber si lo que has escrito en tu código es entendible y transmite eso que querías resolver de la forma en que tú lo pensaste.
+
+Al final del día piensen esto, una de las formas constantes que tenemos los programadores de comunicarnos es a través del código, te pasarás bastante tiempo leyendo código para poder comprender las ideas de los demás. Es por esto que incluso creo que tu actitud se ve reflejada en la forma en cómo escribes código y las pruebas del mismo.
+
+No menos importante, buscar la satisfacción e inclusive podría atreverme a decir la felicidad en estos esfuerzos que haces poniendo una actitud, digamos positiva y colaborativa, pues al final del día son los pequeños logros los que satisfacen nuestras frustraciones y ganas de hacer más.
+
+Busca también elementos inclusive artísticos que alimenten la inspiración y tu lado creativo, sonaba un poco ridículo tal vez, pero hay muchos elementos que te ayudan a crear soluciones e imaginar nuevos diseños, muchos de ellos yo creo que vienen de estilos como la ciencia-ficción, la comedia, el terror, los videojuegos, las pinturas, el baile, la arquitectura, y muchas otras cosas que a pesar de que no están directamente ligadas con nuestra carrera siempre nos darán una forma de olvidarnos de aquellos problemas qué estábamos enfrentando y ser objetivos para poder resolverlos.
+
+Entre otras tantas cosas, mi sugerencia siempre será que no te obsesiones con la solución a un problema, específicamente sillas son las dos de la mañana y no lo puede resolver, te darás cuenta, si no es que ya lo has hecho, que al día siguiente después de haber dormido y desayunado, o tal ves mientras te estás bañando, se te ocurre una solución, llegas a tu computadora y empiezas a teclear, y mágicamente en media hora haz resuelto lo que durante horas del día anterior no pudiste.
+
+Mi recomendación con anterior es descansa, duerme, come y despeja tu mente para poder tener claridad al codificar.
