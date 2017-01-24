@@ -1,4 +1,16 @@
 
 === Capítulo 5. Pasión (ámalo o déjalo)
 
+> Elegir es renunciar... - Todos los Amos.
+
 Tienes que tomar una decisión, aunque podría ser un paso más en tu vida, podrías bien dedicarte toda la vida.
+
+==== Estos son los hechos...
+
+La verdad sea dicha, no necesitas estudiar una carrera para dedicarte a programar, sin embargo, ayuda mucho que tengas conocimientos esenciales al respecto de todo lo que rodea la ciencias de la informática en la computación, Y también ayuda mucho el hecho de que conozcas otros giros O actividades que no tengan que ver con la programación.
+
+También tienes que saber, que no es malo estar en una escuela, pero debes de tener claras tus expectativas Y la realidad que estás enfrentando en ese momento, aló que me refiero es al hecho de qué si buscas que la escuela te enseñe técnicas de programación o algún lenguaje, seguramente encontrarás alguna que lo haga en algún momento, sin embargo he visto muchos casos en donde es ocurre al iniciar una carrera pues muchos elementos están enfocados a realizar actividades administrativas o similares, Lo cual tampoco está mal.
+
+Tienes que darte cuenta que programar es una actividad multidisciplinaria, que necesitaran de muchas áreas de conocimiento Y que siempre será bueno conocer todo aquello que se te presenta, ya sé que ver con finanzas y contabilidad O incluso con matemáticas, O con medicina, porque no sabes qué que es lo que te va tocar desarrollar cuando estés en tu profesión.
+
+Y también, tendrás que realizar actividades adicionales que te ayuden a adoptar herramientas o lenguajes para poder verdaderamente resolver problemas con ayuda de la tecnología usando tus habilidades como programador, Aunque siempre tendrás la opción de usar el software que alguien mas hizo Y aplicar esa solución, lo cual tampoco es malo, te darás cuenta que todas estas las encontrarás en recursos colgados en Internet O en libros muy especializados, los cuales hablaremos mucho más adelante.
