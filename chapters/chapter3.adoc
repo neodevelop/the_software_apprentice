@@ -5,16 +5,18 @@
 
 Hace mucho tiempo después de que salí de la universidad, platiqué con algunos de mis compañeros con los que había estudiado y dado que ya habían pasado algunos años desde que regresamos, vino a la mesa la inevitable platicar al respecto de qué estás haciendo o en qué estás trabajando ahorita, esta plática puede resultar un poco incómoda dependiendo de donde la tomes, quiero explicar porqué, parafraseando un poco la charla iba algo así:
 
-P1: oigan, y que están haciendo ahorita? Ya tiene algunos años que salimos de la universidad…
-P2: yo ahorita estoy de gerente de administración tecnológica…
-P3: yo soy líder de proyecto en la empresa donde trabajo…
-P4: yo estoy de project manager en la implementación de un erp
-P1: yo soy encargado de la administración de ser servidores e infraestructura para varias empresas…
-Yo: yo estoy programando!!!
-Todos: queeeeee?
-P3: acaso no has pedido un ascenso?
-P2: aún sigues programando?
-P1: por qué no has avanzado?
+[horizontal]
+Omar:: oigan, y que están haciendo ahorita? Ya tiene algunos años que salimos de la universidad...
+Víctor:: yo ahorita estoy de gerente de administración tecnológica...
+Nadia:: yo soy líder de proyecto en la empresa donde trabajo...
+Roberto:: yo estoy de project manager en la implementación de un erp...
+Omar:: yo soy encargado de la administración de ser servidores e infraestructura para varias empresas...
+Yo:: yo estoy programando!!!
+Todos:: queeeeeé?
+Nadia:: acaso no has pedido un ascenso?
+Víctor:: aún sigues programando?
+Omar:: por qué no has avanzado?
+
 
 La reacción de mis compañeros podría parecer muy obvia, bajo el contexto en el cual posiblemente ellos están formando una carrera, sin embargo, hay algo que ellos no saben porque posiblemente no han visto, y he aquí varias preguntas que deberías de hacer:
 
@@ -34,7 +36,7 @@ No veas esto por el efecto económico, pues si lo haces podrás desviarte del ve
 
 ==== No escuches a tu padres
 
-no quiero que me mal entiendan, solamente quiero que consideren el contexto cultural en donde en algún momento en el tiempo la obtención de un título universitario o certificado era valorado de diferente manera, en donde la percepción de tus padres o familiares que te conocen les dice que estudiando podrás alcanzar títulos, y alcanzando títulos tendrás nuevas oportunidades, y por ende te irá mejor en la vida. Pues bien, hoy tenemos casos en donde hay gente que no terminó la escuela y que ha tenido algún tipo de éxito, no me refiero solamente lo económico, en otros casos también es concerniente el aspecto social, es decir cuántas personas ha impactado, o bien incluso los descubrimientos que ha hecho en su campo o el desarrollo de alguna nueva tecnología.
+No quiero que me mal entiendan, solamente quiero que consideren el contexto cultural en donde en algún momento en el tiempo la obtención de un título universitario o certificado era valorado de diferente manera, en donde la percepción de tus padres o familiares que te conocen les dice que estudiando podrás alcanzar títulos, y alcanzando títulos tendrás nuevas oportunidades, y por ende te irá mejor en la vida. Pues bien, hoy tenemos casos en donde hay gente que no terminó la escuela y que ha tenido algún tipo de éxito, no me refiero solamente lo económico, en otros casos también es concerniente el aspecto social, es decir cuántas personas ha impactado, o bien incluso los descubrimientos que ha hecho en su campo o el desarrollo de alguna nueva tecnología.
 
 Tus padres te dirán que estudies, pues es ahí en donde se encuentra el éxito, y creo estar de acuerdo con todas aquellas personas que te dicen que estudies, sin embargo, no todo el estudio se encuentra dentro de la escuela, inclusive en algunos casos el verdadero conocimiento que tú podrías ocupar en tu carrera como profesional definitivamente no lo vas encontrar ahí, sino en alguna biblioteca. La percepción es que si tú vas al escuela, asistes, y de alguna manera te gradúas entonces te irá bien en la vida. Pues bien, puede ser así en algunos casos, más puedes encontrar oportunidades en caminos alternos que inclusive no tienen nada que ver con la escuela, pero sí con estudiar y practicar.
 
