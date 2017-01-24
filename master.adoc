@@ -1,6 +1,6 @@
 = El aprendiz de software
 :author: José Juan Reyes Zuñiga
-:email: neodevelop@gmil.com
+:email: neodevelop@gmail.com
 :doctype: book
 :toc: left
 :toc-title: Contenido de estas memorias
