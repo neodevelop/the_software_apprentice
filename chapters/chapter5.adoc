@@ -1,7 +1,8 @@
 
 === Capítulo 5. Pasión (ámalo o déjalo)
 
-> Elegir es renunciar... - Todos los amos.
+[quote, Todos los amos]
+Elegir es renunciar...
 
 Tienes que tomar una decisión, aunque podría ser un paso más en tu vida, podrías bien dedicarte lo que resta de ella.
 
@@ -9,30 +10,34 @@ Tienes que tomar una decisión, aunque podría ser un paso más en tu vida, podr
 
 La verdad sea dicha, no necesitas estudiar una carrera para dedicarte a programar, sin embargo, ayuda mucho que tengas conocimientos esenciales al respecto de todo lo que rodea la ciencias de la informática y la computación, y también ayuda mucho el hecho de que conozcas otros giros o actividades que no tengan que ver con la programación.
 
-También tienes que saber, que no es malo estar en una escuela, pero debes de tener claras tus expectativas y la realidad que estás enfrentando en ese momento, a lo que me refiero es al hecho de qué si buscas que la escuela te enseñe técnicas de programación o algún lenguaje, seguramente encontrarás alguna que lo haga en algún momento, sin embargo he visto muchos casos en donde eso solo ocurre al iniciar una carrera, pues muchos elementos están enfocados a realizar actividades administrativas o similares, lo cual tampoco está mal.
+También tienes que saber, que no es malo estar en una escuela, pero debes de tener claras tus expectativas y la realidad que estás enfrentando en ese momento, a lo que me refiero es al hecho de qué si buscas que la escuela te enseñe técnicas de programación o algún lenguaje, seguramente encontrarás alguna que lo haga en algún momento, sin embargo he visto muchos casos en donde eso solo ocurre al iniciar una carrera, pues muchos elementos están enfocados a terminar haciendo actividades administrativas o similares, lo cual tampoco está mal.
 
-Tienes que darte cuenta que programar es una actividad multidisciplinaria, que necesitarás de muchas áreas de conocimiento y que siempre será bueno conocer todo aquello que se te presenta, ya sea con finanzas y contabilidad o incluso con matemáticas, o con medicina, porque no sabes qué que es lo que te va tocar desarrollar cuando estés en tu profesión.
+Tienes que darte cuenta que programar es una actividad multi-disciplinaria, que necesitarás de muchas áreas de conocimiento y que siempre será bueno conocer todo aquello que se te presenta, ya sea con finanzas y contabilidad o incluso con matemáticas, o con medicina, porque no sabes qué que es lo que te va tocar desarrollar cuando estés en tu profesión.
 
-Y también, tendrás que realizar actividades adicionales que te ayuden a adoptar herramientas o lenguajes para poder verdaderamente resolver problemas con ayuda de la tecnología usando tus habilidades como programador, aunque siempre tendrás la opción de usar el software que alguien más hizo y aplicar esa solución, lo cual tampoco es malo, te darás cuenta que todas estas las encontrarás en recursos colgados en internet o en libros muy especializados, de los cuales hablaremos mucho más adelante.
+Además, tendrás que realizar actividades adicionales que te ayuden a adoptar herramientas o lenguajes para poder verdaderamente resolver problemas con ayuda de la tecnología usando tus habilidades como programador, aunque siempre tendrás la opción de usar el software que alguien más hizo y aplicar esa solución, lo cual tampoco es malo, te darás cuenta que todas estas las encontrarás en recursos colgados en internet o en libros muy especializados, de los cuales hablaremos mucho más adelante.
 
-Tienes que conseguirás lo siguiente: la escuela no está obligada a enseñarte técnicas de programación y la empresa u organización en la que estés trabajando tampoco está obligada a capacitarte, es decir, la única responsabilidad de aprender a realizar esta actividad es solamente tuya.
+Tienes que entender que la escuela no está obligada a enseñarte técnicas de programación y la empresa u organización en la que estés trabajando tampoco está obligada a capacitarte, es decir, la única responsabilidad de aprender a realizar esta actividad es solamente tuya.
+
+Inclusive, tendrás que enfrentar de siempre con el reto de crear software con herramientas y lenguajes que nunca has conocido, o incluso he escuchado, pero qué es muy importante que conozcas las bases por las cuales están sustentados para que puedas entender la forma en la que te puedes desempeñar.
 
 No es sencillo, pero es muy gratificante y el camino es extremadamente largo, pues mientras más avances mas te darás cuenta de todo lo que te hace falta por conocer y recorrer, sumado a las nuevas herramientas que están saliendo constantemente, o la evolución de alguna plataforma tecnológica.
 
-Es decir, es una profesión la cual puedes pasarte tu vida entera y de ser así, entonces estás leyendo las palabras adecuadas.
+Es decir, es una profesión en la cual puedes pasarte tu vida entera, y de ser así, entonces estás leyendo las palabras adecuadas.
 
 ==== Sólo tienes que decidir.
 
 Definitivamente, considero que no necesitas haber nacido con un talento en la programación, creo que lo único indispensable es la pasión y emoción que te despiertan el hecho de conocer la tecnología y crear herramientas con ella, y con ayuda de la práctica alcanzarás la maestría, la excelencia técnica con la que serás capaz de resolver muchos tipos de problema en diferentes ámbitos o en uno muy particular.
 
-Seguramente conocerás personas que pareciera que nacieron con esta habilidad, sin embargo al preguntarles a muchos de ellos siempre han respondido qué realmente lo que han hecho es que le han dedicado mucho de su tiempo libre a aprender, y experimentar con los que han aprendido. Es entonces cuando la vocación emerge, y la práctica constante de tus actividades harán que algún día aparezca que has nacido con un talento muy particular para la programación.
+Seguramente conocerás personas que pareciera que nacieron con esta habilidad, sin embargo al preguntarles a muchos de ellos siempre han respondido qué realmente lo que han hecho es que le han dedicado mucho de su tiempo libre a aprender, y experimentar con lo que han aprendido. Es entonces cuando la vocación emerge, y la práctica constante de tus actividades harán que algún día parezca que has nacido con un talento muy particular para la programación.
 
 Quiero que sepas que definitivamente hay gente talentosa de forma natural, pero que es más la gente que es buena por el hecho de ser constante y es aquí en donde se desprenden varias cosas.
 
-Tú en este momento estás a punto de decidir en el lecho de convertirte en un profesional de software, quiero que sepas que es una gran responsabilidad, casi como la de un doctor, y por lo tanto tendrás que manejar mucha disciplina, esto quiere decir qué tendrás que ser ordenado con muchas de las cosas que haces como requerida de la puntualidad esta persona en todos esos eventos a los cuales vas a asistir y se realizaron desechar constantemente todo aquello que no te sirve para ir depurando tanto tú espacio físico como tu persona.
+Tú en este momento estás a punto de decidir en convertirte en un profesional de software, y quiero que sepas que es una gran responsabilidad, casi como la de un doctor, y por lo tanto tendrás que manejar mucha disciplina, esto quiere decir qué tendrás que ser ordenado con muchas de las cosas que haces, tendrás que ser muy puntual en todas las reuniones a las que asistas, ya sea de alguna comunidad o de trabajo, y tendrás inspeccionar frecuentemente todo aquello que no te es útil para renovarlo.
 
-Tendrás que hacer investigación y desarrollo, seguramente asistieras a eventos y reuniones de comunidades en las cuales encuentres personas que tienen tus mismos intereses con las cuales puedas compartir o consultar alguna duda que tengas, e inclusive convivir de una forma más amigable con ellos.
+Harás investigación y desarrollo, seguramente asistirás a eventos y reuniones de comunidades en las cuales encuentres personas que tienen tus mismos intereses, con las cuales puedas compartir o consultar alguna duda que tengas, e inclusive convivir de una forma más amigable con ellos.
 
-Y es por esto qué quiero que sepas que tendrás que romper un estereotipo al respecto de las personas que hacemos desarrollo de software, la concepción que tiene de aquella persona que solo trabaja de noche en un sótano, que somos raros y muy difíciles para comunicarnos, un profesionales software no es así, es +1 persona extrovertida capaz de entablar conversaciones de diversos temas come que tienen prioridades, crea tecnología de manera responsable, es puntual y ordenado, conoces su área y sabe expresarse entre sus pares y con aquellos que no comprenden de tecnología, es una persona que descansa y disfruta de sus pasatiempos, tiene una familia o una vida social que atender.
+Y es por esto qué quiero que sepas que tendrás que romper un estereotipo al respecto de las personas que hacemos desarrollo de software, la concepción que tienes de aquella persona que solo trabaja de noche en un sótano, que somos raros y muy difíciles para comunicarnos, un profesional de software no es así, es más una persona extrovertida capaz de entablar conversaciones de diversos temas, que que tienen prioridades, crea tecnología de manera responsable, es puntual y ordenado, conoce su área y sabe expresarse entre sus pares y con aquellos que no comprenden de tecnología, es una persona que descansa y disfruta de sus pasatiempos, tiene una familia o una vida social que atender.
 
-Como no es fácil ser un profesional de software, pero si decides hacerlo entonces te encontrarás en tu camino varias satisfacciones como retos y situaciones que te pondrán a prueba en las cuales todas las habilidades humanas que hayas juntado a lo largo del tiempo te ayudarán de sobremanera a enfrentar todo lo desconocido.
+Pareciera que es muy simple viéndolo desde afuera, que se programador sólo se trata de sentarse a escribir tanto código como sea posible, y que entre más tiempo te la pases enfrente de una computadora más código harás. Pues bien, gran parte del tiempo que estarás programando te la pasaras leyendo tanto código, como documentos y estarás concibiendo soluciones en tu mente en alguna charla, en algún café, o inclusive en la hora de la comida, al que me refiero es que programar es una actividad que no necesariamente requiere de una computadora para ejercerse, si no de la forma en la cual se diseñan soluciones basadas en tecnología y de la creatividad que tienes para resolver los problemas.
+
+Como ves no es fácil ser un profesional de software, pero si decides serlo entonces te encontrarás en tu camino varias satisfacciones como retos y situaciones que te pondrán a prueba en las cuales todas las habilidades humanas que hayas juntado a lo largo del tiempo te ayudarán de sobremanera a enfrentar todo lo desconocido.
