@@ -1,8 +1,8 @@
 
 === Capítulo 1. ¿Qué es un profesional de software?
 
-> ...Los profesionales, en su mayoría, están sujetos a estrictos códigos de conducta, rigurosa ética profesional y obligación moral con la sociedad.
-> — Wikipedia
+[quote, Wikipedia]
+...Los profesionales, en su mayoría, están sujetos a estrictos códigos de conducta, rigurosa ética profesional y obligación moral con la sociedad.
 
 Piensa en un buen doctor, y analiza por un momento, verás que está rodeado de varios elementos que son proyectados a través de su cultura y la forma como se dirige a las personas, incluyendo sus propios compañeros. Verás que en esa persona que puede llegar a ser admirable, hay conocimiento, una buena comunicación, podrías incluir buenos hábitos y costumbres, una gran responsabilidad, y el deseo de ayudar a la gente de alguna manera. Veras también que es el resultado de años de estudio y práctica, y que constantemente sigue ejerciendo, practicando, estudiando y tratando de ser mejor el usuario, en algunos casos especializándose en algo muy particular.
 

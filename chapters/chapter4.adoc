@@ -1,7 +1,8 @@
 
 === Capítulo 4. Entusiasmo, motivación y actitud (¿cuánto vales?)
 
-> Las personas somos como bombillas con patas, hay personas que van a 30mil vatios y hay personas que van fundidas... - Víctor küppers
+[quote, Víctor küppers]
+Las personas somos como bombillas con patas, hay personas que van a 30mil vatios y hay personas que van fundidas...
 
 ==== La fórmula `v = (c + h) * a`
 
