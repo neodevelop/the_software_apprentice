@@ -1,8 +1,81 @@
 
 === Capítulo 7. Herramientas necesarias
+[quote, Benjamin Franklin]
+La oxidación por falta de uso gasta mucho más las herramientas que el propio trabajo.
 
-==== Manejo del Sistema Operativo
+Un aspecto de suma importancia son las herramientas que escogemos para trabajar, pues muchas de ellas son de vitales para poder realizar nuestro trabajo de manera eficiente y aprovechando al máximo nuestro esfuerzo.
+
+Quiero comenzar con la definición, la que encuentras en la wikipedia:
+
+> “una herramienta es un objeto elaborado con fin de facilitar la realización de una tarea mecánica que requiere de una aplicación correcta de energía.”
+
+Es aquí en donde parte todo lo que necesitas saber al respecto de las herramientas, pues deberías de adoptar aquellas que te permitan aplicar el esfuerzo necesario para obtener un buen resultado, es decir, deberías de desechar aquellas herramientas en las cuales gastas más energía y obtienes un resultado mínimo, o inclusive aquellas en las cuales adaptas el problema a la herramienta.
+
+Sin embargo, como muchas otras herramientas y como seguramente has aprendido a utilizar utensilios mecánicos, el uso y manipulación requiere de una práctica previa o de un periodo de reconocimiento para conocer el funcionamiento y fin del instrumento que estás usando, con esto me refiero a que deberás de invertir cierto tiempo conociendo lo que quieres usar y para que lo quieres usar, comprenderás entonces que al igual como desarmadores y martillos, que sirven para dos propósitos distintos, también hay herramientas tecnológicas que sirven para propósitos diferentes.
+
+Considera también el hecho de que algunas de ellas están hechas a su vez de otras más simples, por lo que mi recomendación será que profundices en aquellas herramientas que son cada vez más sencillas pues podrás encontrar el verdadero propósito o filosofía en la cual se están basando aquellas que son más sofisticadas.
+
+De lo anterior, el aspecto relevante que deberías reconocer es la filosofía de una herramienta, así como en algún momento las herramientas mecánicas se basaron en principios de física para la aplicación de esfuerzos, las herramientas tecnológicas se basan en aspectos computacionales para la reducción de tiempo, de esfuerzo y automatización de procesos y procesamiento. Muchas de ellas inclusive ya vienen incluidas en las computadoras que usamos diario, simple y sencillamente que conocerlas para poder aprovecharlas.
+
+Con todo esto me gustaría escribir un poco más aquellas que considero esenciales para un aprendiz de software.
+
+==== Conceptos esenciales
+
+Definitivamente creo que hay elementos que deberíamos de conocer ya sea en nuestra época de estudiantes o bien cuando verdaderamente queremos crear aplicaciones de alto desempeño, o por lo menos con un nivel de detalles que se pueda considerar notable.
+
+Por ejemplo, las representaciones numéricas y sus variantes, la notación decimal, las binarias y las hexadecimales, las representaciones internas numéricas que nos llevan a los strings, los números consigne sencillo, las representaciones codificadas(bcd), aquellas de punto flotante y las conversiones entre estas.
+
+Otro grupo sería aquellas operaciones aritméticas que aplican a los binarios y las operaciones bits, es decir la suma, resta, multiplicación y división valores binarios, las operaciones lógicas y porque no la rotación de bits.
+
+En algún momento como desarrolladores nos enfrentamos al problema de la codificación, y una manera de comprender lo que está sucediendo es a través del conocimiento de la representación de caracteres, tales como el ascii o el unicode, los cuales también requieren su atención.
+
+En algunas aplicaciones que controlan el hardware a bajo nivel tenemos de estar conscientes de cosas como la realización de la memoria y el acceso a la misma, el bus de sistema, el direccionamiento y el control, el sistema de reloj y otros conceptos de arquitectura de computadoras, para después comprender elementos como los apuntadores y los arreglos, las estructuras de datos y los registros.
+
+Y aunque parezca increíble, el conocimiento sobre la arquitectura de procesadores también es importante, saber cómo están diseñados e inclusive conocer un poco al respecto del conjunto de instrucciones que están contenidas en algunos de ellos, creo yo que cosas como estas son un buen precedente para comprender conceptos más importantes como concurrencia y paralelismo.
+
+Conocer al respecto del sistema de entradas y salidas puede ayudarnos mucho a comprender la forma en cómo están hechas ciertas aplicaciones, refiriéndome específicamente a aquellas que usan elementos como el gps, la cámara, el teclado, y todas aquellas aplicaciones móviles con las que nos enfrentamos o usamos en nuestros días.
+
+No describo cada uno de estos elementos mencionados porque seguramente podrás encontrar mucha información allá afuera, e inclusive considero que hay literatura mucho más valiosa de la que yo podría ofrecer aquí, sin embargo, si quiero destacar a modo general cada uno de los conceptos con los cuales te podrías enfrentar en un día convencional desarrollando software, hablando profesionalmente claro está.
+
+Por ejemplo, _”Inside the machine”_ de Jon Stokes.
+
+==== Manejo del sistema operativo
+
+muchas cosas están aquí, me refiero a que hoy en día no existe una manera de usar una computadora si no es a través de su sistema operativo, y para un aprendiz de software es estrictamente necesario conocer la forma en como está diseñado el sistema operativo con el cual se va a dedicar a trabajar.
+
+Para alguien que se dedica a desarrollar, el conocimiento de la estructura del sistema operativo es extremadamente importante, ya sea porque desarrollará aplicaciones específicas para dicho sistema operativo o bien porque será la herramienta base de la cual dependerá para crear aplicaciones de cualquier otro tipo.
+
+Definitivamente deberías de conocer al menos dos sistemas operativos, una podría ser el que usas diariamente y otro podría ser aquel que te llamen la atención para alguna aplicación que desees desarrollar.
+
+Hoy en día la atención de estos sistemas operativos es extremadamente sencillo, por lo que te recomendaría que explores alguno de estos inclusive podrías hacerlo sin ensuciar tu equipo de cómputo, pues puedes usar técnicas como la virtualización para instalar sistemas operativos invitados. Sin embargo, a mí me gustaría sugerir algo más que consideró importante para desarrollar software: profundizar en la estructura de un sistema operativo.
+
+Para esto siempre nos podremos basar en elementos bien definidos; ya hablamos que algunos de ellos previamente, pero quiero destacar ahora el siguiente nivel, y para ello puedes basarte en un gran libro: _“Sistemas operativos: diseño e implementación”_ de Andrew Stuart Tanenbaum, en el cual podrás encontrar las partes por las cuales esta estructurado un sistema operativo, inclusive en versiones modernas de dicho libro podrás encontrar ejemplos muy bien conocidos por la industria, en los cuales se ejemplifica la diferencia en los diferentes subsistemas como son el de administración de procesos, el de administración de la memoria, el de entradas y salidas, el sistema de archivos, las interrupciones, entre muchos otros conceptos que son importantes para comprender el funcionamiento el sistema operativo instalado en muchos de los dispositivos modernos, por ejemplo android e ios.
+
+Pero esto no termina aquí, pues deberás de conocer uno de los elementos más importantes para acceder a los recursos de tu sistema operativo, la denominada shell.
+
+Una shell es una interface de usuario para acceder a servicios o programas contenidos dentro de un sistema operativo, mi sugerencia será me uses aquellas interfaces basadas en línea de comando o de texto, pues son rápidas y ocupan muy pocos recursos, algunas leyes son muy sencillas de utilizar, pero al igual que hay muchas otras herramientas deberás escoger aquella que te facilite el trabajo, y a su vez para que esto suceda deberás de conocerla o dedicarle el tiempo necesario para saber que te ofrece.
+
+La historia de las shells es amplia, y no me gustaría detenerme en eso, más bien lo que quiero que sepas y que te aporta valor es que puedes usa varias hoy en día, y cada una de estas te acomodara de forma distinta, pero también tienes que saber que algunas de ellas están disponibles sólo en ciertos sistemas operativos, de los cuales también te sugiero explores la historia o su origen pues gracias a ello podrás explicarte porque cierto grupo de programas contenidos dentro de la shell son distintos o bien en algunos casos algunos no existen, por ejemplo te pongo algunas basados en unix que te recomiendo por lo menos echarles un vistazo:
+
+- Bourne shell _sh_
+- Almquist shell _ash_
+- Debian almquist shell _dash_
+- Bash (unix shell) _bash_
+- Korn shell _ksh_
+- Z shell _zsh_
+- C shell _csh_
+- Emacs shell _eshell_
+- Friendly interactive shell _fish_
+
+Y definitivamente, para ser un poco más pragmático la sugerencia es que explores sistemas operativos basados en unix y linux, y conozcas el tipo que estás usando, pues existen elementos que con tan sólo conocer el origen pueden resolver muchos problemas, voy a poner un ejemplo muy sencillo:
+
+Si estás usando Ubuntu por ejemplo, entonces estás usando un super conjunto de otro sistema operativo llamado Debian, y en este tú puedes instalar paquetes o programas adicionales con la instrucción `apt-get install`, que es justo la misma instrucción con la que haces lo mismo en todos aquellos sistemas operativos basados en Debian como por ejemplo Ubuntu; ahora bien, un sistema operativo famoso para montar aplicaciones es centos, y otro sistema operativo también muy usado para desarrollar software es fedora, ambos están basados en una distribución de linux conocida como red hat, y para instalar paquetes o programas adicionales tu usas el comando `yum install`, el cual funciona en todos estos sistemas operativos, pero no en Ubuntu por que no está basado en redhat sino en Debian. Ahora bien, todos los que he mencionado anteriormente tanto los basados en Debian, como los basados en redhat, cuentan con programas comunes base como por ejemplo `ls`, que sirve para listar el contenido de un directorio, sin embargo, este mismo comando lo puedes encontrar en unix, y esto es porque tanto linux como unix están basados en minix, del cual comparten un grupo de programas comunes.
+
+A lo que me refiero es que si conoces la filosofía con la que fue creado alguna herramienta o elemento dentro de algún sistema operativo, entonces podrás comprender muchas de las cosas al respecto de su funcionamiento.
 
 ==== Un editor de texto
 
-==== Un control de versiones
+==== un control de versiones
+
+
+Al final del día, considero que un profesional software se ve definido en una parte por aquellas herramientas que usa para la construcción de aplicaciones.
