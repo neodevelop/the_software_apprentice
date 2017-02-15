@@ -3,4 +3,8 @@
 
 ==== Sé un aprendiz
 
+Sigue a alguien que te muestre con el ejemplo...
+
 ==== Sé un mentor
+
+Sé el ejemplo de alguien más...

@@ -1,5 +1,6 @@
 
 === Capítulo 7. Herramientas necesarias
+
 [quote, Benjamin Franklin]
 La oxidación por falta de uso gasta mucho más las herramientas que el propio trabajo.
 
@@ -75,7 +76,11 @@ A lo que me refiero es que si conoces la filosofía con la que fue creado alguna
 
 ==== Un editor de texto
 
-==== un control de versiones
+A veces esta es una gran barrera para muchos...
+
+==== Un control de versiones
+
+Necesitas aprender a regresar el tiempo en tu código
 
 
 Al final del día, considero que un profesional software se ve definido en una parte por aquellas herramientas que usa para la construcción de aplicaciones.
