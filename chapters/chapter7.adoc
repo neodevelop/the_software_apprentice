@@ -4,11 +4,11 @@
 [quote, Benjamin Franklin]
 La oxidación por falta de uso gasta mucho más las herramientas que el propio trabajo.
 
-Un aspecto de suma importancia son las herramientas que escogemos para trabajar, pues muchas de ellas son de vitales para poder realizar nuestro trabajo de manera eficiente y aprovechando al máximo nuestro esfuerzo.
+Un aspecto de suma importancia son las herramientas que escogemos para programar, pues muchas de ellas son vitales para poder realizar nuestro trabajo de manera eficiente y aprovechando al máximo nuestro esfuerzo.
 
 Quiero comenzar con la definición, la que encuentras en la wikipedia:
 
-> “una herramienta es un objeto elaborado con fin de facilitar la realización de una tarea mecánica que requiere de una aplicación correcta de energía.”
+> “Una herramienta es un objeto elaborado con fin de facilitar la realización de una tarea mecánica que requiere de una aplicación correcta de energía.”
 
 Es aquí en donde parte todo lo que necesitas saber al respecto de las herramientas, pues deberías de adoptar aquellas que te permitan aplicar el esfuerzo necesario para obtener un buen resultado, es decir, deberías de desechar aquellas herramientas en las cuales gastas más energía y obtienes un resultado mínimo, o inclusive aquellas en las cuales adaptas el problema a la herramienta.
 
@@ -16,7 +16,7 @@ Sin embargo, como muchas otras herramientas y como seguramente has aprendido a u
 
 Considera también el hecho de que algunas de ellas están hechas a su vez de otras más simples, por lo que mi recomendación será que profundices en aquellas herramientas que son cada vez más sencillas pues podrás encontrar el verdadero propósito o filosofía en la cual se están basando aquellas que son más sofisticadas.
 
-De lo anterior, el aspecto relevante que deberías reconocer es la filosofía de una herramienta, así como en algún momento las herramientas mecánicas se basaron en principios de física para la aplicación de esfuerzos, las herramientas tecnológicas se basan en aspectos computacionales para la reducción de tiempo, de esfuerzo y automatización de procesos y procesamiento. Muchas de ellas inclusive ya vienen incluidas en las computadoras que usamos diario, simple y sencillamente que conocerlas para poder aprovecharlas.
+De lo anterior, el aspecto relevante que deberías reconocer es la filosofía de una herramienta, así como en algún momento las herramientas mecánicas se basaron en principios de física para la aplicación de esfuerzos, las herramientas tecnológicas se basan en aspectos computacionales para la reducción de tiempo, de esfuerzo y automatización de procesos y procesamiento. Muchas de ellas inclusive ya vienen incluidas en las computadoras que usamos diario, simple y sencillamente hay que conocerlas para poder aprovecharlas.
 
 Con todo esto me gustaría escribir un poco más aquellas que considero esenciales para un aprendiz de software.
 
@@ -50,7 +50,7 @@ Definitivamente deberías de conocer al menos dos sistemas operativos, una podr�
 
 Hoy en día la atención de estos sistemas operativos es extremadamente sencillo, por lo que te recomendaría que explores alguno de estos inclusive podrías hacerlo sin ensuciar tu equipo de cómputo, pues puedes usar técnicas como la virtualización para instalar sistemas operativos invitados. Sin embargo, a mí me gustaría sugerir algo más que consideró importante para desarrollar software: profundizar en la estructura de un sistema operativo.
 
-Para esto siempre nos podremos basar en elementos bien definidos; ya hablamos que algunos de ellos previamente, pero quiero destacar ahora el siguiente nivel, y para ello puedes basarte en un gran libro: _“Sistemas operativos: diseño e implementación”_ de Andrew Stuart Tanenbaum, en el cual podrás encontrar las partes por las cuales esta estructurado un sistema operativo, inclusive en versiones modernas de dicho libro podrás encontrar ejemplos muy bien conocidos por la industria, en los cuales se ejemplifica la diferencia en los diferentes subsistemas como son el de administración de procesos, el de administración de la memoria, el de entradas y salidas, el sistema de archivos, las interrupciones, entre muchos otros conceptos que son importantes para comprender el funcionamiento el sistema operativo instalado en muchos de los dispositivos modernos, por ejemplo android e ios.
+Para esto siempre nos podremos basar en elementos bien definidos; ya hablamos que algunos de ellos previamente, pero quiero destacar ahora el siguiente nivel, y para ello puedes basarte en un gran libro: _“Sistemas Operativos: Diseño e Implementación”_ de Andrew Stuart Tanenbaum, en el cual podrás encontrar las partes por las cuales esta estructurado un sistema operativo, inclusive en versiones modernas de dicho libro podrás encontrar ejemplos muy bien conocidos por la industria, en los cuales se ejemplifica la diferencia en los diferentes subsistemas como son el de administración de procesos, el de administración de la memoria, el de entradas y salidas, el sistema de archivos, las interrupciones, entre muchos otros conceptos que son importantes para comprender el funcionamiento el sistema operativo instalado en muchos de los dispositivos modernos, por ejemplo Android e iOS.
 
 Pero esto no termina aquí, pues deberás de conocer uno de los elementos más importantes para acceder a los recursos de tu sistema operativo, la denominada shell.
 
@@ -70,17 +70,55 @@ La historia de las shells es amplia, y no me gustaría detenerme en eso, más bi
 
 Y definitivamente, para ser un poco más pragmático la sugerencia es que explores sistemas operativos basados en unix y linux, y conozcas el tipo que estás usando, pues existen elementos que con tan sólo conocer el origen pueden resolver muchos problemas, voy a poner un ejemplo muy sencillo:
 
-Si estás usando Ubuntu por ejemplo, entonces estás usando un super conjunto de otro sistema operativo llamado Debian, y en este tú puedes instalar paquetes o programas adicionales con la instrucción `apt-get install`, que es justo la misma instrucción con la que haces lo mismo en todos aquellos sistemas operativos basados en Debian como por ejemplo Ubuntu; ahora bien, un sistema operativo famoso para montar aplicaciones es centos, y otro sistema operativo también muy usado para desarrollar software es fedora, ambos están basados en una distribución de linux conocida como red hat, y para instalar paquetes o programas adicionales tu usas el comando `yum install`, el cual funciona en todos estos sistemas operativos, pero no en Ubuntu por que no está basado en redhat sino en Debian. Ahora bien, todos los que he mencionado anteriormente tanto los basados en Debian, como los basados en redhat, cuentan con programas comunes base como por ejemplo `ls`, que sirve para listar el contenido de un directorio, sin embargo, este mismo comando lo puedes encontrar en unix, y esto es porque tanto linux como unix están basados en minix, del cual comparten un grupo de programas comunes.
+Si estás usando ubuntu por ejemplo, entonces estás usando un super conjunto de otro sistema operativo llamado debian, y en este tú puedes instalar paquetes o programas adicionales con la instrucción `apt-get install`, que es justo la misma instrucción con la que haces lo mismo en todos aquellos sistemas operativos basados en debian como por ejemplo ubuntu; ahora bien, un sistema operativo famoso para montar aplicaciones es centos, y otro sistema operativo también muy usado para desarrollar software es fedora, ambos están basados en una distribución de linux conocida como red hat, y para instalar paquetes o programas adicionales tu usas el comando `yum install`, el cual funciona en todos estos sistemas operativos, pero no en ubuntu por que no está basado en redhat sino en debian. Ahora bien, todos los que he mencionado anteriormente tanto los basados en debian, como los basados en redhat, cuentan con programas comunes base como por ejemplo `ls`, que sirve para listar el contenido de un directorio, sin embargo, este mismo comando lo puedes encontrar en unix, y esto es porque tanto linux como unix están basados en minix, del cual comparten un grupo de programas comunes.
 
 A lo que me refiero es que si conoces la filosofía con la que fue creado alguna herramienta o elemento dentro de algún sistema operativo, entonces podrás comprender muchas de las cosas al respecto de su funcionamiento.
 
 ==== Un editor de texto
 
-A veces esta es una gran barrera para muchos...
+Necesitas encontrar una forma de editar texto rápidamente y con alguna herramienta muy ligera que puedes encontrar en diferentes sistemas operativos, la cual te permita desempeñarte de forma natural sin importar que sistema estás explorando.
+
+Muchas de las personas que en algún momento desean utilizar cualquier equipo de cómputo usan editores de texto universales, instalados dentro del sistema operativo, o bien, fácilmente descargables e instalables.
+
+Hoy en día puedes encontrar muchos de ellos que incluso tiene funciones que te van a permitir modificar código de una forma eficiente y segura, sin embargo, la recomendación siempre será utilizar aquellos que ya llevan mucho tiempo iker inclusive puedes usar si tú responsabilidad en algún momento es montar la infraestructura necesaria para instalar una aplicación en un ambiente productivo o de pruebas.
+
+Definitivamente, tendrás que invertir un tiempo en aprender las bondades que te ofrece cada uno de los editores de texto que quieras usar y aprender los atajos dentro del teclado para poder eficientar cada movimiento que hagas, lo importante es que es como desarrolladores de software nuestra herramienta principal hacia cualquier equipo de cómputo es el teclado, y tienes que aprender a moverte muy bien en cualquier aplicación a través del mismo.
+
+Tal vez podrás estar pensando en herramientas cómo los ide’s, que contienen ambientes de desarrollo estructurados que te permite manejar herramientas externas y locales, son buenos, sin embargo la recomendación siempre será que conozcas exactamente qué es lo que está haciendo y cómo podrías hacerlo si no contaras con dicha herramienta para que puedas comprender el poder que se te está ofreciendo a través de un simple menú.
+
+También podrás ser testigo vi que un común denominador en programadores experimentados, es que la mayoría de ellos usan algún editor de texto muy famoso, me refiero a vim o emacs.
+
+Por lo que mi sugerencia seria que intentes aprender alguno de estos, sin embargo, déjame decirte que ambos tienen una curva de aprendizaje no tan corta pero que al final cuando adquieres cierta habilidad puedes sacarle mucho provecho.
+
+En otros casos en donde cuentas con un ambiente gráfico podrás utilizar algunos editores de texto universales y modernos, es decir, a veces necesitarás simple y sencillamente editar texto de forma rápida y posiblemente estarás usando alguno que es gráfico y dependiente del sistema operativo, pero ya en un trabajo intenso en la creación del código constante buen la modificación del mismo seguramente tendrás la necesidad de utilizar un editor.
+
+Ahora también, independientemente de que existan plataformas de desarrollo las cuales proveen ambientes completos, siempre te será de utilidad conocer la forma en la cual podrás manipular archivos de texto plano a través de algún otro medio ya sea para reparar algún tipo de configuración o simple y sencillamente porque quieres conocer el contenido del texto y lo quieres explorar de forma amigable. Hoy en día plataformas como android y ios proveen de entornos completos que permiten el desarrollo, de los cuales te recomiendo aprendas muy bien la forma en que operan y qué es lo que están haciendo internamente, pero también creo que es muy útil el hecho de que puedas mostrar o editar el texto de tu código o cualquier otro archivo a través de un editor que sea ligero, rápido y eficiente.
+
+Inclusive algunos de estos editores fueron hechos para abrir archivos tan grandes que programas convencionales no podrían abrir.
 
 ==== Un control de versiones
 
-Necesitas aprender a regresar el tiempo en tu código
+A todas las personas que hacemos software nos ha pasado algo muy similar cuando estamos escribiendo algún fragmento de código que está intentando resolver un problema, llene el cual hemos invertido bastante tiempo, comenzamos con una solución pensando que podría hacer, y la crecemos y le evolucionamos a lo largo de un día o dos, inclusive en el peor de los casos una semana o más, y cuando nos damos cuenta vemos que la solución que más se acercaba a lo que queríamos era justo la que teníamos al principio o la qué comenzamos a hacer.
 
+También pasa que en algún momento queremos saber por alguna razón el histórico de actividades o modificaciones que hemos hecho a algún proyecto, ya sea por alguna medida o simple y sencillamente para comparar la solución que teníamos en un inicio con los cambios que ahora tenemos, es lo único que nos podría rescatar sería el un fue hola pila de actividades que se encuentra almacenada en la opción de ‘deshacer’.
 
-Al final del día, considero que un profesional software se ve definido en una parte por aquellas herramientas que usa para la construcción de aplicaciones.
+También, queremos colaborar en algún proyecto de software o queremos que alguien más se une a nuestro proyecto con alguna contribución, entonces lo que hacemos es que ofrecemos alguna copia junto con todas sus dependencias de nuestro proyecto o bien obtenemos la misma copia de alguien más.
+
+Pues bien, es aquí en donde un control de versiones toma la importancia que debería, pues esta herramienta me va a permitir llevar un histórico de cambios del código fuente que estoy desarrollando, escribirle algunos mensajes que me ayuden a referenciar lo que estaba tratando de hacer en este momento, marcando las diferencias mejor conceptualizadas como deltas y llevando una bitácora de los cambios realizados en el proyecto.
+
+Es importante saber que el control de versiones originalmente está hecho para archivos de texto, aunque actualmente ya existe la forma de comparar archivos binarios en algunos formatos, siempre que se tenga algún texto contenido en plano se puede llevar un control del mismo.
+
+Me refiero a que cualquier cosa que escribas en un editor de texto puede ser versionada, y puede ser controlada para poder regresar a través del tiempo a alguno de sus versiones, puede ser marcada en algún momento muy importante en donde todo se encuentra estable y puedes crear tanto copias locales para trabajar en características especiales de tu software o bien puede ser distribuido de forma remota para que alguien más lo lea, o bien puedes obtener una copia estructurada del mismo software de alguien más.
+
+La recomendación aquí es que conozcas algún control de versiones y lo explores en su totalidad para que te beneficies de los elementos internos del mismo, puedes distribuir copias del software o puedas hacer que alguien más se una a algún proyecto, o mejor aún, tú descargues una copia del proyecto de alguien más que puedas contribuir un alguna modificación o corrección.
+
+Actualmente, existen controles de versiones centralizados y distribuidos, seguramente podrás encontrar mucha información al respecto en la web, sin embargo quiero que sepas que más allá de los nombres del software que puedas encontrar es importante que conozcas los conceptos, me refiero a que en cada uno de estos podrás encontrar una forma de hacer lo que necesitas y que cada uno de ellos te ofrecerá diferentes comandos para lograrlo.
+
+Por ejemplo, cada uno de estos te permitirá crear versiones alternas que se desprenden de la versión original que puede ser estable, todos ellos te proveerán de un histórico de cambios que podrás explorar, también te proveerán de la forma en la cual encuentres las diferencias entre archivos, y también que te permita almacenar una copia en algún servidor remoto que puedas obtener desde otro lado.
+Lo importante aquí es que todos estos elementos que vana ayudar a poder crear versiones alternas del software original en conjunto con otras personas o bien si es solamente un desarrollo individual pero en diferentes versiones.
+
+De los que seguramente podrás encontrar en este momento y que son reconocidos(algunos no tanto) y usados en la industria son: svn, git, mercurial, bazaar, fossil.
+
+Por lo que la sugerencia es: conocer algunos de ellos lo explores y lo uses inclusive para tus proyectos personales.
+
+> Al final del día, considero que un profesional software se ve definido en una parte por aquellas herramientas que usa para la construcción de aplicaciones.
