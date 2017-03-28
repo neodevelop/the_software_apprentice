@@ -1,8 +1,29 @@
 
 === Capítulo 8. Proyectos alternos
 
-Deberías considerar hacer un proyecto por tu cuenta.
+[quote, john maeda]
+Diseño es una solución al problema. Arte es una pregunta para un problema.
+
+Antes de comenzar de forma profesional tuve la curiosidad de hacer algo para mi, aunque ve no era la gran cosa fue importante plantearme un objetivo en el cual pudiera imaginar todo lo que yo pudiera hacer con lo que conocía o pudiera lograr hacer con aquello que iba a aprender.
+
+En el comienzo, independientemente de todo lo que estuviera aprendiendo, en ese momento yo quise crear algo que imagine y quería ver si era capaz de hacerlo, y pude notar qué era libre de ocupar y hacer lo que yo quisiera en la forma en la que yo deseara, no tenía presión alguna al respecto de lo que estaba haciendo, y creo que lo más importante fue que empecé a hacer preguntas; preguntas las cuales me llevaban a la investigación y a buscar formas de hacer lo que yo deseaba hacer.
+
+Para aquel momento mis recursos eran limitados no tenía acceso a una red o a internet, lo único que tenía era la biblioteca de mi escuela y algunas revistas de las cuales no había mucho más que leer, pues la repasaba una y otra vez.
+
+Todo esta experiencia lo que me dio es la oportunidad de crear y buscar elementos que me permitieran acrecentar mis habilidades, pero siempre persiguiendo un objetivo, queriendo crear algo que estaba en mi imaginación o bien creando algo con un propósito bien definido.
+
+La creación de un proyecto alterno siempre te dará la oportunidad de fallar, de ser creativo, de incorporar tecnologías que no has usado antes, de quitarte la presión de una entrega, de disfrutar cada concepto y tecnología que vas agregando de a poco a ese proyecto.
+
+Creo que la parte más importante de comenzar un proyecto alterno es tener un propósito propio o ajeno que te identifique, o bien, le veas alguna oportunidad de forma tecnológica. Siempre los retos cobran sentido cuando son aplicados ciertos elementos o plataformas tecnológicas conocidas o innovadoras.
+
+Incluso, habrás escuchado de algunas empresas o compañías de software que comenzaron como un proyecto alterno, en donde sus creadores dedicaba su tiempo libre y lo invertían en dicho proyecto durante las tardes y fines de semana, algunos de sus proyectos son el software que usamos hoy en día.
+
+Y como un efecto colateral, tendrás algo que mostrar al mundo cuando llegue el momento, me refiero a que sin saberlo ya estás construyendo tu propia carrera por lo que se conoce como tu currículum, la parte fascinante del software es que la mayoría de los proyectos el código hoy en día se pueden mostrar muy fácilmente a través de cualquiera de las aplicaciones que hospedan código.
+
+Y para que tus proyectos alternos tengan un círculo que cierra correctamente, la sugerencia es que nos puedas desplegar en alguna parte, es decir permitir que otros usuarios se benefician de ellos o bien simple y sencillamente tenerlos disponibles cuando los necesites,  para ello tendrás que hospedarlos en algún lugar y eso también te dejará un aprendizaje pues conocerás todo lo que necesitas para montar tu aplicación.
 
 ==== Proyectos con fines sociales
 
-==== Software para ti...
+==== software para ti...
+
+En otras ocasiones, tuve la necesidad de hacer ciertos programas para no tener que hacer tareas manuales.
