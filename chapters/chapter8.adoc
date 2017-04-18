@@ -4,7 +4,7 @@
 [quote, john maeda]
 Diseño es una solución al problema. Arte es una pregunta para un problema.
 
-Antes de comenzar de forma profesional tuve la curiosidad de hacer algo para mi, aunque ve no era la gran cosa fue importante plantearme un objetivo en el cual pudiera imaginar todo lo que yo pudiera hacer con lo que conocía o pudiera lograr hacer con aquello que iba a aprender.
+Antes de comenzar de forma profesional tuve la curiosidad de hacer algo para mi, aunque no era la gran cosa fue importante plantearme un objetivo en el cual pudiera imaginar todo lo que yo pudiera hacer con lo que conocía o pudiera lograr hacer con aquello que iba a aprender.
 
 En el comienzo, independientemente de todo lo que estuviera aprendiendo, en ese momento yo quise crear algo que imagine y quería ver si era capaz de hacerlo, y pude notar qué era libre de ocupar y hacer lo que yo quisiera en la forma en la que yo deseara, no tenía presión alguna al respecto de lo que estaba haciendo, y creo que lo más importante fue que empecé a hacer preguntas; preguntas las cuales me llevaban a la investigación y a buscar formas de hacer lo que yo deseaba hacer.
 
@@ -24,6 +24,26 @@ Y para que tus proyectos alternos tengan un círculo que cierra correctamente, l
 
 ==== Proyectos con fines sociales
 
-==== software para ti...
+Desde siempre, puedes encontrar a muchas personas que están buscando generar un cambio en la sociedad y que no cuentan con el conocimiento técnico para hacerlo, estas personas están en busca de programadores que permitan hacer realidad sus propósitos, y son una muy buena oportunidad para crear software que más allá de ayudarte a ti, te permitieran crear algo que pudiera ayudar a una comunidad. También existen algunos otros eventos en los cuales se pretende crear software con un propósito en un tiempo muy acotado, y aunque estos eventos son muy famosos, prefiero aquellos en donde el bienestar está más allá de un interés económico.
+
+Existen programas de investigación que también permitieran desarrollar habilidades técnicas y probar tecnología acorde a la necesidad, la mayoría de estos nos podrás encontrar inclusive en organizaciones sin fines de lucro y asociaciones que están buscando la manera de dar un mejor servicio a personas que verdaderamente lo necesitan.
+
+En algún momento en mi carrera pude observar a una persona que inclusive ayudaba a instituciones religiosas con recursos escasos a dar servicio agente que se hospedaba en los hostales, a través de un programa que llevaba el registro de las personas que se hospedaban ahí para determinar cuántos víveres necesitaban, ya aunque pudiera parecer muy sencillo para las personas que dirigían ese lugar fue de vital importancia pues ahora contaban con un histórico de datos que les ayudaba tomar decisiones.
+
+Durante otra experiencia en un evento enfocado a apoyar lo que se conoce como emprendimiento social, tuve la oportunidad de ayudar a un grupo de personas que estaban buscando la forma de responder a una comunidad en África, la cual padecía de varias enfermedades y la única forma de comunicarse era a través de mensajes de texto, ellos pretendían crear un almacén de datos que les permitiera dar seguimiento a las personas que les escribieran a través de un número celular, y que la mayoría de los mensajes que fueran enviados se respondieran de forma automática pues las consultas eran frecuentemente las mismas. Al final, podemos crear algo que le serviría para comenzar un camino y más allá de la gratificación económica, el agradecimiento y el bienestar que generaba dicho software fue mayor, y sin lugar a dudas la experiencia fue única en su tipo.
+
+Lo que me quiero referir en esta parte es que existen personas que ya tienen un problema con el cual te puedes identificar, y al sumarte al propósito con tus habilidades puede ayudar demasiado, inclusive podrías conocer una tecnología que está hecha justo para el problema que se está presentando.
+
+==== Software para ti...
 
 En otras ocasiones, tuve la necesidad de hacer ciertos programas para no tener que hacer tareas manuales.
+
+No todo se trata de hacer software para los demás, también puedes hacer herramientas para ti mismo, y es aquí en donde cobra más sentido pues seguramente las necesidades que tú tienes son muy específicas al principio, y si tienes la capacidad de hacer software para los demás entonces también puedes crear elementos que te ayuden a llevar el día a día.
+
+Desde responder un correo todos los días, hasta crear un reporte semanal o mensual, o bien, hacer que las cosas tu casa se enciendan cuando llegues, o hacerles saber ciertas personas que has llegado a tu destino, todos estos objetivos y más pueden ser programados de tal forma que cuando te des cuenta también les son útiles a otras personas.
+
+Así como los dentistas cuentan con una dentadura saludable, y así como el carpintero tiene los mejores muebles, tú deberías de tener es mejor software hecho por ti para ti.
+
+Y si escalamos esta forma de pensar, podrás apreciar que existen empresas que están creando software para sostener su propia operación, y que en algunos casos lo exponen al público porque seguramente les puede servir a otras organizaciones o personas, y a su vez estas organizaciones y personas en lugar de crearlo desde cero se suman al esfuerzo y contribuyen con los elementos específicos que les hace de utilidad, logrando así un software más robusto.
+
+Al final del día, lo que quiero transmitir es el hecho de que deberías detener proyectos de software alternos que te permitan explorar nuevas tecnologías o bien aprender nuevos conceptos que puedan ser aplicados a los problemas que se te presentan, todo esto te ayudará a crear una ruta de vida dentro de tu carrera, ayudarán a observar futuro que era lo que hacías al principio y con qué conceptos lo hacías, te permitirá hacer una reflexión que una retrospectiva de tu trabajo que te ayudará a saber qué es lo siguiente que debes de hacer o estudiar.
