@@ -1,38 +1,66 @@
 
 === Capítulo 9. ¿Que deberías leer?
 
-[quote, Mario Vargas Llosa, Premio Nobel de Literatura.]
-Aprender a leer es lo más importante que me ha pasado. Casi 70 años después recuerdo con nitidez esa magia de traducir las palabras en imágenes
+[Quote, Mario Vargas Llosa, premio nobel de literatura.]
+Aprender a leer es lo más importante que me ha pasado. Casi 70 años después recuerdo con nitidez esa magia de traducir las palabras en imágenes.
 
-Uno de los aspectos más importantes en la formación profesional será siempre leer al respecto de los temas que queremos conocer y dominar, tanto técnico como metódico siempre será importante apoyarse en las personas que han tenido una experiencia Y que la han podido compartir a través de un texto.
+Uno de los aspectos más importantes en la formación profesional será siempre leer al respecto de los temas que queremos conocer y dominar, tanto técnico como metódico siempre será importante apoyarse en las personas que han tenido una experiencia y que la han podido compartir a través de un texto.
 
-Y así como existe mucha información al respecto de un tema, también existe información que de alguna forma consume mucho más tiempo del que deberíamos invertirle, Y es muy difícil identificar dicha información en un mundo en donde existen los buscadores Y el primer lugar es el más visitado, aunque no siempre el mejor.
+Y así como existe mucha información al respecto de un tema, también existe información que de alguna forma consume mucho más tiempo del que deberíamos invertirle, y es muy difícil identificar dicha información en un mundo en donde existen los buscadores y el primer lugar es el más visitado, aunque no siempre el mejor.
 
-Me refiero a que deberías de conocer a las personas que están escribiendo Y conocer al respecto de ellas, que han hecho o dónde están trabajando, para qué así te des una idea del tipo de persona que estás leyendo, si bien el blog es una herramienta bastante útil, también es útil conocer a las personas Y sus personajes.
+Me refiero a que deberías de conocer a las personas que están escribiendo y conocer al respecto de ellas, que han hecho o dónde están trabajando, para qué así te des una idea del tipo de persona que estás leyendo, si bien el blog es una herramienta bastante útil, también es útil conocer a las personas y sus personajes.
 
-Generalmente, hay sitios bastante famosos al respecto de cualquier tema, que son referencia en la web para cualquier persona, pero yo te quiero hablar de aquellos que no son tan famosos, son más como una joya oculta O un diamante perdido en un vasto mar de información, existen personas muy valiosas que están escribiendo al respecto de temas muy importantes y que son visionarios del medio tecnológico, esas personas generalmente no son tan conocidas o famosas, Y lo que están escribiendo impactará O ha impactado la tecnología como hoy en la conocemos.
+Generalmente, hay sitios bastante famosos al respecto de cualquier tema, que son referencia en la web para cualquier persona, pero yo te quiero hablar de aquellos que no son tan famosos, son más como una joya oculta o un diamante perdido en un vasto mar de información, existen personas muy valiosas que están escribiendo al respecto de temas muy importantes y que son visionarios del medio tecnológico, esas personas generalmente no son tan conocidas o famosas, y lo que están escribiendo impactará o ha impactado la tecnología como hoy en la conocemos.
 
-En la historia han existido personas importantes, quienes han sentado las bases de lo que hoy conocemos, Y también existen personas actualmente que están cimentando los conceptos tecnológicos que no alcanzamos a concebir hoy en día.
+En la historia han existido personas importantes, quienes han sentado las bases de lo que hoy conocemos, y también existen personas actualmente que están cimentando los conceptos tecnológicos que no alcanzamos a concebir hoy en día.
 
-Muy cerca de todos nosotros existen todas estas personas que nos pueden dar muy buenas referencias al respecto de otros textos y libros que podemos leer, Y definitivamente tendremos que comprar para poder acceder a esos recursos.
+Muy cerca de todos nosotros existen todas estas personas que nos pueden dar muy buenas referencias al respecto de otros textos y libros que podemos leer, y definitivamente tendremos que comprar para poder acceder a esos recursos.
 
-En alguna parte atrás comenté que la buena educación o formación cuesta, pues bien esta es una de las situaciones en donde tendrás que invertir de tu bolsillo para algún libro que esté disponible, pues existe una persona que se ha esforzado lo suficiente en escribirlo Y merece un reconocimiento, no es verdaderamente que esa persona se vaya a hacer millonaria con el ingreso de ese libro, Sino que tenemos que honrar el tiempo que le dedico a escribirlo, Y como en muchas ocasiones no conocemos al autor, la compra de un libro siempre será significado de valorar el buen trabajo qué alguien hay hecho por nosotros al investigar al respecto de un tema Que queremos conocer.
+En alguna parte atrás comenté que la buena educación o formación cuesta, pues bien esta es una de las situaciones en donde tendrás que invertir de tu bolsillo para algún libro que esté disponible, pues existe una persona que se ha esforzado lo suficiente en escribirlo y merece un reconocimiento, no es verdaderamente que esa persona se vaya a hacer millonaria con el ingreso de ese libro, sino que tenemos que honrar el tiempo que le dedico a escribirlo, y como en muchas ocasiones no conocemos al autor, la compra de un libro siempre será significado de valorar el buen trabajo qué alguien hay hecho por nosotros al investigar al respecto de un tema que queremos conocer.
 
 Es decir, mucho del contenido valioso está en aquellos libros que que los profesionales de software están escribiendo actualmente.
 
 ==== Acerca de los libros técnicos
 
-Si bien conocer de tecnología es importante, entonces deberías de considerar el adquirir algún libro qué tenga Que ver con un lenguaje de programación O una biblioteca particular, incluso un framework. Y en definitiva lo tendrás que hacer, ya sea para entrar a ser parte activa de un mercado que está en constante competencia, O mejor aún por el deseo de conocer de primera mano que es aquello de lo que tanto hablan todas esas personas que ya están laborando.
-Sin embargo hay algo que debes de considerar, generalmente los libros que son puramente técnicos y que tratan al respecto de una versión particular de un software o lenguage, tienden a caducar de forma natural, esto no es malo pues definitivamente habrá conceptos que se conservarán a lo largo de todas aquellas versiones, pero entradas en la constante actualización de esta herramienta, lo cual tampoco es malo, más bien lo que quiero transmitirte aquí es que en lo que a elementos técnicos se refiere deberás de estar en constante actualización Y que seguramente muchas de las cosas que hoy leas en un futuro ya no serán vigentes, por lo que debes de ser cuidadoso con aquello a lo cual le inviertes un tiempo valioso te identificar aquellos conceptos que son centrales para dicha herramienta, lenguaje, biblioteca o framework.
+Si bien conocer de tecnología es importante, entonces deberías de considerar el adquirir algún libro qué tenga que ver con un lenguaje de programación o una biblioteca particular, incluso un framework. Y en definitiva lo tendrás que hacer, ya sea para entrar a ser parte activa de un mercado que está en constante competencia, o mejor aún por el deseo de conocer de primera mano que es aquello de lo que tanto hablan todas esas personas que ya están laborando.
+Sin embargo hay algo que debes de considerar, generalmente los libros que son puramente técnicos y que tratan al respecto de una versión particular de un software o lenguage, tienden a caducar de forma natural, esto no es malo pues definitivamente habrá conceptos que se conservarán a lo largo de todas aquellas versiones, pero entradas en la constante actualización de esta herramienta, lo cual tampoco es malo, más bien lo que quiero transmitirte aquí es que en lo que a elementos técnicos se refiere deberás de estar en constante actualización y que seguramente muchas de las cosas que hoy leas en un futuro ya no serán vigentes, por lo que debes de ser cuidadoso con aquello a lo cual le inviertes un tiempo valioso te identificar aquellos conceptos que son centrales para dicha herramienta, lenguaje, biblioteca o framework.
 
-Definitivamente tienes que leer libros técnicos, pero ten siempre en consideración qué hay conceptos debajo de todo ese tecnicismo Que son más importantes de conocer, que esa tecnología que estás leyendo es la culminación de esos elementos Y que si de alguna forma algo que teóricamente es relevante alguien lo ha plasmado de forma práctica en esta herramienta.
+Definitivamente tienes que leer libros técnicos, pero ten siempre en consideración qué hay conceptos debajo de todo ese tecnicismo que son más importantes de conocer, que esa tecnología que estás leyendo es la culminación de esos elementos y que si de alguna forma algo que teóricamente es relevante alguien lo ha plasmado de forma práctica en esta herramienta.
 
-Al final del día, Muchos de estos libros técnicos te quedarán simplemente de recuerdo, pues al pasar de los años nuevas versiones de los mismos surgirán Y posiblemente tendrás la posibilidad de actualizarlo, pero estarás constantemente desechando aquellos textos viejos que contienen la actualización Y el contenido núcleo el cual le distes desde un principio.
+Al final del día, muchos de estos libros técnicos te quedarán simplemente de recuerdo, pues al pasar de los años nuevas versiones de los mismos surgirán y posiblemente tendrás la posibilidad de actualizarlo, pero estarás constantemente desechando aquellos textos viejos que contienen la actualización y el contenido núcleo el cual le distes desde un principio.
 
-==== Acerca de los libros metódicos
+==== Acerca de los libros metódicos y teóricos.
 
-Aprovechalos...
+En definitiva, los libros que tratan al respecto de alguna disciplina come todo orientado al desarrollo de software suelen ser perdurables, inclusive algunos de ellos siguen siendo referencia se importar que hayan pasado los años y siempre habrá alguien que te recomiende alguno de estos.
+
+En lo que se refiere a aquellos relacionados conciencias computacionales puras, también podemos encontrar algunos textos qué a pesar de los años siguen siendo pilar importante de la forma en cómo se desarrolla hoy la tecnología, son motivacionales tecnológicamente hablando y contienen los fundamentos que cualquier profesional de software debería de conocer para operar correctamente uno o varios equipos de cómputo.
+
+También existen algunos otros libros que tratan de transmitir un concepto a través de una tecnología porque se presta a hacerlo, estos libros también son buenos y son generalmente de una vigencia muy larga.
+
+Entre los temas que podrían ser candidatos hacer buscados dentro de algunos libros podrían estár:
+
+- Estructuras de datos.
+- Análisis y creación de algoritmos.
+- Matemáticas orientadas a la programación.
+- Inteligencia artificial.
+- Teorías de grafos y lenguajes formales.
+- Problemas para la resolución en grandes cantidades de cómputo.
+- Formas de trabajo y administración para el software.
+- Métodos ágiles.
+- Seguridad en su forma esencial.
+- Conceptos esenciales del funcionamiento de las redes y las telecomunicaciones.
+- Arquitectura de computadoras.
+- Modelos de concurrencia.
+- Entre muchos otros….
+
+Lo que quiero transmitir aquí es el hecho de que muchos de estos conceptos los vas a poder encontrar de forma natural en algún lenguaje o herramienta, o bien podrás comprender mejor algunas tecnologías, pues están basadas en los conceptos contenidos en algunos de estos textos, lo cual considero de mayor importancia que centrarse en algo específicamente técnico, es decir, no es malo para nada el hecho de ser tecnológicamente bueno, pero considero que un profesional de software conoce la esencia y filosofía de las herramientas que está usando.
+
+Lo más importante de todos estos libros y textos, es el hecho de hacer que los conceptos que rigen a la ciencias computacionales sean congruentes con todo lo que usamos y podemos crear, realmente muchas de las cosas que hasta el día de hoy han salido a resolver algún problema que parecía imposible se ha podido lograr gracias al conocimiento extensor profundo de algo que ya existía desde hace mucho tiempo.
 
 ==== Acerca de los libros históricos
 
-Búscalos...
+Definitivamente estos son los libros que deberías de leer, existen varios autores que han narrado la forma en cómo la tecnología y sus protagonistas han cambiado la forma de vida de muchas personas, que de los hechos más importantes en la actualidad es que la mayoría de las personas que han creado algo, son personas de esta época, con las cuales aún podemos tener contacto para poder preguntarles al respecto de sus motivos e inspiraciones.
+
+Cuando empiezas a conocer lo que ocurrió realmente de forma histórica empezarás a darte cuenta del porque ciertos elementos tecnológicos tienen la esencia que poseen, y podrás imaginar de primera mano la creación de alguna organización que está desarrollando tecnología en el mundo.
+
+Y no está de más mencionar, que estos libros o textos prácticamente son perpetuos pues te darán los hechos que han ocurrido durante la transformación tecnológica desde el principio de los tiempos, en donde los protagonistas principales son aquellas personas que hemos escuchado en libros de texto técnicos o metódicos, es por esto, que la sugerencia será no des vincularte absolutamente de la historia, pues gracias a todo lo que llegues a conocer en este contexto te ayudará a tomar las decisiones para las herramientas del futuro.
