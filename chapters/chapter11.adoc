@@ -1,8 +1,44 @@
 
 === Capítulo 11. Ignorancia y experiencia
 
-Un hecho(mal fundamentado) es que nos contratan por lo que sabemos más no por lo que no sabemos
+[quote, proverbio chino]
+Conocer nuestra ignorancia es la mejor parte del conocimiento.
+
+Generalmente, cuando asistimos a una entrevista de trabajo o bien estamos buscando alguna oportunidad para poder participar en algún proyecto, nos vemos cuestionados en lo que sabemos,  y comúnmente las personas nos preguntan de lo que conocemos o lo que hemos hecho, o de lo que ellos desean que sepamos para poder tener un avance en su proyecto. Si verdaderamente deseamos estar en dicho proyecto respondemos afirmativamente a todas estas preguntas, aunque internamente sabemos que no es verdad, y hoy en día mucha gente se ha dado cuenta de esto, por lo que se han creado nuevos mecanismos para hacer entrevistas, e inclusive evaluar de múltiples formas a una persona, ya sea involucrando su un contexto social ya explorando dentro de su mente en los sentimientos que pudiera tener al respecto de ciertas situaciones.
+
+Si bien, hoy existen exámenes psicométricos y técnicos que permiten evaluar a una persona, tenemos que aceptar como profesionales que existen caminos que no hemos recurrido y existen también métodos, técnicas y tecnología que no hemos usado, y es aquí en donde me quiero centrar.
+
+Tradicionalmente, nos hacemos contratar por los elementos que conocemos, mas no por los que no conocemos, y poco a poco al ir conociendo más y más, podría decirse que escalamos una pirámide de posiciones dentro de una organización, si bien, ya hemos mencionado que realmente no nos importan los títulos que existen en dicha organización, sí es importante reconocer que debemos de contar con un mecanismo de crecimiento que nos ayude a agregarnos valor como personas y como profesionales, esto es la experiencia qué vamos a ir adquiriendo en función de los problemas que vayamos resolviendo y el conjunto de tecnologías que vayamos aplicando para resolverlos.
+
+Una de las cosas que he visto positivas durante todo este tiempo, es el hecho de encontrar a personas que no conocen alguna tecnología o forma de trabajo, pues le será mucho más fácil de aprender al no tener que vaciar todo el conocimiento adquirido en experiencias anteriores, y eso ayuda mucho ah avanzar y que tienen la necesidad te empatar lo que ya conoce con aquello que es nuevo, dando como resultado un mayor esfuerzo para poder aprender.
+
+Si bien hay que reconocer todo lo que conocemos, también hay que reconocer todo lo que no sabemos, y que seguramente necesitaremos explorar para determinar si es útil a nuestro ámbito de conocimiento, si de alguna manera todo eso que está allá afuera me va a permitir resolver los problemas que hoy tengo que enfrentar en mi organización.
+
+No saber muchas cosas no es para nada perjudicial o malo, saber mucho al respecto de algo en particular podría considerar que del todo no es tan bueno, pues podemos concentrarnos mucho en eso y será muy difícil cambiarnos si es que así lo deseamos, aunque considero que habrá algún momento en el cual querrás elegir un camino y seguirlo hasta el final.
+
+También, el hecho de ir abarcando todo aquello que desconocemos no nos exenta de detenernos en nuestro camino como profesionales, lo que quiero decir es que habrá cada vez más y más tecnología o herramientas que aprender conforme vamos avanzando, y que nuestra responsabilidad será conocerlas.
+
+Todo este camino que recorramos nos ayudará a obtener eso que denominamos experiencia, con lo cual podremos resolver problemas similares en un periodo menor de tiempo o tal vez con una mejor calidad de la que hicimos en primera instancia, la experiencia no es más que el aprendizaje de todos los errores que cometimos al usar una tecnología de la forma en la que se nos presentó bajo el contexto y circunstancias que vivimos en ese momento.
+Es por esto, que consideramos el hecho de no saber ciertas cosas como benéfico, pero que vemos mucho mejor el acto de atacar dichos elementos.
 
 ==== Haz una lista de cosas que desconoces
 
+Siempre hay una forma de empezar, a veces esa forma no es la más adecuada, o bien no tenemos algún tipo de acceso que nos permita identificar un inicio, pues bien, hoy es el día en el que usamos software mucho más que antes y seguramente lo usaremos más y cada vez más, es por esto que te podrías preguntar como hacen ciertas personas para crear el software que ahora estamos usando en todos nuestros dispositivos, y creo que ese es un buen inicio.
+
+Si tienes la oportunidad de entrar en una organización que hace software, te será mucho más sencillo identificar aquellos elementos que desconoces puestos propios compañeros los estarán usando y te pedirán que te unas a ellos a través de dichos elementos.
+
+Llegará un. En donde serán tantos los elementos y conceptos qué tienes que aprender que seguramente no sabrás por dónde empezar, es por esto que la sugerencia es que hagas una lista de todas aquellas cosas que desconoces e inclusive la puedas categorizar en secciones de acuerdo a la necesidad o el contexto del momento, puede ser por conceptos esenciales, o bien por tipos de lenguajes y herramientas, por base de datos, por el manejo del sistema operativo inclusive, entre muchas otras.
+
+Lo importante aquí es que verdaderamente hagas está lista porque será el precedente del estado en el que te encuentras en este momento, el cual tendrás que modificar conforme el tiempo avance, y en algún momento volverás a esta lista y determinarás si verdaderamente has progresado en este camino, o bien está lista te servirá para no olvidar todo aquello que te planteaste conocer para poder llegar a ser un profesional.
+
 ==== Revisa tu avance
+
+Tal vez existan muchas cosas por hacer o aprender, e inclusive podrías desviarte del camino que inicialmente elegiste, pero sin lugar a dudas la recomendaciones que hagas la lista en inicial, y que aunque no la ataques directamente y de forma inmediata, te podrá dar en algún momento un precedente de lo que querías aprender, lo cual será valioso para que tú puedas tomar una decisión al respecto de qué es lo siguiente que te gustaría aprender o incorporar a tu carrera profesional.
+
+Lo ideal es que continuamente revises esta lista para poder determinar si efectivamente hay un avance en los elementos que te planteaste como objetivo, pues así podrás tacharlos y agregar otros elementos que seguramente te llamen la atención o bien podrían ser parte de algo que te va a servir para resolver un problema en tu trabajo o tu proyecto personal.
+
+No necesitas mucho, pues realmente solo deberá de existir esta lista en alguna parte en donde en un futuro puedas consultar y sepas que está ahí, y nuevamente, lo mejor seria que pudieras ir descartando algunos elementos de esta lista para dar cabida a otros nuevos.
+
+Hoy en día me gustaría decirte que este mecanismo me ha sido de utilidad durante mucho tiempo, y que inclusive no veo otra forma de plantearme un objetivo de manera tan simple como el hecho de proponerme aprender algo que escuche y que sé que me podría servir en algún futuro.
+
+Inclusive podrás ver lo gratificante que es el hecho de tachar ciertos elementos que creías muy difíciles o imposibles de aprender, y que ahora son parte de tu portafolio de herramientas que puedes aportar a tu carrera como profesional.
