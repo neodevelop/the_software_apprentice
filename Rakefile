@@ -26,7 +26,7 @@ namespace :build do
 
   desc "Build the ePub version"
   task :epub do
-    system("asciidoctor-epub3 -D build master.adoc")
+    system("asciidoctor-epub3 -D build -o book.epub master.adoc")
     puts "ePub Generated in build/"
   end
 
