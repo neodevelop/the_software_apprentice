@@ -1,10 +1,46 @@
 
 === Capítulo 14. Mentores y aprendices
 
+[quote, Horace Mann (1796-1859). Educador estadounidense.]
+El maestro que intenta enseñar sin inspirar en el alumno el deseo de aprender está tratando de forjar un hierro frío.
+
+Muchas personas hemos recorrido este camino, otras tantas están en el proceso, y otras más están empezando a andar este largo camino, y donde quiera que te encuentres siempre podrás hacer algo que aporte a tu vida como profesional de software.
+
+Tienes que considerar algo muy importante, no siempre encontrarás quién quiera enseñar y los que quieren enseñar no siempre encontrarán a quiénes quieren aprender, por eso es que esta parte puede ser difícil en el sentido de la ejecución.
+
+También es necesario aclarar algunas cosas al respecto de los mentores y los aprendices; tenemos que evitar el confundir o malinterpretar el rol de un mentor con el de un maestro, es decir, evitar caer en el error en donde idealicemos a nuestro mentor como la persona que tiene la verdad absoluta, puedes el día en el que posiblemente flaquee de la forma natural en aquello que no domina posiblemente nos crearemos una mala opinión y de forma inválida, un mentor es como un acompañante que te ayuda a realizar algo por tu cuenta, a cuestionarte al respecto de lo que estás usando y a crear una conciencia que te permita saber si le estás haciendo adecuadamente.
+
 ==== Sé un aprendiz
 
-Sigue a alguien que te muestre con el ejemplo...
+Un aprendiz puede ser cualquiera, inclusive aquellas personas que ya han recorrido un camino durante años, pero que desean conocer al respecto de un tema que es completamente ajeno al contexto en el cual están viviendo. Un aprendiz tiene la disposición de vaciar su mente para dar espacio a nuevas formas de crear software, tiene la humildad de aceptar su ignorancia respecto al tema y de formular preguntas usando el conocimiento que va adquiriendo, respeta a sus compañeros y a su mentor, no es egocéntrico y no antepone el conocimiento que ha adquirido para verse es superior a los demás.
+
+Realmente, recorrer el camino del aprendiz es un reto que implica la inversión de mucho tiempo, tanto como sea necesario para alcanzar lo que se conoce como _seniority_, te puede caer el caso que tal pueda ser alcanzado por unos antes que otros, esto irá en función de muchas cosas, realmente todos posiblemente,  pero mayormente del aprendiz que esté practicando los conceptos que va aprendiendo.
+
+Ser aprendiz también consiste en un compromiso con la práctica de los conocimientos aplicados de forma disciplinada y constante, se debe de llevar dicha práctica preferentemente de forma diaria, pero no sólo eso sino también designar su momento reflexionar lo que se está haciendo y apoyarse en el mentor para confirmar los conceptos que se han repasado.
+
+Ser un aprendiz también consiste en hacer trabajos simples, en algunos casos repetitivos y tal vez en otros casos sin tener un conocimiento real de la causa de ciertos ejercicios que sean puestos por el mentor, sin embargo todo esto tendrá un propósito para que el aprendiz vuelva incorporar a su caja de herramientas los conceptos que rigen muchos de los métodos con los que se crean software.
+
+En algunos otros casos, incluso consiste en escuchar a aquellas personas que están platicando al respecto del tema que puede tornarse interesante, ser oyente e inclusive participar con preguntas que permitan ampliar la conversación.
+
+Personalmente, he sido aprendiz de muchas personas con conocimientos en áreas muy específicas los cuales me han dejado marca en muchas de las aplicaciones que he podido desarrollar, ninguno ha tenido desperdicio, ninguno es mejor que otro, todos han aportado algo que ha sido valioso para el momento en el que lo use.
+
+Y así también, que tenido la oportunidad de invitar a comer o por un café o cerveza, a algunos de mis mentores y he de confesar que he aprovechado el momento para hacerles alguna pregunta, que me permita saber su opinión al respecto de un tema, y puedo encontrar en todos los casos el gusto de cada uno de ellos por compartir su experiencia al respecto del tema.
+
+He podido recibir a algunas personas que se han acercado a mí, con sus preguntas al respecto de que hacer o qué pasos seguir en su carrera, y yo con gusto siempre responderé en los términos en los que mi experiencia y contexto pueda ofrecer una guía que les sea de utilidad.
+
+Generalmente, es muy difícil que alguien nos acepte como aprendices, pero tendremos que ser insistentes e incluso aprovechar esos momentos o reuniones en los cuales nos encontremos con estas personas para poder acercarnos a ellos. Algunos nos causarán confianza, y otros más allá nos inspirarán a realizar actividades que antes no nos hubiéramos atrevido a hacer, y es aquí en donde realmente creo que puedes seguir a alguien, pues te causa la suficiente emoción para poder emprender algo.
+
+Ahora bien, no te confundas, así como tu mentor no será del todo un maestro, un aprendiz no deberá vivir la vida del mentor, sino conseguir su propio criterio y estilo, que le permita tener autenticidad en el software que hace. Lo que me refiero es que los mentores son un ejemplo a seguir en definitiva, pero que en algún momento tendrás la responsabilidad de ser un ejemplo para alguien más, y tendrás que encontrar tu manera muy particular.
+
+Es fácil identificar quién podría ser tu mentor, una recomendación es que hace estás a grupos de usuarios y comunidades en tu localidad, qué escuches a aquellos que exponen y participan, a aquellos que organizan también, te informes y preguntes, y seguramente podrás encontrar una oportunidad.
 
 ==== Sé un mentor
 
-Sé el ejemplo de alguien más...
+
+Conforme pasa el tiempo y estés alcanzando un nivel de experiencia, también lograrás ciertos niveles de confianza qué te permitirán transmitir el conocimiento que has ido adquiriendo en el camino, y es aquí en donde encontrarás una de las mejores formas de reafirmar todo aquello que has aprendido.
+
+No te menosprecies, puede ser el mentor de un tema muy particular de alguien más, no necesitas saber todo para ser un mentor, sin embargo, si recomendable contar don por lo menos algunos mecanismos básicos ara poder expresar tus ideas, y es aquí en donde las relaciones más cercanas a ti, por ejemplo tus amigos, puede ser aquellos aprendices los cuales te ayudarán a practicar la forma en la cual tú transmites conocimiento.
+
+En definitiva, una de las mejores formas de saber si has aprendido algo es tratándolo de explicar, y si te es posible hacerlo de una manera fluida entonces habrás alcanzado el primer nivel de conocimiento al respecto del tema, se cuidadoso, no has aprendido todo, simplemente has podido practicar o memorizar lo suficiente como para saber de qué se trata algo, sin embargo hay muchas más cosas que deberás de comprender al respecto del tema, y es aquí en donde verdaderamente surge otra parte del conocimiento, cuando transmites tus ideas habrá gente que te hagas ciertas preguntas y estas mayormente no se te habrán ocurrido ti, entonces es la oportunidad para poder profundizar en el tema.
+
+Con el paso del tiempo, y a veces sin darte cuenta ya habrá sido el mentor de muchas personas.
