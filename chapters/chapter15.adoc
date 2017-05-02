@@ -1,6 +1,73 @@
 
 === Capítulo 15. Aprender a aprender
 
+[quote, Confucio (551 ac-478 ac) filósofo chino.]
+Me lo contaron y lo olvidé; lo vi y lo entendí; lo hice y lo aprendí.
+
+Una de las dificultades más importantes para enfrentar es sin lugar a dudas el aprendizaje continuo de elementos que no conocemos, nos vemos con la responsabilidad de ir incorporando cada vez más elementos a nuestra caja de herramientas, que nos permitirán resolver diferentes tipos de problemas y aplicar las tecnologías adecuadas para cada uno de ellos, y tratar de no caer en el error en donde todos los problemas los queremos resolver con una sola herramienta.
+
+Desde siempre estés sido el tema central en las escuelas, e incluso uno de los principales problemas para poder abrir cada vez más tipos de carreras o profesiones distintas.
+
+Generalmente, les delegamos toda la responsabilidad a las instituciones para que nos muestren cuales el camino que debemos de seguir; esto funcionó durante mucho tiempo e incluso puede seguir aplicando para algunas disciplinas, o bien inclusive también para el desarrollo de software en su forma esencial, sin embargo, llega un punto en donde este tipo de enseñanza tradicional no cubre los aspectos de adopción de elementos de innovación.
+
+Existe un esfuerzo muy grande por la gran mayoría de instituciones en estar al día con estos elementos, tratar de ofrecer a los alumnos los elementos que son comúnmente usados en el mercado, lo cual puede ser tan bueno como malo a la vez.
+
+A lo que me refiero aquí, es a el hecho de que los profesionales de software definitivamente se apoyan de instituciones, pero mayormente forman su carrera de los elementos que han aprendido por ciento mismos a través de su experiencia o de la inversión de tiempo que han hecho en sus proyectos personales.
+
+Quiero que sepas que llegados a este punto, existe la necesidad de que puedas adaptarte rápido a las circunstancias, y de que puedas aprender de las mismas, pero mejor aún de que crees los mecanismos necesarios para aprender a aprender.
+
+Esto es que te permitas plantearte un grupo de objetivos y que puedas identificar los elementos necesarios para poder alcanzarlos, en términos de adquirir conocimientos, y es aquí en donde comienza a complicarse.
+
+Tienes que responder varias preguntas, por ejemplo:
+
+- ¿Qué es lo que tengo que aprender?
+- ¿Qué mecanismos tengo para aprender?
+- ¿Qué necesito aprender?
+- ¿Qué me gustaría aprender?
+- ¿Dónde voy encontrar información?
+
+A partir de aquí, podrías empezar a tomar algunas decisiones por ti mismo para recorrer un camino, que sin lugar a dudas te va llevar por una vereda larga pues en algunos casos posiblemente no tengas quien te pueda explicar detalladamente algún concepto, y es aquí en donde te recomendamos cómo lo mencionamos  anteriormente, que busques a un mentor. En la mayoría de los casos no vas a contar con dicho mentor, y es por eso qué tienes que tomar la decisión de ser autodidacta.
+
 ==== Sé autodidacta
 
+¿que significa ser autodidacta? De manera muy simple considero que es la habilidad que se puede adquirir a través de algún método para poder comprender el funcionamiento de ciertos elementos, sin necesariamente profundizar en el tema al respecto.
+
+Lo que quiero transmitir aquí es que todos contamos con una forma de aprender que nos sirvió en algún momento, en donde a pesar que muchos de nosotros cursamos una formación escolar de cualquier grado, existía el momento en donde teníamos que comprobar todo el conocimiento adquirido y fue ahí en donde muchos métodos de estudio se nos presentaron, los cuales no voy a mencionar por que cada persona tuvo un contexto que le va permitir recordarlo, sin embargo es importante reconocer que estuvieron ahí y que seguramente algunos de ellos puede servirte para volver a aprender por tu cuenta.
+
+Pero mejor aún, cuando aprendiste de forma inicial algo que te gustó, seguramente comenzaste a adoptar de alguna forma una variación de ese conocimiento para hacerlo auténtico. Es aquí en donde quiero centrarme un poco, pues algunas de las cosas que nosotros logramos aprender fueron a través de varios mecanismos, que cuando adoptamos nos funcionaron, y que no son verdad absoluta para otras personas, a un grupo de personas le sirve de una manera y seguramente alguien más aprende de una forma la cual no nos sirve a nosotros, tal vez porque no le exploramos bien o simplemente por alguna cuestión cultural.
+
+La lección aquí es no desechar ninguna oportunidad que te permita descubrir una forma de aprender a hacer algo.
+
 ==== Formas de aprender
+
+Me gustaría mencionarte algunas de las principales formas que he visto efectivas en la mayoría de las personas o equipos con los que trabajado, recomendaciones meramente personales que me han traído algún resultado positivo.
+
+===== Aprendizaje por imitación.
+
+Una de las formas que me sirve mucho para poder adquirir conocimiento fue observado detenidamente la forma en cómo operaban ciertas personas, la manera en cómo manipulaban el teclado e inclusive los elementos que hacían aparecer en la pantalla, sin lugar a duda yo quería hacer algo similar si no es que lo mismo, y entonces observaba detenidamente que era lo que hacían estas personas para poder replicarlo, el objetivo aquí era realizar exactamente las mismas actividades o ejecuciones que yo veía a través de otras personas.
+
+===== Aprendizaje por error.
+
+Definitivamente, cuando estamos atorados con alguna pieza de software if frente nuestros ojos aparece un error, generalmente buscamos en el error y llega un punto en donde es complicado encontrar una solución, aló cual comenzamos a experimentar con lo que circula alrededor del fragmento de código en cuestión hasta que por alguna extraña razón atinamos, la recomendación aquí es verdaderamente conocer la razón de dicho error pues eso será un permanente qué se irá en nuestra mente debido a la frustración que nos puede causar.
+
+===== Aprendizaje por experiencia.
+
+Muy similar al anterior, pero haciendo componentes de forma exitosa y alcanzando pequeños logros sucesivos que nos permiten llegar a un fin, la satisfacción es algo que permite que el aprendizaje sea perdurable.
+
+===== Aprendizaje por repetición.
+
+Algunas otras veces, creamos piezas de software similares o bien realizamos tareas diarias recurrentes que nos van a permitir perfeccionar poco a poco la forma en cómo ejecutamos y manejamos los periféricos, o accesos a diferentes recursos en una red, estas actividades son las mismas una y otra vez.
+
+===== Aprendizaje en la resolución de retos.
+
+Actualmente, existen muchos sitios que exponen ciertos problemas los cuales son candidatos resolverse con algún lenguaje de programación, también hay otros tipos de retos mucho más elaborados que permiten crear productos casi completos; en ambos casos se puede utilizar el conocimiento adquirido para resolverlos, o bien si no se sabe cómo resolverlos puede ser un buen comienzo para poder investigar que puede ayudar a resolver.
+
+===== Aprendizaje por lectura.
+
+La lectura de tutoriales ayuda mucho, aunque personalmente recomendaría la lectura de libros escritos por profesionales que te lleven a lo largo de lo que ellos pretenden mostrar en el texto que han escrito, sin lugar a dudas, la recomendación aquí es que adquieras libros qué contengan el contenido que deseas desarrollar y que verdaderamente te detengas a ejecutarlo.
+
+===== Aprendizaje por enseñanza.
+
+Definitivamente, para comprobar si has aprendido algo tienes que enseñárselo a alguien mas y determinar si eres capaz de explicar todos los conceptos alrededor del tema.
+
+Seguramente existen muchas otras formas de aprender a aprender, las que he descrito aquí son las que he visto que resultan mejor en la mayoría de los equipos. Lo verdaderamente importante aquí es poder determinar que mecanismo planeas usar y el momento en el que lo vas a aplicar para adquirir por tu cuenta un conocimiento.
