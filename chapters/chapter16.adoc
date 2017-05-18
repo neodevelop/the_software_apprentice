@@ -1,8 +1,48 @@
 
 === Capítulo 16. Aprender a fallar
 
+[quote, Oscar Wilde]
+Experiencia es el nombre que todo el mundo le da a sus errores.
+
+Una de las situaciones más frecuentes cuando comienzas una carrera por lo menos en el software es equivocarse, sin embargo, de alguna manera podemos estar protegidos cuando desarrollamos pues con ayuda de ciertos elementos podemos crear algunas cajas de arena que nos permitan estar a salvo de nuestras acciones.
+
+Quiero resaltar que una de las cosas más importantes es equivocarse, pero sobretodo aceptar que te equivocaste, aprender de ello, incluso documentarlo y avanzar con la certeza de saber que harás la siguiente ocasión.
+
+Considero que muchas de las cosas por las cuales nos contratamos hoy en día con algún empleador es por el hecho de lo que conocemos y no lo que ignoramos, y culturalmente hablando es aceptable hacerlo de esta manera, pero hay que reconocer el hecho de que no conocemos ciertos elementos y que necesitamos tener un ambiente que me permita experimentar para poder fallar.
+
+Importante será equivocarse y recuperarse rápidamente, será aun más importante comunicar al respecto de nuestros errores a los demás y hacernos responsables por ello.
+
+Quiero que sepas que no te debes de sentir mal por equivocarte, todos hemos estado en tu lugar alguna vez y nos hemos equivocado al tomar una decisión o ejecutar alguna instrucción, incluso hoy muchos de nosotros nos seguimos equivocando, lo que quiero que sepas y que seas consciente es que cuando comentes con alguien que tiene más experiencia al respecto de tu error seguramente te comprenderá y sabrá orientarte para que sepas que hacer, algo que no deberías dejar que pase es que ocultes tu error hasta el punto en el que no puedas ni siquiera controlarlo, tal como una botella que se deja abandonada en el bosque y que puede causar un gran incendio.
+
+Las fallas son potencialmente los elementos que engrandecen al software, especialmente hablando de innovación, en donde para hacer punta de flecha necesitas atravesar caminos que otros seguramente han evitado o no han cruzado, y que inclusive te permitirán explorar nuevos retos.
+
+También, deberás considerar apoyarte de foros y comunidades alrededor de tu entorno que pueden ayudarte con los errores que has tenido, ten por seguro que no eres el único, ni el primero y tampoco el último que falla en su camino, y te causará asombro la cantidad de veces y contextos en los que se repite exactamente la misma situación.
+
 ==== Crea una red de salvación
 
-==== Equivocate a propósito
+Creo que una de las cosas que todos hacemos en algún momento es echar a perder nuestra propia computadora, ya sea porque estamos tratando de instalar nuevo software o hardware, o bien porque simple y sencillamente queremos conocer que hay dentro de todo este complejo. Y si bien, tienes un plan por si la máquina llega a fallar completamente y puedes consultar a alguien que te pueda ayudar comprarla, o sabes de algún lugar en donde puedas repararla o consultar alguna información que te resuelva el problema, has creado un plan de acción alterno en dado caso de que todo falle.
+
+De la misma forma en el software, tienes un conocimiento al respecto de algo que has usado frecuentemente o que has experimentado hasta cierto punto y conoces, y al momento de tratar algo nuevo idea que no funciona podrías refugiarte en este conocimiento inicial que te va a permitir sacar tu trabajo.
+Anteriormente mencionados importancia de los proyectos alternos, si bien ellos empezaran hacer las primeras redes de salvación pues nos habrán dado el conocimiento necesario para poder sacar un proyecto con las tecnologías que hemos experimentado, por lo tanto, es importante que lo antes posible comiences proyecto alterno o que por lo menos comiences tocando ciertos elementos de tecnología que en muchas partes encontrarás con guías rápidas o tutoriales que encontraras propiamente en cada sitio de cada herramienta nueva que desees conocer.
+
+Y así como el caso de la persona que conoces para ayudarte en una emergencia, también puedes crear una red de salvación con alguna persona de tu confianza en la cual puedas informarte al respecto del quehacer en dado caso de que todo falle, inclusive hablamos de encontrar mentores en algún momento, pues bien esa persona podría ser tu mentor.
+
+Lo importante a resaltar aquí, es el hecho de que existen formas en las cuales tú puedes arriesgarte a aprender algo nuevo e ir con la confianza de que si algo sale mal sólo tengas que invertir más tiempo.
+
+==== No temas a tus errores
+
+La mejor forma de avanzar en tu carrera con el riesgo de los errores es ser claro con todas las personas al respecto de lo que no conoces, así ellos sabrán de lo que eres capaz y lo que podría ocurrirte en algún momento durante tu camino hacia el descubrimiento de un conocimiento nuevo, inclusive algunos de ellos podrían guiarte para que en algún momento te equivoques de forma segura pero aprendas al respecto de esa equivocación.
+
+Creada lazos de confianza con tu equipo de trabajo las personas que te rodean, darles una prueba de tu honestidad y humildad indicando verdaderamente que para algunas tareas no estás preparado, o simplemente no conoces del tema, pero que estás dispuesto a enfrentarlo y explorarlo en base a las sugerencias que te hagan.
+
+Una prueba de honestidad y confianza siempre será el elemento clave para que las personas que están a tu alrededor retiren el miedo de los posibles errores que puedas cometer, es decir, estas personas te protegerán de ti mismo.
 
 ==== Busca el error
+
+Tu carrera no se detiene durante este inicio en dónde estás aprendiendo al respecto de ciertas tecnologías herramientas, en definitiva, una de las formas en las que podrás aprender cualquier lenguaje o herramienta, inclusive en el trato con algún usuario o cliente, serás siempre a través de los errores.
+
+Tendrás que buscar y crear por ti mismo redes de salvación, exponer tus valores como profesional los cuales permitirán crear relaciones fuertes con las personas a tu alrededor, y hacerles saber de que eres capaz en este momento.
+
+Cada vez surgen más más tecnologías y más formas de trabajo, y cuando las comiences a adoptar desconocerás muchas cosas y por ende cometerás errores, poco a poco te darás cuenta de que la forma en la que te equivocas impacta cada vez menos en tu carrera, y será aquí cuando puedas empezar a controlar los errores en base a las decisiones que tomes con la experiencia previa de alguna situación similar en el uso de tecnología o comunicación con clientes y usuarios.
+
+En algún momento durante tu camino, podrás incluso reconocer riesgos que al tomarlos son directamente proporcional al beneficio o pérdida del tiempo o esfuerzo que puedas invertir, es decir, a mayor riesgo mayor beneficio, o bien una pérdida grave, lo importante será que tendrás este poder de decisión.
