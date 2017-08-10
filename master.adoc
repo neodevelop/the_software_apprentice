@@ -6,6 +6,7 @@ ifndef::ebook-format[:leveloffset: 1]
 :toc: left
 :toc-title: Contenido de estas memorias
 :icons: font
+:icon-set: pf
 :lang: es
 :source-highlighter: coderay
 
