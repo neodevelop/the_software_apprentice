@@ -1,5 +1,5 @@
 
-=== Capítulo 8. Proyectos alternos
+= Capítulo 8. Proyectos alternos
 
 [quote, John Maeda]
 Diseño es una solución al problema. Arte es una pregunta para un problema.
@@ -22,7 +22,7 @@ Y como un efecto colateral, tendrás algo que mostrar al mundo cuando llegue el 
 
 Y para que tus proyectos alternos tengan un círculo que cierra correctamente, la sugerencia es que nos puedas desplegar en alguna parte, es decir permitir que otros usuarios se benefician de ellos o bien simple y sencillamente tenerlos disponibles cuando los necesites,  para ello tendrás que hospedarlos en algún lugar y eso también te dejará un aprendizaje pues conocerás todo lo que necesitas para montar tu aplicación.
 
-==== Proyectos con fines sociales
+== Proyectos con fines sociales
 
 Desde siempre, puedes encontrar a muchas personas que están buscando generar un cambio en la sociedad y que no cuentan con el conocimiento técnico para hacerlo, estas personas están en busca de programadores que permitan hacer realidad sus propósitos, y son una muy buena oportunidad para crear software que más allá de ayudarte a ti, te permitieran crear algo que pudiera ayudar a una comunidad. También existen algunos otros eventos en los cuales se pretende crear software con un propósito en un tiempo muy acotado, y aunque estos eventos son muy famosos, prefiero aquellos en donde el bienestar está más allá de un interés económico.
 
@@ -34,7 +34,7 @@ Durante otra experiencia en un evento enfocado a apoyar lo que se conoce como em
 
 Lo que me quiero referir en esta parte es que existen personas que ya tienen un problema con el cual te puedes identificar, y al sumarte al propósito con tus habilidades puede ayudar demasiado, inclusive podrías conocer una tecnología que está hecha justo para el problema que se está presentando.
 
-==== Software para ti...
+== Software para ti...
 
 En otras ocasiones, tuve la necesidad de hacer ciertos programas para no tener que hacer tareas manuales.
 

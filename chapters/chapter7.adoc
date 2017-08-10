@@ -1,5 +1,5 @@
 
-=== Capítulo 7. Herramientas necesarias
+= Capítulo 7. Herramientas necesarias
 
 [quote, Benjamin Franklin]
 La oxidación por falta de uso gasta mucho más las herramientas que el propio trabajo.
@@ -20,7 +20,7 @@ De lo anterior, el aspecto relevante que deberías reconocer es la filosofía de
 
 Con todo esto me gustaría escribir un poco más aquellas que considero esenciales para un aprendiz de software.
 
-==== Conceptos esenciales
+== Conceptos esenciales
 
 Definitivamente creo que hay elementos que deberíamos de conocer ya sea en nuestra época de estudiantes o bien cuando verdaderamente queremos crear aplicaciones de alto desempeño, o por lo menos con un nivel de detalles que se pueda considerar notable.
 
@@ -40,7 +40,7 @@ No describo cada uno de estos elementos mencionados porque seguramente podrás e
 
 Por ejemplo, _”Inside the machine”_ de Jon Stokes.
 
-==== Manejo del sistema operativo
+== Manejo del sistema operativo
 
 muchas cosas están aquí, me refiero a que hoy en día no existe una manera de usar una computadora si no es a través de su sistema operativo, y para un aprendiz de software es estrictamente necesario conocer la forma en como está diseñado el sistema operativo con el cual se va a dedicar a trabajar.
 
@@ -74,7 +74,7 @@ Si estás usando ubuntu por ejemplo, entonces estás usando un super conjunto de
 
 A lo que me refiero es que si conoces la filosofía con la que fue creado alguna herramienta o elemento dentro de algún sistema operativo, entonces podrás comprender muchas de las cosas al respecto de su funcionamiento.
 
-==== Un editor de texto
+== Un editor de texto
 
 Necesitas encontrar una forma de editar texto rápidamente y con alguna herramienta muy ligera que puedes encontrar en diferentes sistemas operativos, la cual te permita desempeñarte de forma natural sin importar que sistema estás explorando.
 
@@ -96,7 +96,7 @@ Ahora también, independientemente de que existan plataformas de desarrollo las 
 
 Inclusive algunos de estos editores fueron hechos para abrir archivos tan grandes que programas convencionales no podrían abrir.
 
-==== Un control de versiones
+== Un control de versiones
 
 A todas las personas que hacemos software nos ha pasado algo muy similar cuando estamos escribiendo algún fragmento de código que está intentando resolver un problema, llene el cual hemos invertido bastante tiempo, comenzamos con una solución pensando que podría hacer, y la crecemos y le evolucionamos a lo largo de un día o dos, inclusive en el peor de los casos una semana o más, y cuando nos damos cuenta vemos que la solución que más se acercaba a lo que queríamos era justo la que teníamos al principio o la qué comenzamos a hacer.
 

@@ -1,10 +1,10 @@
 
-=== Capítulo 4. Entusiasmo, motivación y actitud (¿cuánto vales?)
+= Capítulo 4. Entusiasmo, motivación y actitud (¿cuánto vales?)
 
 [quote, Víctor küppers]
 Las personas somos como bombillas con patas, hay personas que van a 30mil vatios y hay personas que van fundidas...
 
-==== La fórmula `v = (c + h) * a`
+== La fórmula `v = (c + h) * a`
 
 En mucho tiempo no había encontrado una forma de describir la manera en que un aprendiz puede desempeñarse, y una vez escuche a víctor küppers, quién comentó en menos de 18 minutos el valor de una persona. El lo describe en una fórmula: `v = (c + h) * a`.
 

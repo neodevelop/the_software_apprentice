@@ -1,5 +1,5 @@
 
-=== Capítulo 9. ¿Que deberías leer?
+= Capítulo 9. ¿Que deberías leer?
 
 [quote, Mario Vargas Llosa, premio nobel de literatura.]
 Aprender a leer es lo más importante que me ha pasado. Casi 70 años después recuerdo con nitidez esa magia de traducir las palabras en imágenes.
@@ -20,7 +20,7 @@ En alguna parte atrás comenté que la buena educación o formación cuesta, pue
 
 Es decir, mucho del contenido valioso está en aquellos libros que que los profesionales de software están escribiendo actualmente.
 
-==== Acerca de los libros técnicos
+== Acerca de los libros técnicos
 
 Si bien conocer de tecnología es importante, entonces deberías de considerar el adquirir algún libro qué tenga que ver con un lenguaje de programación o una biblioteca particular, incluso un framework. Y en definitiva lo tendrás que hacer, ya sea para entrar a ser parte activa de un mercado que está en constante competencia, o mejor aún por el deseo de conocer de primera mano que es aquello de lo que tanto hablan todas esas personas que ya están laborando.
 Sin embargo hay algo que debes de considerar, generalmente los libros que son puramente técnicos y que tratan al respecto de una versión particular de un software o lenguage, tienden a caducar de forma natural, esto no es malo pues definitivamente habrá conceptos que se conservarán a lo largo de todas aquellas versiones, pero entradas en la constante actualización de esta herramienta, lo cual tampoco es malo, más bien lo que quiero transmitirte aquí es que en lo que a elementos técnicos se refiere deberás de estar en constante actualización y que seguramente muchas de las cosas que hoy leas en un futuro ya no serán vigentes, por lo que debes de ser cuidadoso con aquello a lo cual le inviertes un tiempo valioso te identificar aquellos conceptos que son centrales para dicha herramienta, lenguaje, biblioteca o framework.
@@ -29,7 +29,7 @@ Definitivamente tienes que leer libros técnicos, pero ten siempre en considerac
 
 Al final del día, muchos de estos libros técnicos te quedarán simplemente de recuerdo, pues al pasar de los años nuevas versiones de los mismos surgirán y posiblemente tendrás la posibilidad de actualizarlo, pero estarás constantemente desechando aquellos textos viejos que contienen la actualización y el contenido núcleo el cual le distes desde un principio.
 
-==== Acerca de los libros metódicos y teóricos.
+== Acerca de los libros metódicos y teóricos.
 
 En definitiva, los libros que tratan al respecto de alguna disciplina come todo orientado al desarrollo de software suelen ser perdurables, inclusive algunos de ellos siguen siendo referencia se importar que hayan pasado los años y siempre habrá alguien que te recomiende alguno de estos.
 
@@ -57,7 +57,7 @@ Lo que quiero transmitir aquí es el hecho de que muchos de estos conceptos los 
 
 Lo más importante de todos estos libros y textos, es el hecho de hacer que los conceptos que rigen a la ciencias computacionales sean congruentes con todo lo que usamos y podemos crear, realmente muchas de las cosas que hasta el día de hoy han salido a resolver algún problema que parecía imposible se ha podido lograr gracias al conocimiento extensor profundo de algo que ya existía desde hace mucho tiempo.
 
-==== Acerca de los libros históricos
+== Acerca de los libros históricos
 
 Definitivamente estos son los libros que deberías de leer, existen varios autores que han narrado la forma en cómo la tecnología y sus protagonistas han cambiado la forma de vida de muchas personas, que de los hechos más importantes en la actualidad es que la mayoría de las personas que han creado algo, son personas de esta época, con las cuales aún podemos tener contacto para poder preguntarles al respecto de sus motivos e inspiraciones.
 

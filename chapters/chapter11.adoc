@@ -1,5 +1,5 @@
 
-=== Capítulo 11. Ignorancia y experiencia
+= Capítulo 11. Ignorancia y experiencia
 
 [quote, proverbio chino]
 Conocer nuestra ignorancia es la mejor parte del conocimiento.
@@ -21,7 +21,7 @@ También, el hecho de ir abarcando todo aquello que desconocemos no nos exenta d
 Todo este camino que recorramos nos ayudará a obtener eso que denominamos experiencia, con lo cual podremos resolver problemas similares en un periodo menor de tiempo o tal vez con una mejor calidad de la que hicimos en primera instancia, la experiencia no es más que el aprendizaje de todos los errores que cometimos al usar una tecnología de la forma en la que se nos presentó bajo el contexto y circunstancias que vivimos en ese momento.
 Es por esto, que consideramos el hecho de no saber ciertas cosas como benéfico, pero que vemos mucho mejor el acto de atacar dichos elementos.
 
-==== Haz una lista de cosas que desconoces
+== Haz una lista de cosas que desconoces
 
 Siempre hay una forma de empezar, a veces esa forma no es la más adecuada, o bien no tenemos algún tipo de acceso que nos permita identificar un inicio, pues bien, hoy es el día en el que usamos software mucho más que antes y seguramente lo usaremos más y cada vez más, es por esto que te podrías preguntar como hacen ciertas personas para crear el software que ahora estamos usando en todos nuestros dispositivos, y creo que ese es un buen inicio.
 
@@ -31,7 +31,7 @@ Llegará un. En donde serán tantos los elementos y conceptos qué tienes que ap
 
 Lo importante aquí es que verdaderamente hagas está lista porque será el precedente del estado en el que te encuentras en este momento, el cual tendrás que modificar conforme el tiempo avance, y en algún momento volverás a esta lista y determinarás si verdaderamente has progresado en este camino, o bien está lista te servirá para no olvidar todo aquello que te planteaste conocer para poder llegar a ser un profesional.
 
-==== Revisa tu avance
+== Revisa tu avance
 
 Tal vez existan muchas cosas por hacer o aprender, e inclusive podrías desviarte del camino que inicialmente elegiste, pero sin lugar a dudas la recomendaciones que hagas la lista en inicial, y que aunque no la ataques directamente y de forma inmediata, te podrá dar en algún momento un precedente de lo que querías aprender, lo cual será valioso para que tú puedas tomar una decisión al respecto de qué es lo siguiente que te gustaría aprender o incorporar a tu carrera profesional.
 

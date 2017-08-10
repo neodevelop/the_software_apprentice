@@ -1,12 +1,12 @@
 
-=== Capítulo 5. Pasión (ámalo o déjalo)
+= Capítulo 5. Pasión (ámalo o déjalo)
 
 [quote, Todos los amos]
 Elegir es renunciar...
 
 Tienes que tomar una decisión, aunque podría ser un paso más en tu vida, podrías bien dedicarte lo que resta de ella.
 
-==== Estos son los hechos...
+== Estos son los hechos...
 
 La verdad sea dicha, no necesitas estudiar una carrera para dedicarte a programar, sin embargo, ayuda mucho que tengas conocimientos esenciales al respecto de todo lo que rodea la ciencias de la informática y la computación, y también ayuda mucho el hecho de que conozcas otros giros o actividades que no tengan que ver con la programación.
 
@@ -24,7 +24,7 @@ No es sencillo, pero es muy gratificante y el camino es extremadamente largo, pu
 
 Es decir, es una profesión en la cual puedes pasarte tu vida entera, y de ser así, entonces estás leyendo las palabras adecuadas.
 
-==== Sólo tienes que decidir.
+== Sólo tienes que decidir.
 
 Definitivamente, considero que no necesitas haber nacido con un talento en la programación, creo que lo único indispensable es la pasión y emoción que te despiertan el hecho de conocer la tecnología y crear herramientas con ella, y con ayuda de la práctica alcanzarás la maestría, la excelencia técnica con la que serás capaz de resolver muchos tipos de problema en diferentes ámbitos o en uno muy particular.
 

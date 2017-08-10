@@ -1,5 +1,5 @@
 
-=== Capítulo 16. Aprender a fallar
+= Capítulo 16. Aprender a fallar
 
 [quote, Oscar Wilde]
 Experiencia es el nombre que todo el mundo le da a sus errores.
@@ -18,7 +18,7 @@ Las fallas son potencialmente los elementos que engrandecen al software, especia
 
 También, deberás considerar apoyarte de foros y comunidades alrededor de tu entorno que pueden ayudarte con los errores que has tenido, ten por seguro que no eres el único, ni el primero y tampoco el último que falla en su camino, y te causará asombro la cantidad de veces y contextos en los que se repite exactamente la misma situación.
 
-==== Crea una red de salvación
+== Crea una red de salvación
 
 Creo que una de las cosas que todos hacemos en algún momento es echar a perder nuestra propia computadora, ya sea porque estamos tratando de instalar nuevo software o hardware, o bien porque simple y sencillamente queremos conocer que hay dentro de todo este complejo. Y si bien, tienes un plan por si la máquina llega a fallar completamente y puedes consultar a alguien que te pueda ayudar comprarla, o sabes de algún lugar en donde puedas repararla o consultar alguna información que te resuelva el problema, has creado un plan de acción alterno en dado caso de que todo falle.
 
@@ -29,7 +29,7 @@ Y así como el caso de la persona que conoces para ayudarte en una emergencia, t
 
 Lo importante a resaltar aquí, es el hecho de que existen formas en las cuales tú puedes arriesgarte a aprender algo nuevo e ir con la confianza de que si algo sale mal sólo tengas que invertir más tiempo.
 
-==== No temas a tus errores
+== No temas a tus errores
 
 La mejor forma de avanzar en tu carrera con el riesgo de los errores es ser claro con todas las personas al respecto de lo que no conoces, así ellos sabrán de lo que eres capaz y lo que podría ocurrirte en algún momento durante tu camino hacia el descubrimiento de un conocimiento nuevo, inclusive algunos de ellos podrían guiarte para que en algún momento te equivoques de forma segura pero aprendas al respecto de esa equivocación.
 
@@ -37,7 +37,7 @@ Creada lazos de confianza con tu equipo de trabajo las personas que te rodean, d
 
 Una prueba de honestidad y confianza siempre será el elemento clave para que las personas que están a tu alrededor retiren el miedo de los posibles errores que puedas cometer, es decir, estas personas te protegerán de ti mismo.
 
-==== Busca el error
+== Busca el error
 
 Tu carrera no se detiene durante este inicio en dónde estás aprendiendo al respecto de ciertas tecnologías herramientas, en definitiva, una de las formas en las que podrás aprender cualquier lenguaje o herramienta, inclusive en el trato con algún usuario o cliente, serás siempre a través de los errores.
 

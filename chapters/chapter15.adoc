@@ -1,5 +1,5 @@
 
-=== Capítulo 15. Aprender a aprender
+= Capítulo 15. Aprender a aprender
 
 [quote, Confucio (551 ac-478 ac) filósofo chino.]
 Me lo contaron y lo olvidé; lo vi y lo entendí; lo hice y lo aprendí.
@@ -28,7 +28,7 @@ Tienes que responder varias preguntas, por ejemplo:
 
 A partir de aquí, podrías empezar a tomar algunas decisiones por ti mismo para recorrer un camino, que sin lugar a dudas te va llevar por una vereda larga pues en algunos casos posiblemente no tengas quien te pueda explicar detalladamente algún concepto, y es aquí en donde te recomendamos cómo lo mencionamos  anteriormente, que busques a un mentor. En la mayoría de los casos no vas a contar con dicho mentor, y es por eso qué tienes que tomar la decisión de ser autodidacta.
 
-==== Sé autodidacta
+== Sé autodidacta
 
 ¿que significa ser autodidacta? De manera muy simple considero que es la habilidad que se puede adquirir a través de algún método para poder comprender el funcionamiento de ciertos elementos, sin necesariamente profundizar en el tema al respecto.
 
@@ -38,35 +38,35 @@ Pero mejor aún, cuando aprendiste de forma inicial algo que te gustó, segurame
 
 La lección aquí es no desechar ninguna oportunidad que te permita descubrir una forma de aprender a hacer algo.
 
-==== Formas de aprender
+== Formas de aprender
 
 Me gustaría mencionarte algunas de las principales formas que he visto efectivas en la mayoría de las personas o equipos con los que trabajado, recomendaciones meramente personales que me han traído algún resultado positivo.
 
-===== Aprendizaje por imitación.
+=== Aprendizaje por imitación.
 
 Una de las formas que me sirve mucho para poder adquirir conocimiento fue observado detenidamente la forma en cómo operaban ciertas personas, la manera en cómo manipulaban el teclado e inclusive los elementos que hacían aparecer en la pantalla, sin lugar a duda yo quería hacer algo similar si no es que lo mismo, y entonces observaba detenidamente que era lo que hacían estas personas para poder replicarlo, el objetivo aquí era realizar exactamente las mismas actividades o ejecuciones que yo veía a través de otras personas.
 
-===== Aprendizaje por error.
+=== Aprendizaje por error.
 
 Definitivamente, cuando estamos atorados con alguna pieza de software if frente nuestros ojos aparece un error, generalmente buscamos en el error y llega un punto en donde es complicado encontrar una solución, aló cual comenzamos a experimentar con lo que circula alrededor del fragmento de código en cuestión hasta que por alguna extraña razón atinamos, la recomendación aquí es verdaderamente conocer la razón de dicho error pues eso será un permanente qué se irá en nuestra mente debido a la frustración que nos puede causar.
 
-===== Aprendizaje por experiencia.
+=== Aprendizaje por experiencia.
 
 Muy similar al anterior, pero haciendo componentes de forma exitosa y alcanzando pequeños logros sucesivos que nos permiten llegar a un fin, la satisfacción es algo que permite que el aprendizaje sea perdurable.
 
-===== Aprendizaje por repetición.
+=== Aprendizaje por repetición.
 
 Algunas otras veces, creamos piezas de software similares o bien realizamos tareas diarias recurrentes que nos van a permitir perfeccionar poco a poco la forma en cómo ejecutamos y manejamos los periféricos, o accesos a diferentes recursos en una red, estas actividades son las mismas una y otra vez.
 
-===== Aprendizaje en la resolución de retos.
+=== Aprendizaje en la resolución de retos.
 
 Actualmente, existen muchos sitios que exponen ciertos problemas los cuales son candidatos resolverse con algún lenguaje de programación, también hay otros tipos de retos mucho más elaborados que permiten crear productos casi completos; en ambos casos se puede utilizar el conocimiento adquirido para resolverlos, o bien si no se sabe cómo resolverlos puede ser un buen comienzo para poder investigar que puede ayudar a resolver.
 
-===== Aprendizaje por lectura.
+=== Aprendizaje por lectura.
 
 La lectura de tutoriales ayuda mucho, aunque personalmente recomendaría la lectura de libros escritos por profesionales que te lleven a lo largo de lo que ellos pretenden mostrar en el texto que han escrito, sin lugar a dudas, la recomendación aquí es que adquieras libros qué contengan el contenido que deseas desarrollar y que verdaderamente te detengas a ejecutarlo.
 
-===== Aprendizaje por enseñanza.
+=== Aprendizaje por enseñanza.
 
 Definitivamente, para comprobar si has aprendido algo tienes que enseñárselo a alguien mas y determinar si eres capaz de explicar todos los conceptos alrededor del tema.
 

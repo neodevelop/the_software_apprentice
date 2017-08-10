@@ -1,5 +1,5 @@
 
-=== Capítulo 14. Mentores y aprendices
+= Capítulo 14. Mentores y aprendices
 
 [quote, Horace Mann (1796-1859). Educador estadounidense.]
 El maestro que intenta enseñar sin inspirar en el alumno el deseo de aprender está tratando de forjar un hierro frío.
@@ -10,7 +10,7 @@ Tienes que considerar algo muy importante, no siempre encontrarás quién quiera
 
 También es necesario aclarar algunas cosas al respecto de los mentores y los aprendices; tenemos que evitar el confundir o malinterpretar el rol de un mentor con el de un maestro, es decir, evitar caer en el error en donde idealicemos a nuestro mentor como la persona que tiene la verdad absoluta, puedes el día en el que posiblemente flaquee de la forma natural en aquello que no domina posiblemente nos crearemos una mala opinión y de forma inválida, un mentor es como un acompañante que te ayuda a realizar algo por tu cuenta, a cuestionarte al respecto de lo que estás usando y a crear una conciencia que te permita saber si le estás haciendo adecuadamente.
 
-==== Sé un aprendiz
+== Sé un aprendiz
 
 Un aprendiz puede ser cualquiera, inclusive aquellas personas que ya han recorrido un camino durante años, pero que desean conocer al respecto de un tema que es completamente ajeno al contexto en el cual están viviendo. Un aprendiz tiene la disposición de vaciar su mente para dar espacio a nuevas formas de crear software, tiene la humildad de aceptar su ignorancia respecto al tema y de formular preguntas usando el conocimiento que va adquiriendo, respeta a sus compañeros y a su mentor, no es egocéntrico y no antepone el conocimiento que ha adquirido para verse es superior a los demás.
 
@@ -34,7 +34,7 @@ Ahora bien, no te confundas, así como tu mentor no será del todo un maestro, u
 
 Es fácil identificar quién podría ser tu mentor, una recomendación es que hace estás a grupos de usuarios y comunidades en tu localidad, qué escuches a aquellos que exponen y participan, a aquellos que organizan también, te informes y preguntes, y seguramente podrás encontrar una oportunidad.
 
-==== Sé un mentor
+== Sé un mentor
 
 
 Conforme pasa el tiempo y estés alcanzando un nivel de experiencia, también lograrás ciertos niveles de confianza qué te permitirán transmitir el conocimiento que has ido adquiriendo en el camino, y es aquí en donde encontrarás una de las mejores formas de reafirmar todo aquello que has aprendido.

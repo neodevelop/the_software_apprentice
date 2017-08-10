@@ -1,14 +1,14 @@
 
-=== Capítulo 18. Equipos y colaboración
+= Capítulo 18. Equipos y colaboración
 
-==== Aprende a trabajar solo
-
-No seas un cretino
-
-==== Aprende a trabajar en equipo
+== Aprende a trabajar solo
 
 No seas un cretino
 
-==== Conoce la forma de colaborar en un proyecto
+== Aprende a trabajar en equipo
+
+No seas un cretino
+
+== Conoce la forma de colaborar en un proyecto
 
 No seas un cretino

@@ -1,5 +1,5 @@
 
-=== Capítulo 1. ¿Qué es un profesional de software?
+= Capítulo 1. ¿Qué es un profesional de software?
 
 [quote, Wikipedia]
 ...Los profesionales, en su mayoría, están sujetos a estrictos códigos de conducta, rigurosa ética profesional y obligación moral con la sociedad.
@@ -16,7 +16,7 @@ Bajo este mismo esquema, reflexiona acerca del software que estás usando actual
 
 Todo lo anterior, me lleva a mencionar varios aspectos que deberías de considerar al momento de desarrollar software para ti o para un grupo de personas que podrían contratarte y crear productos que pueden ser útiles para otras personas, o bien, simplemente porque verdaderamente crees que puedes crear un programa que ayude a cumplir un propósito.
 
-==== Responsabilidad
+== Responsabilidad
 
 Tal vez no lo estás viendo del todo, pero en el momento en el que estás creando una herramienta o un programa con un propósito, algún tipo de responsabilidad recae en la ejecución de este programa. Es por esto, que debes de ser consciente de qué lo que estás haciendo puede ser un componente muy importante para alguien que lo usara diariamente, y que puedes ayudarle a mejorar la manera en que realice sus actividades, o bien impedirle de alguna manera que estas actividades se ejecuten correctamente solamente por cumplir ciertas condicionantes que se han puesto en dicho programa. La falta de flexibilidad en ciertas aplicaciones de software han demostrado cómo es que se puede aumentar el tiempo que se dedica una actividad cuando un software está mal enfocado o mal diseñado.
 
@@ -30,7 +30,7 @@ Una de las cosas que considero importante de las personas que recientemente se e
 
 Dicho lo anterior, puedo describir el conjunto de elementos pueden ayudar a un aprendiz a expresar sus ideas, y a que sus compañeros le sientan como alguien que puede ayudar.
 
-==== Principios y valores
+== Principios y valores
 
 Creo que uno de los elementos más importantes para generar un lazo de confianza en un equipo de desarrollo es siendo honesto desde el principio. Lamentablemente, la sociedad en la forma en la que solicita a personas que puedas realizar un trabajo, establecer ciertos parámetros y condiciones que deben de cumplir los candidatos para poder ser competitivos dentro de lugar que pueden ocupar, que muchos de nosotros nos hemos vendido en algún momento por los elementos que conocemos, mas no por los que nos conocemos, esto trae como consecuencia el hecho de poder engañar a nuestro empleado diciendo que sabemos lo que nos está pidiendo, cuando realmente no lo sabemos con la finalidad de obtener un lugar dentro de la empresa u organización.
 Pareciera que ser honesto es más difícil, sin embargo, creo que podría resultar bastante simple si planteamos el escenario inicial con todos sus defectos, me refiero a aceptar el hecho de que hay muchas cosas que verdaderamente como aprendiz de software no sabemos, pero que en el camino vamos a aprender y que estamos comprometidos a hacerlo, dado el punto platicado anteriormente. Esto es mucho más despreciable por cualquier persona, pues son elementos importantes que determinan la toma de una decisión de alguien que nos puede emplear, o de nosotros mismos al saber que invertiremos esfuerzo y tiempo en conocer alguna plataforma, tecnología o proceso.
@@ -43,7 +43,7 @@ Y aunque hay muchos tipos de personas, que piensan distinto a como yo pensaría,
 
 Al final del día, ¿como se que estoy haciendo es lo correcto y que verdaderamente estoy avanzando en mi carrera como desarrollador de software? Pues bien, actualmente existen ciertos elementos que me pueden ayudar a determinarlo.
 
-==== Trabajo ético
+== Trabajo ético
 
 Durante los últimos 20 años, se ha escuchado alguna corriente denominada como ágil, que permite conocer establecer ciertas metas al momento de desarrollar software.
 
@@ -61,7 +61,7 @@ ____
 Esto es, aunque valoramos los elementos de la derecha, valoramos más los de la izquierda.
 ____
 
-==== Aprendizaje continuo
+== Aprendizaje continuo
 
 No existe otra manera de avanzar en una carrera si no es aprendiendo continuamente nuevas técnicas y métodos, y en este caso muy particular del desarrollo de software también tecnología.
 
@@ -75,7 +75,7 @@ Lo importante aquí es tener esa lista, ordenarla y priorizarla, y buscar los el
 
 Inclusive, años después haber comenzado tu carrera como profesional de software, te darás cuenta que esto es una técnica muy efectiva, pues cada vez saldrá más software que usarás y que seguramente querrás saber como funciona, lo importante aquí es mantener la curiosidad de conocer realmente que hacen otras personas y como lo están haciendo.
 
-==== Comunicación efectiva
+== Comunicación efectiva
 
 Llegados a este punto, debo reconocer lo importante que ha sido y será la comunicación oral y escrita impartida a través de las materias de español, la literatura incluida ahí también, esencial en su forma más simple y necesario para transmitir las ideas de la manera que pretendemos lleguen a los demás.
 
@@ -91,7 +91,7 @@ Una gran práctica que podríamos realizar para mejorar nuestras habilidades de 
 
 Una vez escuché decir a un amigo qué tendrías que explicar algunas cosas como si se se las estuvieras diciendo ah tu mamá o a tu abuela, pensando en ese escenario las cosas se complican, no porque no sepan de tecnología si no más bien por el cuidado y la dedicación que invertirías para hacer que quede claro.
 
-==== Practicar
+== Practicar
 
 Hemos tocado varios puntos que hablan de practicar ciertas habilidades, sin embargo, ¿qué hay en la adopción de nuevas tecnologías y plataformas de software?, pues bien, definitivamente lo que tienes que hacer es plantearte el objetivo de querer aprenderlas y comenzar a practicar.
 
@@ -109,7 +109,7 @@ Como se puede ver, todo esto es práctica y entre más la ejecutes mejor la domi
 
 En esta profesión, uno de los mayores beneficios lo encontrarás al practicar y tener la satisfacción de que tú también lo puedes hacer.
 
-==== Conocimientos generales
+== Conocimientos generales
 
 Se han expuesto varios puntos al respecto de los elementos esenciales que debería de conocer un aprendiz de software para comenzar su carrera, sin embargo, no queda de lado el hecho de que se debe enriquecer la mente a través de otras ciencias ajenas a la computación, especialmente aquellas que permitan llevar el ámbito tecnológico a algo más humano, a la convivencia y a una charla en algún lugar lejano de la computadora.
 

@@ -1,10 +1,10 @@
 
-=== Capítulo 17. Métodos y metodologías
+= Capítulo 17. Métodos y metodologías
 
-==== Marcos de trabajo
+== Marcos de trabajo
 
-==== Metodologías
+== Metodologías
 
-==== Métodos de trabajo
+== Métodos de trabajo
 
-==== Diseño de software
+== Diseño de software

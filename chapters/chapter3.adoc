@@ -1,7 +1,7 @@
 
-=== Capítulo 3. No escuches a nadie
+= Capítulo 3. No escuches a nadie
 
-==== No escuches a tus compañeros/amigos
+== No escuches a tus compañeros/amigos
 
 Hace mucho tiempo después de que salí de la universidad, platiqué con algunos de mis compañeros con los que había estudiado y dado que ya habían pasado algunos años desde que regresamos, vino a la mesa la inevitable platicar al respecto de qué estás haciendo o en qué estás trabajando ahorita, esta plática puede resultar un poco incómoda dependiendo de donde la tomes, quiero explicar porqué, parafraseando un poco la charla iba algo así:
 
@@ -34,7 +34,7 @@ También, y de forma colateral tus percepciones aumentarán pues serás de los p
 
 No veas esto por el efecto económico, pues si lo haces podrás desviarte del verdadero encuentro con el conocimiento, hoy en día el _expertise_ de una tecnología puede ayudarte de muchas maneras, lo alcances tarde o temprano, y conforme pase el tiempo serás cada vez más valioso, muy diferente a otras profesiones en donde el rango de edad para emplearse es muy acotado, en el desarrollo de software cada experiencia cuenta más para el profesional pues tiene lo necesario para resolver una necesidad de magnitudes cada vez superiores.
 
-==== No escuches a tu padres
+== No escuches a tu padres
 
 No quiero que me mal entiendan, solamente quiero que consideren el contexto cultural en donde en algún momento en el tiempo la obtención de un título universitario o certificado era valorado de diferente manera, en donde la percepción de tus padres o familiares que te conocen les dice que estudiando podrás alcanzar títulos, y alcanzando títulos tendrás nuevas oportunidades, y por ende te irá mejor en la vida. Pues bien, hoy tenemos casos en donde hay gente que no terminó la escuela y que ha tenido algún tipo de éxito, no me refiero solamente lo económico, en otros casos también es concerniente el aspecto social, es decir cuántas personas ha impactado, o bien incluso los descubrimientos que ha hecho en su campo o el desarrollo de alguna nueva tecnología.
 

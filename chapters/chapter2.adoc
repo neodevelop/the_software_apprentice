@@ -1,5 +1,5 @@
 
-=== Capítulo 2. Invierte en ti
+= Capítulo 2. Invierte en ti
 
 [quote, El autor]
 ...Considero que la buena educación(incluso la autodidacta) cuesta tiempo, dinero y/o esfuerzo...
@@ -12,7 +12,7 @@ Una de las cosas que pude notar durante el aprendizaje de varias de estas plataf
 
 Me quiero enfocar específicamente a lo que mencioné al principio, tres elementos que podrías bien balancear para obtener un gran beneficio, entiendo que durante la etapa de principiante los recursos económicos son escasos y en algunos casos nulos, por eso me quiero centrar en los otros dos, y a modo de resumen tocaré el aspecto monetario.
 
-==== Esfuerzo
+== Esfuerzo
 
 Definitivamente tienes que comprometerte con lo que estás haciendo y considerar que los elementos fáciles de obtener no te entregarán un gran valor; me refiero a el hecho de que muchos de los recursos, específicamente aquellos que muestran tecnología, los que verdaderamente valen la pena están en otro idioma y tendrás que considerar el hecho de aprenderlo de alguna u otra manera, para lo cual existen recursos escolares o gratuitos que te ayudan a sobreentender lo más esencial, con lo que podrías avanzar.
 
@@ -26,7 +26,7 @@ Si ya leíste o revisaste algún video al respecto del tema, definitivamente ten
 
 Entre mayor sea el esfuerzo que inviertas al aprender algún elemento, mayor será el beneficio que pudieras obtener de este.
 
-==== Tiempo
+== Tiempo
 
 Uno de los elementos que más tienes cuando estás iniciando es el tiempo, Y deberás aprovecharlo de la mejor manera, investigando, leyendo O bien practicando.
 
@@ -44,7 +44,7 @@ Lo que digo es que como lo sugirió robert c. Martin en el libro _”the clean c
 
 Todo esto te servirá para que administres correctamente uno de los recursos que jamás se recupera, el que no puedes comprar y que te gustaría aprovechar con las personas buenas actividades que más te gustan.
 
-==== Dinero
+== Dinero
 
 Definitivamente, si tienes la posibilidad de acortar un camino literal en tu carrera, deberías hacerlo y enfocarlo en aquello que deseas lograr.
 

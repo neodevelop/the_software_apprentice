@@ -16,7 +16,7 @@ Es por esto, que podido identificar algunos elementos que haciendo comunes en lo
 Todo lo escrito aquí, está enfocado a guiar a un aprendiz de software que tenga la pasión de emprender en camino muy largo lleno de frustraciones satisfacciones, pero tan importante como poder hacer la carrera de un abogado o doctor o cualquier otra disciplina que impacte la vida de las personas.
 
 [preface]
-== A quién va dirigido
+= A quién va dirigido
 
 Creo que es importante mencionar que todo lo que puedas leer aquí está orientado a desarrolladores de software, sin embargo, bien podría servirte para algunos aspectos en alguna de las ramas alternas de la tecnología o de la ciencias computacionales en las que te deseas desempeñar, pero quiero hacer mucho énfasis en el hecho de que si estás pensando en ser un desarrollador de software y te agrada mucho la tecnología, pero sobretodo quieres aprender continuamente de todos los cambios que existen actualmente del mercado, entonces creo que lo que estoy escribiendo aquí podré ayudarte.
 
