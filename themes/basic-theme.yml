@@ -33,25 +33,9 @@ base:
   align: justify
   # color as hex string (leading # is optional)
   font_color: 333333
-  # color as RGB array
-  #font_color: [51, 51, 51]
-  # color as CMYK array (approximated)
-  #font_color: [0, 0, 0, 0.92]
-  #font_color: [0, 0, 0, 92%]
   font_family: Noto Serif
-  # choose one of these font_size/line_height_length combinations
-  #font_size: 14
-  #line_height_length: 20
-  #font_size: 11.25
-  #line_height_length: 18
-  #font_size: 11.2
-  #line_height_length: 16
-  font_size: 10.5
-  #line_height_length: 15
-  # correct line height for Noto Serif metrics
-  line_height_length: 12
-  #font_size: 11.25
-  #line_height_length: 18
+  font_size: 12
+  line_height_length: 14
   line_height: $base_line_height_length / $base_font_size
   font_size_large: round($base_font_size * 1.25)
   font_size_small: round($base_font_size * 0.85)
@@ -75,7 +59,7 @@ literal:
   font_family: M+ 1mn
 menu_caret_content: " <font size=\"1.15em\"><color rgb=\"b12146\">\u203a</color></font> "
 heading:
-  align: left
+  align: right
   #font_color: 181818
   font_color: $base_font_color
   font_family: $base_font_family
@@ -85,16 +69,20 @@ heading:
   # h2 is used for chapter titles (book doctype only)
   h2_font_size: floor($base_font_size * 2.15)
   h3_font_size: round($base_font_size * 1.7)
+  h3_align: left
   h4_font_size: $base_font_size_large
+  h4_align: left
   h5_font_size: $base_font_size
+  h5_align: left
   h6_font_size: $base_font_size_small
+  h5_align: left
   #line_height: 1.4
   # correct line height for Noto Serif metrics (comes with built-in line height)
   line_height: 1
   margin_top: $vertical_rhythm * 0.4
   margin_bottom: $vertical_rhythm * 0.9
 title_page:
-  align: right
+  align: left
   logo:
     top: 10%
   title:
@@ -234,10 +222,11 @@ toc:
   dot_leader:
     #content: ". "
     font_color: a9a9a9
-    #levels: 2 3
+    levels: 1
 # NOTE in addition to footer, header is also supported
 footer:
   font_size: $base_font_size_small
+  font_color: b6b6b6
   # NOTE if background_color is set, background and border will span width of page
   border_color: dddddd
   border_width: 0.25
@@ -257,8 +246,8 @@ footer:
   recto:
     #columns: "<50% =0% >50%"
     right:
-      content: '{page-number}'
-      #content: '{section-or-chapter-title} | {page-number}'
+      #content: '{page-number}'
+      content: '{section-or-chapter-title} | {page-number}'
       #content: '{document-title} | {page-number}'
     #center:
     #  content: '{page-number}'
