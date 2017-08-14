@@ -19,8 +19,7 @@ namespace :build do
 
   desc "Build the PDF version"
   task :pdf do
-    #system("asciidoctor-pdf -o build/book.pdf -a pdf-stylesdir=themes -a pdf-style=base master.adoc")
-    system("asciidoctor-pdf -o build/book.pdf master.adoc")
+    system("asciidoctor-pdf -o build/book.pdf -a pdf-stylesdir=themes -a pdf-style=basic master.adoc")
     puts "PDF Generated in build/"
   end
 
