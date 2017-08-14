@@ -1,10 +1,72 @@
 
 = Capítulo 17. Métodos y metodologías
 
-== Marcos de trabajo
+[quote, Bruce Lee]
+El arte es la expresión de uno mismo. ¡Cuanto más complicado y restrictivo es un método, menos oportunidad para la expresión del sentido original propio de libertad!
 
-== Metodologías
+Seguramente cuando empieces a desarrollar tu carrera vas encontrar en tu camino una serie de elementos que te ayudarán a administrarte en cuanto al software que estás desarrollando y también en la forma en la que diseñas soluciones a problemas en términos de código.
 
-== Métodos de trabajo
+No pretendo ahondar en cada método o marco de trabajo existente, pues existen libros completos que hablan de ello y cualquier cosa que mencione aquí seguramente se quedará muy corta con respecto al todo que suelen ser dichos conceptos, sin embargo, si me gustaría mencionar un par de cosas al respecto del fin y lo que motiva a la gente a usar/conocer todos estos elementos.
 
-== Diseño de software
+Es importante conocer la historia de los métodos y marcos actuales, ya que así podrás comprender el valor de lo que están aportando o lo que quieren resolver, podrás comparar cada uno y la utilidad que tienen con respecto al trabajo que haces.
+
+En definitiva creo que lo mejor que puedes hacer es aprender la esencia de cada concepto, y entre más simple sea dicho elemento mucho más sencillo será aplicarlo.
+
+Una cosa que también debes conocer es que por lo menos hasta este tiempo, se han intentado usar formas de trabajo de elementos conocidos en las ciencias sociales y las de ingeniería, sin embargo, ninguna de ellas ha podido cubrir completamente los rubros que deben ser considerados en el desarrollo de software, siempre hay algo que se fuga y generalmente esos pequeños detalles siempre dejan un mal sabor de boca.
+
+IMPORTANT: Al final creo que lo que pretende cada método, metodología y marco de trabajo es *disciplinar* a las personas.
+
+También es importante identificar que con un poco de habilidad, destreza y conocimiento de las reglas, pues simplemente puedes romperlas y jugar con lo que hay alrededor de cada mecanismo que te permitirá hacer o lograr cosas que no habías imaginado antes.
+
+[NOTE]
+.¿Qué es la disciplina?
+====
+Un gran pensador moderno habla al respecto del tema diciendo:
+
+[quote, Yokoi Kenji]
+"La disciplina, tarde o temprano, vencerá a la inteligencia"
+
+Y el mismo personaje indica que la disciplina se puede considerar como la suma del *orden, la limpieza y la puntualidad*.
+
+====
+
+Por lo menos hasta este momento existe una tendencia por parte de ciertos grupos a conocer cosas como: Scrum, Kanban, Lean, XP, Management 3.0, Crystal, entre otros, estos varian entre métodos y metodologías, debes de ser cuidadoso con lo que estás aprendiendo, es decir, identificar si es un método, una metodología o un marco de trabajo, pues a partir de ahí suelen nacer muchas cosas.
+
+Otros elementos menos conocidos serían Programmer Anarchy, Mikado Method, MOB programming, Squadification, TDD/ATDD/BDD, Software Craftmanship, entre muchos otros, que tienen mucho que ofrecer para poder ser conjugados.
+
+Queda claro que debes aprender los conceptos de trabajo para hacer software, y descubrir a través de tu juicio, y verás por que considero que algunos son mal usados y otros están poco sensibilizados; ahora bien, prefiero ahondar en un par de actividades basadas en dichos elementos que me han ayudado de una forma muy simple pero esencial en lo que aprendo y como avanzo en mi carrera como profesional.
+
+Previamente, mencionamos de hacer una lista de cosas que ignoras y recomendamos atacarla, pero ¿cómo hacerlo si tengo tiempo/dinero/recursos limitados?
+
+Es muy simple, crea tres listas:
+
+Técnicas y/o métodos a aprender
+Tecnologías a incorporar / reforzar
+Libros por leer
+
+En la primera lista lo que pondrás será todo aquello que tenga que ver con tus habilidades de comunicación, de equipo y humanas, que generalmente se aprende de aquellos elementos que no vinculan directamente el uso de la tecnología, es al respecto de ti como persona, por ejemplo, aprender un idioma como el inglés, implementar unidades de tiempo en tu trabajo, aprender a dibujar, enviar correos concretos, hacer resúmenes concretos, conocer gente de otras áreas, entre otros.
+
+En la segunda lista incluye herramientas, lenguajes, bibliotecas, frameworks de una plataforma, vaya esta lista es más sencilla, es realmente lo que quieres incorporar o reforzar para crear software.
+
+En la tercera pon aquellos libros que te han recomendado, aquellos que te gustaría a ti leer en general y aquellos que deberías de leer, pueden ser técnicos o no.
+
+TIP: No te límites en el número de elementos por cada lista, escribe todos aquellos que te interesan.
+
+Prioriza las tres listas en términos de lo que tienes que aprender, lo que debes de aprender y lo que te gustaría aprender, ordena cada lista en estos términos y te irás dando cuenta de tu situación.
+
+De cada lista, enfócate en las tres primeras, no elimines las demás pero si resalta aquellas que serán prioritarias y con ello tendrás los elementos para trabajar.
+
+Determina una unidad de tiempo de un mes y comienza a leer ese libro, a investigar de esa tecnología o técnica, asiste a reuniones donde se habla de aquello que estás aprendiendo(a estas alturas ya deberá haber alguno que te oriente), pregunta a las personas a tu alrededor, compañeros de trabajo o de clase, usa las redes sociales para acercarte a aquellas personas que consideras pueden orientarte.
+
+Incluso con todas estas actividades por hacer, y algunas nuevas que surgirán, podrás crear un tablero de Kanban que te permitirá saber que tanto tienes y que tanto te falta por hacer para mantenerte enfocado con aquello que estas atendiendo.
+
+Al paso de una semana, revisa todo aquello que completaste, y determina tu avance, y sólo tu sabrás si fue mucho o poco, nadie más te lo puede decir, y reflexiona de aquellas cosas que fueron bien y aquellas que no, toma decisiones con respecto a lo que tienes que hacer para la siguiente semana y listo, sigue actuando sobre ello, respeta tus decisiones y dedícales el espacio que necesitan para que sucedan.
+
+¿Qué es lo que siempre se puede mejorar?
+Una vez, leí en el libro de Clean Coder de Robert C. Martin, que dedicarás 20 horas a la semana a tu carrera, y muchas personas se sorprenden por que creen que no cuentan con dicha cantidad de tiempo, ya sea por su trabajo, su situación actual, el transporte, los medios que usan, etc., sin embargo quiero reflexionar al respecto de varios hechos que si ocurren y los cuales puedes aprovechar.
+
+Dicho texto considera que duermas 8 horas(lo cual a veces no es así, es menos), trabajes o estudies 8 horas, te quedarían 8 horas, de las cuales he conocido gente que puede pasarse en transporte público 4 horas, llevando así 20 horas, con las 4 restantes podrías dedicarle 2 a tus responsabilidades personales, amigos o actividades adicionales, te quedarían 2 horas al día, que sumadas te darían 14 horas a la semana, las casi 20 que necesitamos, y estas se las puedes dedicar a tu crecimiento, ya sea yendo a estudiar un idioma, leyendo el libro que te planteaste o practicando algún ejercicio.
+
+Sin embargo, con todo y esto, tienes potencialmente mucho más tiempo del que consideras; he visto y escuchado gente que se queja de lo difícil que es la situación al moverse en su auto o transporte público, donde se invierte mucho tiempo, pues bien, hoy contamos con elementos muy prácticos que nos pueden ayudar a aprovechar el trayecto, mi recomendación es que durante tu viaje escuches algún podcast de tecnología que hayas descargado, o bien compres un dispositivo de lectura electrónico ligero, que te permita aprovechar incluso esos trayectos, verdaderamente es una inversión que no te dará mucho más de lo que pienses que vas a gastar en ello.
+
+Al final de todo, se trata de encontrar cada vez mejores formas de hacer las cosas, aprovechar más tu relación con las personas, el tiempo y tus habilidades para crear la mejor versión de ti mismo.
