@@ -9,3 +9,4 @@ gem 'asciidoctor-pdf'
 gem "rake", :group => :test
 gem "rest-client", :group => :test
 gem "json", :group => :test
+gem 'aws-sdk', '~> 2', :group => :test
