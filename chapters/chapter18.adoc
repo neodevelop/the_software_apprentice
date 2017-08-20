@@ -1,14 +1,76 @@
 
 = Capítulo 18. Equipos y colaboración
 
+[quote, Ray Kroc]
+Ninguno de nosotros es tan bueno como todos nosotros juntos
+
+Durante tu carrera como profesional de software te encontrarás en diferentes situaciones que pondrán a prueba tu sentido común y tu capacidad de transmitir tus ideas, en otras ocasiones no tendrás a quién consultar directamente, en algunas otras te sentirás con menos experiencia y tal vez con poco derecho a preguntar, sin embargo, quiero mencionar algunos puntos que podrían ayudarte en algunas de las situaciones más comunes.
+
+A través del tiempo y de la práctica podrás encontrar diferentes formas de colaborar, de aprender, de enseñar y de crear software, pero verdaderamente te digo que lo más importante de hacer colaboración comienza por uno mismo.
+
 == Aprende a trabajar solo
 
-No seas un cretino
+Algunas ocasiones, la gente se apoya de las personas que van ingresando a una organización para asignarles una responsabilidad particular sobre un proyecto, otras veces simplemente te ves obligado a trabajar por tu cuenta en algo que tienes pensado, O bien eres la parte técnica de un equipo. En todos estos casos la gente confiara en lo que tú sabes hacer Y lo que podrías lograr con tus habilidades.
+
+El hecho dejé seas la única persona que está trabajando en esto no te hace superior ni inferior a algún miembro de tu equipo, simplemente te hace responsable de la parte de la ejecución técnica de un proyecto, es por eso que debes de contar con todos los mecanismos para poder resolver por ti mismo los problemas que se te presente, pero también debes detener la voluntad de decir cuáles son aquellas cosas que en este momento no conoces Y sincerarte con aquellos que confían en ti.
+
+Reconocer que no sabemos ciertos elementos, ayudara meramente a que el equipo de trabajo tome decisiones al respecto del tiempo que tomará hacer algo, en definitiva en muchos de los casos los conocimientos que te hacen falta serán necesarios Y deberás de invertir cierto tiempo en adquirirlos,  lo único que en este momento el equipo deberá de saber es un estimado de esfuerzo por tu parte para aprenderlos.
+
+Esto último es muy importante, pues los conocimientos son bastante nobles y puedes encontrarlos en muchos lados, sin embargo el conocimiento directo puede tener un costo al comprar un libro O asistir a un curso, que de haber leído O asistido respectivamente, pudieras avanzar con mucho mejor ritmo; dicho costo puede ser extremadamente pequeño para una organización Y puede redituar demasiado tanto en el resultado del proyecto como en tu persona, por esto siempre es importante mencionar todas aquellas cosas que no conocemos, pero también hacer ver que existen opciones para adquirir conocimiento que permita avanzar en el desarrollo de un proyecto.
+
+He podido atestiguar muchos casos en donde hubiera sido suficiente haber leído un libro, escuchado un programa, asistir a un curso O inclusive contar con un lector electrónico, para que la gente tenga las herramientas necesarias para realizar su trabajo. Necesitas esas herramientas y necesitas saber que es aquello el puede ayudarte a ofrecer mejores resultados, es por esto que debes de ser lo suficientemente con esto con aquello que no sabes, pero también lo bastantemente preparado para saber que caminos tomar para adquirir los conocimientos que ayudará a progresar en el proyecto.
+
+En este punto, me restaría decirte que el hecho de que tú sepas más o menos que alguien no te hace mejor ni peor, es que no deberás de ser un cretino con lo que sabes, ni tampoco de forma opuesta, ser extremadamente tímido con aquello que no sabes y es necesario para ti y tu equipo.
 
 == Aprende a trabajar en equipo
 
-No seas un cretino
+Tal vez te sientas menos preciado por ser el más novato de un equipo, inclusive puedes llegar a pensar sentir que estás en cero, sin embargo, debes de saber qué tienes mucho que aportar cuando te unes a colaborar con un equipo de trabajo; ellos cuentan con tu entusiasmo Y con la forma distinta que tienes deber los problemas, la cual es fresca y simple, y debes de saber que esas formas son mayormente las que algunas personas experimentadas ya no tienen.
+
+Con lo mucho o poco que hayas hecho a lo largo de tu carrera como estudiante o inclusive en algunos otros equipos de trabajo, te has formado una opinión Y un criterio, qué seguramente tendrás Que desarrollar mucho más conforme vayas conociendo las cosas, pero que en este momento es necesario expreses ante los demás.
+
+A diferencia de trabajar solo, aquí podrás ver a otras personas colaborar entre ellas Y también podrás hacer preguntas, lo más importante es hacer preguntas, sumado a los elementos anteriores en donde te debes de ser honesto con lo que sabes, aquí debes de tener la suficiente congruencia Y claridad para hacer preguntas y poder conocer aquello que necesitas para realizar tus actividades, mayormente podrás encontrar personas que están dispuestas a darte un espacio para explicarte todas aquellas situaciones que rodean a un proyecto, pero también debes de ser analítico con todos esos términos que irás escuchando y no conoces para después investigarlos por tu cuenta y nuevamente preguntar al respecto de si lo que tú concibes es lo que realmente se desarrolla en tu equipo de trabajo.
+
+Anteriormente hemos hablado de “ser el peor en un equipo de trabajo”, pero nos referimos al hecho desea siempre los más novatos en ese equipo de trabajo, y mirar a aquella gente experimentada para aprender de ellos, debes de tener formas de aprender de Eso también.
+
+Deberás de apoyarte de aquellas habilidades que has adquirido por cuenta propia Y ofrecerlas Como parte de lo que puedes contribuir en un proyecto, Y de verdad no digo ninguna de esas habilidades será menospreciada, desde aquella capacidad de poder ensamblar un juego en línea dentro de una red hasta algunas otras en donde puedas administrar o manejar paquetería convencional o de diseño, todas sumarán al final del día en lo que hiciste Y sobretodo serán agradecidas por tu equipo de trabajo pues es aquello que por voluntad propia aportaste para cumplir un objetivo común.
+
+Conoce a tus compañeros, trata de involucrarte un poco más socialmente con aquellos que estarán sentados a tu lado, pues como así cuando estudiaste pasabas mucho tiempo con un grupo de personas, ahora lo harás con otro grupo de personas que están persiguiendo un objetivo común en beneficio de todos.
 
 == Conoce la forma de colaborar en un proyecto
 
-No seas un cretino
+> Involúcrate, interésate, se parte del todo, no importa que sea la más pequeña de las partes, pues como una pequeña bacteria podrás propagarte y ser gran parte de un organismo.
+
+Durante tus primeras participaciones en la creación de software descubrirás costumbres, técnicas y métodos por parte de aquellos que son parte ya de un equipo, y esperan de ti que te unas a ellos, pero también que sigas siendo auténtico con tu estilo de vida, con lo que tu eres, la autenticidad que puedas darle a tu trabajo y sumarla al equipo.
+
+Tendrás que conocer y ajustarte a los métodos de trabajo, pero también a su vez tendrás que cuestionar por que haces lo que haces en la forma que lo haces, pregunta cual es el problema que se resolvió con aquello que estás replicando y sobre todo cual es el objetivo de seguir ciertas reglas o estructuras de trabajo.
+
+Tendrás que adaptarte a las formas de colaborar, pero también ser consciente de que habrá otras, además de que existirán algunas más emocionantes que otras, ya sea dentro del mismo equipo o en otro equipo, y no me mal entiendas, ninguna es mejor que otra, sólo que las formas están en un momento en el tiempo por el contexto que están viviendo, solamente que algunas se quedaron congeladas y otras evolucionaron más rápido de lo que la gente puede pensar.
+
+Al final no temas, deberás hacer propuestas, demostrativo y ¿por qué no?, iniciar una nueva forma de trabajo basada en lo que investigues, veas y te dicte tu sentido común para crear una disciplina de trabajo que te lleve más lejos.
+
+En el trayecto de tu participación con cualquier equipo(o de forma individual), tendrás que adoptar, conservar y desarrollar varios valores, que del todo no son para nada nuevos, han existido desde siempre, pero han sido marcados por eras, culturas y personas; lo más cercano que hoy he podido ver que se asemeja a lo que pretendo describir como el *profesional de software* que empieza con lo que describo como *el aprendiz de software* es el código del samurai, descrito como:
+
+[quote, El código samurái]
+____
+- *La Rectitud*: ser capaz de tomar una decisión sin vacilar. Ser justo y objetivo en toda circunstancia
+- *El Coraje*: afrontar el reto de tomar decisiones
+- *La Bondad*: ser magnánimo, paciente y tolerante
+- *La Cortesía*: el respeto y las buenas maneras del comportamiento
+- *El Desprendimiento*: actuar desinteresadamente, sin egoísmos y generosamente
+- *La Sinceridad*: decir siempre la verdad, defender ésta, y ser fiel a la palabra dada
+- *El Honor*: aprecio y defensa de la dignidad propia
+- *La Modestia*: no ser soberbio ni vanidoso
+- *La Lealtad*: no traicionar a nadie, ni a uno mismo. Ser fiel a las propias convicciones
+- *El Autodominio*: tener control sobre los actos, emociones y palabras
+- *La Amistad*: entregarse en un todo. Saber compartir y ayudar
+- *La Integridad*: tratar a todos por igual, defender los principios, y ser fiel a los compromisos
+- *La Generosidad*: dar sin pedir nada a cambio
+- *La Imparcialidad*: emitir juicios de acuerdo a la verdad
+- *La Paciencia*: es tolerar lo intolerable.
+- *La Serenidad*: control de los impulsos ante conflictos y dificultades
+- *La Autoconfianza*: creer en uno mismo
+____
+
+No perdiendo de vista que todo lo mencionado hasta este punto siempre está enfocada a desarrollar software.
+
+> La programación hoy en día es el conjunto de conocimientos organizados para la creación de nuevos componentes de software, que transformarán la forma en cómo suceden las cosas, y cambiará la vida de las personas,
