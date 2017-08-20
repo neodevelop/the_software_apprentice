@@ -1,11 +1,17 @@
 require 'rest-client'
 require 'json'
 require 'base64'
+require 'aws-sdk'
 
 @token = ENV["POSTMARK_TOKEN"]
 @from_recipient = ENV["FROM_RECIPIENT"]
 @mail_recipients = ENV["MAIL_RECIPIENTS"]
 @template_id = ENV["TEMPLATE_ID"]
+
+# @access_key = ENV["AWS_ACCESS_KEY_ID"]
+# @secret_key = ENV["AWS_SECRET_ACCESS_KEY"]
+# @region = ENV["AWS_REGION"]
+@bucket_name = ENV["AWS_BUCKET_NAME"]
 
 task :default => 'notification:send'
 
@@ -29,6 +35,22 @@ namespace :build do
     puts "ePub Generated in build/"
   end
 
+end
+
+namespace :publish do
+  desc "List all buckets"
+  task :upload do
+    s3 = Aws::S3::Resource.new
+    bucket = s3.bucket(@bucket_name)
+    files = Dir.glob('build/*').select { |e| File.file? e }
+    files.each do |f|
+      file = File.new f
+      f.slice! "build/"
+      s3_object = bucket.object(f)
+      s3_object.upload_file file
+      puts "#{f} uploaded..."
+    end
+  end
 end
 
 namespace :dictation do
