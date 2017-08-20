@@ -48,6 +48,7 @@ namespace :publish do
       f.slice! "build/"
       s3_object = bucket.object(f)
       s3_object.upload_file file
+      s3_object.acl.put({ acl: "public-read"})
       puts "#{f} uploaded..."
     end
   end
