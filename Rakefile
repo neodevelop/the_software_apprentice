@@ -13,7 +13,8 @@ require 'aws-sdk'
 # @region = ENV["AWS_REGION"]
 @bucket_name = ENV["AWS_BUCKET_NAME"]
 
-task :default => 'notification:send'
+task :default => ['build:all','publish:upload']
+#task :default => ['build:all','publish:upload','notification:send']
 
 namespace :build do
 
@@ -35,10 +36,12 @@ namespace :build do
     puts "ePub Generated in build/"
   end
 
+  desc "All builds"
+  task :all => [:html, :pdf]
 end
 
 namespace :publish do
-  desc "List all buckets"
+  desc "Upload generated files"
   task :upload do
     s3 = Aws::S3::Resource.new
     bucket = s3.bucket(@bucket_name)
