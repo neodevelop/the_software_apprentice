@@ -13,7 +13,7 @@ require 'aws-sdk'
 # @region = ENV["AWS_REGION"]
 @bucket_name = ENV["AWS_BUCKET_NAME"]
 
-task :default => ['build:all','publish:upload']
+task :default => ['build:all','publish:upload','notification:send']
 #task :default => ['build:all','publish:upload','notification:send']
 
 namespace :build do
