@@ -12,11 +12,11 @@ Quiero comenzar con la definición, la que encuentras en la wikipedia:
 
 Es aquí en donde parte todo lo que necesitas saber al respecto de las herramientas, pues deberías de adoptar aquellas que te permitan aplicar el esfuerzo necesario para obtener un buen resultado, es decir, deberías de desechar aquellas herramientas en las cuales gastas más energía y obtienes un resultado mínimo, o inclusive aquellas en las cuales adaptas el problema a la herramienta.
 
-Sin embargo, como muchas otras herramientas y como seguramente has aprendido a utilizar utensilios mecánicos, el uso y manipulación requiere de una práctica previa o de un periodo de reconocimiento para conocer el funcionamiento y fin del instrumento que estás usando, con esto me refiero a que deberás de invertir cierto tiempo conociendo lo que quieres usar y para que lo quieres usar, comprenderás entonces que al igual como desarmadores y martillos, que sirven para dos propósitos distintos, también hay herramientas tecnológicas que sirven para propósitos diferentes.
+Sin embargo, como muchas otras herramientas y como seguramente has aprendido a utilizar utensilios mecánicos, el uso y manipulación requiere de una práctica previa o de un periodo de reconocimiento para conocer el funcionamiento y fin del instrumento que estás usando: Con esto me refiero a que deberás de invertir cierto tiempo conociendo lo que quieres usar y para que lo quieres usar, comprenderás entonces que al igual como desarmadores y martillos, que sirven para dos propósitos distintos, también hay herramientas tecnológicas que sirven para propósitos diferentes.
 
 Considera también el hecho de que algunas de ellas están hechas a su vez de otras más simples, por lo que mi recomendación será que profundices en aquellas herramientas que son cada vez más sencillas pues podrás encontrar el verdadero propósito o filosofía en la cual se están basando aquellas que son más sofisticadas.
 
-De lo anterior, el aspecto relevante que deberías reconocer es la filosofía de una herramienta, así como en algún momento las herramientas mecánicas se basaron en principios de física para la aplicación de esfuerzos, las herramientas tecnológicas se basan en aspectos computacionales para la reducción de tiempo, de esfuerzo y automatización de procesos y procesamiento. Muchas de ellas inclusive ya vienen incluidas en las computadoras que usamos diario, simple y sencillamente hay que conocerlas para poder aprovecharlas.
+De lo anterior, el aspecto relevante que deberías reconocer es la filosofía de una herramienta: Así como en algún momento las herramientas mecánicas se basaron en principios de física para la aplicación de esfuerzos, las herramientas tecnológicas se basan en aspectos computacionales para la reducción de tiempo, de esfuerzo y automatización de procesos y procesamiento. Muchas de ellas inclusive ya vienen incluidas en las computadoras que usamos diario, simple y sencillamente hay que conocerlas para poder aprovecharlas.
 
 Con todo esto me gustaría escribir un poco más aquellas que considero esenciales para un aprendiz de software.
 
@@ -24,7 +24,7 @@ Con todo esto me gustaría escribir un poco más aquellas que considero esencial
 
 Definitivamente creo que hay elementos que deberíamos de conocer ya sea en nuestra época de estudiantes o bien cuando verdaderamente queremos crear aplicaciones de alto desempeño, o por lo menos con un nivel de detalles que se pueda considerar notable.
 
-Por ejemplo, las representaciones numéricas y sus variantes, la notación decimal, las binarias y las hexadecimales, las representaciones internas numéricas que nos llevan a los strings, los números consigne sencillo, las representaciones codificadas(bcd), aquellas de punto flotante y las conversiones entre estas.
+Por ejemplo, las representaciones numéricas y sus variantes, la notación decimal, las binarias y las hexadecimales, las representaciones internas numéricas que nos llevan a los strings, los números con signo sencillo, las representaciones codificadas(bcd), aquellas de punto flotante y las conversiones entre estas.
 
 Otro grupo sería aquellas operaciones aritméticas que aplican a los binarios y las operaciones bits, es decir la suma, resta, multiplicación y división valores binarios, las operaciones lógicas y porque no la rotación de bits.
 

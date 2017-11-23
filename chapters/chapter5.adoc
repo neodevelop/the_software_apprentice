@@ -8,19 +8,19 @@ Tienes que tomar una decisión, aunque podría ser un paso más en tu vida, podr
 
 == Estos son los hechos...
 
-La verdad sea dicha, no necesitas estudiar una carrera para dedicarte a programar, sin embargo, ayuda mucho que tengas conocimientos esenciales al respecto de todo lo que rodea la ciencias de la informática y la computación, y también ayuda mucho el hecho de que conozcas otros giros o actividades que no tengan que ver con la programación.
+La verdad sea dicha, no necesitas estudiar una carrera para dedicarte a programar, sin embargo, ayuda mucho que tengas conocimientos esenciales al respecto de todo lo que rodea a la ciencias de la informática y la computación, y también ayuda mucho el hecho de que conozcas otros giros o actividades que no tengan que ver con la programación.
 
-También tienes que saber, que no es malo estar en una escuela, pero debes de tener claras tus expectativas y la realidad que estás enfrentando en ese momento, a lo que me refiero es al hecho de qué si buscas que la escuela te enseñe técnicas de programación o algún lenguaje, seguramente encontrarás alguna que lo haga en algún momento, sin embargo he visto muchos casos en donde eso solo ocurre al iniciar una carrera, pues muchos elementos están enfocados a terminar haciendo actividades administrativas o similares, lo cual tampoco está mal.
+También tienes que saber, que no es malo estar en una escuela, pero debes de tener claras tus expectativas y la realidad que estás enfrentando en ese momento, a lo que me refiero es al hecho de que si buscas que la escuela te enseñe técnicas de programación o algún lenguaje, seguramente encontrarás alguna que lo haga en algún momento, sin embargo he visto muchos casos en donde eso solo ocurre al iniciar una carrera, pues muchos elementos están enfocados a terminar haciendo actividades administrativas o similares, lo cual tampoco está mal.
 
-Tienes que darte cuenta que programar es una actividad multi-disciplinaria, que necesitarás de muchas áreas de conocimiento y que siempre será bueno conocer todo aquello que se te presenta, ya sea con finanzas y contabilidad o incluso con matemáticas, o con medicina, porque no sabes qué que es lo que te va tocar desarrollar cuando estés en tu profesión.
+Tienes que darte cuenta que programar es una actividad multi-disciplinaria, que necesitarás de muchas áreas de conocimiento y que siempre será bueno conocer todo aquello que se te presenta, ya sea con finanzas y contabilidad o incluso con matemáticas, o con medicina, porque no sabes que es lo que te va tocar desarrollar cuando estés en tu profesión.
 
 Además, tendrás que realizar actividades adicionales que te ayuden a adoptar herramientas o lenguajes para poder verdaderamente resolver problemas con ayuda de la tecnología usando tus habilidades como programador, aunque siempre tendrás la opción de usar el software que alguien más hizo y aplicar esa solución, lo cual tampoco es malo, te darás cuenta que todas estas las encontrarás en recursos colgados en internet o en libros muy especializados, de los cuales hablaremos mucho más adelante.
 
 Tienes que entender que la escuela no está obligada a enseñarte técnicas de programación y la empresa u organización en la que estés trabajando tampoco está obligada a capacitarte, es decir, la única responsabilidad de aprender a realizar esta actividad es solamente tuya.
 
-Inclusive, tendrás que enfrentar de siempre con el reto de crear software con herramientas y lenguajes que nunca has conocido, o incluso he escuchado, pero qué es muy importante que conozcas las bases por las cuales están sustentados para que puedas entender la forma en la que te puedes desempeñar.
+Inclusive, tendrás que enfrentarte siempre con el reto de crear software con herramientas y lenguajes que nunca has conocido, o incluso he escuchado, pero qué es muy importante que conozcas las bases por las cuales están sustentados para que puedas entender la forma en la que te puedes desempeñar.
 
-No es sencillo, pero es muy gratificante y el camino es extremadamente largo, pues mientras más avances mas te darás cuenta de todo lo que te hace falta por conocer y recorrer, sumado a las nuevas herramientas que están saliendo constantemente, o la evolución de alguna plataforma tecnológica.
+No es sencillo, pero es muy gratificante y el camino es extremadamente largo, pues mientras más avances más te darás cuenta de todo lo que te hace falta por conocer y recorrer, sumado a las nuevas herramientas que están saliendo constantemente, o la evolución de alguna plataforma tecnológica.
 
 Es decir, es una profesión en la cual puedes pasarte tu vida entera, y de ser así, entonces estás leyendo las palabras adecuadas.
 
