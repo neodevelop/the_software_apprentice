@@ -8,11 +8,11 @@ Una de las dificultades más importantes para enfrentar es sin lugar a dudas el 
 
 Desde siempre estés sido el tema central en las escuelas, e incluso uno de los principales problemas para poder abrir cada vez más tipos de carreras o profesiones distintas.
 
-Generalmente, les delegamos toda la responsabilidad a las instituciones para que nos muestren cuales el camino que debemos de seguir; esto funcionó durante mucho tiempo e incluso puede seguir aplicando para algunas disciplinas, o bien inclusive también para el desarrollo de software en su forma esencial, sin embargo, llega un punto en donde este tipo de enseñanza tradicional no cubre los aspectos de adopción de elementos de innovación.
+Generalmente, les delegamos toda la responsabilidad a las instituciones para que nos muestren cual es el camino que debemos de seguir; esto funcionó durante mucho tiempo e incluso puede seguir aplicando para algunas disciplinas, o bien inclusive también para el desarrollo de software en su forma esencial, sin embargo, llega un punto en donde este tipo de enseñanza tradicional no cubre los aspectos de adopción en elementos de innovación.
 
-Existe un esfuerzo muy grande por la gran mayoría de instituciones en estar al día con estos elementos, tratar de ofrecer a los alumnos los elementos que son comúnmente usados en el mercado, lo cual puede ser tan bueno como malo a la vez.
+Existe un esfuerzo muy grande por la gran mayoría de instituciones en estar al día con estos elementos, tratar de ofrecer a los alumnos los conocimientos que son comúnmente usados en el mercado, lo cual puede ser tan bueno como malo a la vez.
 
-A lo que me refiero aquí, es a el hecho de que los profesionales de software definitivamente se apoyan de instituciones, pero mayormente forman su carrera de los elementos que han aprendido por ciento mismos a través de su experiencia o de la inversión de tiempo que han hecho en sus proyectos personales.
+A lo que me refiero aquí, es a el hecho de que los profesionales de software definitivamente se apoyan de instituciones, pero mayormente forman su carrera de los elementos que han aprendido por si mismos a través de su experiencia o de la inversión de tiempo que han hecho en sus proyectos personales.
 
 Quiero que sepas que llegados a este punto, existe la necesidad de que puedas adaptarte rápido a las circunstancias, y de que puedas aprender de las mismas, pero mejor aún de que crees los mecanismos necesarios para aprender a aprender.
 
@@ -30,7 +30,7 @@ A partir de aquí, podrías empezar a tomar algunas decisiones por ti mismo para
 
 == Sé autodidacta
 
-¿que significa ser autodidacta? De manera muy simple considero que es la habilidad que se puede adquirir a través de algún método para poder comprender el funcionamiento de ciertos elementos, sin necesariamente profundizar en el tema al respecto.
+¿Qué significa ser autodidacta? De manera muy simple considero que es la habilidad que se puede adquirir a través de algún método para poder comprender el funcionamiento de ciertos elementos, sin necesariamente profundizar en el tema al respecto.
 
 Lo que quiero transmitir aquí es que todos contamos con una forma de aprender que nos sirvió en algún momento, en donde a pesar que muchos de nosotros cursamos una formación escolar de cualquier grado, existía el momento en donde teníamos que comprobar todo el conocimiento adquirido y fue ahí en donde muchos métodos de estudio se nos presentaron, los cuales no voy a mencionar por que cada persona tuvo un contexto que le va permitir recordarlo, sin embargo es importante reconocer que estuvieron ahí y que seguramente algunos de ellos puede servirte para volver a aprender por tu cuenta.
 
@@ -48,7 +48,7 @@ Una de las formas que me sirve mucho para poder adquirir conocimiento fue observ
 
 === Aprendizaje por error.
 
-Definitivamente, cuando estamos atorados con alguna pieza de software if frente nuestros ojos aparece un error, generalmente buscamos en el error y llega un punto en donde es complicado encontrar una solución, aló cual comenzamos a experimentar con lo que circula alrededor del fragmento de código en cuestión hasta que por alguna extraña razón atinamos, la recomendación aquí es verdaderamente conocer la razón de dicho error pues eso será un permanente qué se irá en nuestra mente debido a la frustración que nos puede causar.
+Definitivamente, cuando estamos atorados con alguna pieza de software if frente nuestros ojos aparece un error, generalmente buscamos en el error y llega un punto en donde es complicado encontrar una solución, a lo cual comenzamos a experimentar con lo que circula alrededor del fragmento de código en cuestión hasta que por alguna extraña razón atinamos, la recomendación aquí es verdaderamente conocer la razón de dicho error pues eso será un permanente qué se irá en nuestra mente debido a la frustración que nos puede causar.
 
 === Aprendizaje por experiencia.
 
@@ -60,7 +60,7 @@ Algunas otras veces, creamos piezas de software similares o bien realizamos tare
 
 === Aprendizaje en la resolución de retos.
 
-Actualmente, existen muchos sitios que exponen ciertos problemas los cuales son candidatos resolverse con algún lenguaje de programación, también hay otros tipos de retos mucho más elaborados que permiten crear productos casi completos; en ambos casos se puede utilizar el conocimiento adquirido para resolverlos, o bien si no se sabe cómo resolverlos puede ser un buen comienzo para poder investigar que puede ayudar a resolver.
+Actualmente, existen muchos sitios que exponen ciertos problemas los cuales son candidatos a resolverse con algún lenguaje de programación, también hay otros tipos de retos mucho más elaborados que permiten crear productos casi completos; en ambos casos se puede utilizar el conocimiento adquirido para resolverlos, o bien si no se sabe cómo resolverlos puede ser un buen comienzo para poder investigar que puede ayudar a resolver.
 
 === Aprendizaje por lectura.
 

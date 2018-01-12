@@ -4,7 +4,7 @@
 [quote, Wikipedia]
 ...Los profesionales, en su mayoría, están sujetos a estrictos códigos de conducta, rigurosa ética profesional y obligación moral con la sociedad.
 
-Piensa en un buen doctor, y analiza por un momento: verás que está rodeado de varios elementos que son proyectados a través de su cultura y la forma como se dirige a las personas, incluyendo sus propios compañeros. Verás que esa persona puede llegar a ser admirable, tiene conocimiento, una buena comunicación, podrías incluir buenos hábitos y costumbres, una gran responsabilidad, y el deseo de ayudar a la gente de alguna manera. Veras también que un profesional es el resultado de años de estudio y práctica, y que continuamente sigue ejercitándose, practicando, estudiando y tratando de ser mejor para las solventar las necesidades el usuario, y en algunos casos especializándose a nivel de negocio en algo muy particular.
+Piensa en un buen doctor, y analiza por un momento: verás que está rodeado de varios elementos que son proyectados a través de su cultura y la forma como se dirige a las personas, incluyendo sus propios compañeros. Verás que esa persona puede llegar a ser admirable, tiene conocimiento, una buena comunicación, podrías incluir buenos hábitos y costumbres, una gran responsabilidad, y el deseo de ayudar a la gente de alguna manera. Veras también que un profesional es el resultado de años de estudio y práctica, y que continuamente sigue ejercitándose, practicando, estudiando y tratando de ser mejor para las solventar las necesidades del usuario, y en algunos casos especializándose a nivel de negocio en algo muy particular.
 
 Un profesional de software no es muy diferente a aquel doctor, inclusive podría decirse que mientras el doctor tiene la responsabilidad de una vida a la vez, un programador tiene una responsabilidad de un grupo de personas a la vez, que son los usuarios finales de todas las creaciones que él pueda hacer.
 
@@ -12,7 +12,7 @@ Ahora regresa al doctor: ¿Qué lo hace bueno? ¿Cómo es que él ofrece un lazo
 
 Ahora, piensa en el software que tú estás haciendo o qué podrías hacer: ¿Cómo garantizas que funciona correctamente?, ¿Cómo podrías trasmitir la misma confianza de que el producto que estás desarrollando cumple con lo que la gente espera de ti?, ¿Cómo sabes que cada usuario puede sentirse atendido de forma única al momento de usar el software que tú estás haciendo?, O bien, ¿Cómo puedes garantizar que el software desarrollado por ti realmente es una herramienta que ayuda a realizar las tareas para las cuales está diseñado?, Cualesquiera que éstas sean, porque si bien el software está siendo creado para resolver problemas que de otra forma podrían tomar mucho tiempo o esfuerzo.
 
-Bajo este mismo esquema, reflexiona acerca del software que estás usando actualmente y pregúntate: ¿Qué tan bueno es? O ¿Qué tan malo es?, ¿Porqué lo usas?, ¿Qué necesitarías tu para desarrollarlo? O hacer un programa similar, ¿porqué pagarle a una persona con poca experiencia que hace software y no pagarle a un grupo de personas que lo hacen bien y que actualmente tú estás usando en alguno de tus dispositivos?, Actualmente cualquier herramienta cuenta con algún tipo de software que está dedicado solamente para resolver una necesidad; estamos rodeados de software y del trabajo de mucha gente que le ha dedicado tiempo y esfuerzo a hacer que funcionen correctamente, para que verdaderamente te ayude a ti en las labores para las cuales está diseñado.
+Bajo este mismo esquema, reflexiona acerca del software que estás usando actualmente y pregúntate: ¿Qué tan bueno es? O ¿Qué tan malo es?, ¿Por qué lo usas?, ¿Qué necesitarías tú para desarrollarlo? O hacer un programa similar, ¿por qué pagarle a una persona con poca experiencia que hace software y no pagarle a un grupo de personas que lo hacen bien y que actualmente tú estás usando en alguno de tus dispositivos?, Actualmente cualquier herramienta cuenta con algún tipo de software que está dedicado solamente para resolver una necesidad; estamos rodeados de software y del trabajo de mucha gente que le ha dedicado tiempo y esfuerzo a hacer que funcionen correctamente, para que verdaderamente te ayude a ti en las labores para las cuales está diseñado.
 
 Todo lo anterior, me lleva a mencionar varios aspectos que deberías de considerar al momento de desarrollar software para ti o para un grupo de personas que podrían contratarte y crear productos que pueden ser útiles para otras personas, o bien, simplemente porque verdaderamente crees que puedes crear un programa que ayude a cumplir un propósito.
 
@@ -41,7 +41,7 @@ Así mismo, debemos de aprender a escuchar y reflexionar, a aprender de lo que e
 
 Y aunque hay muchos tipos de personas, que piensan distinto a como yo pensaría, los aspectos de empatía y tolerancia deben ser presentes mientras se realiza la convivencia con los miembros del equipo que a su vez también podrán coincidir o no en mis ideas personales por lo que yo creo, pero eso no es un obstáculo para aportar algo útil a la aplicación que estamos haciendo.
 
-Al final del día, ¿cómo sé que estoy haciendo es lo correcto y que verdaderamente estoy avanzando en mi carrera como desarrollador de software? Pues bien, actualmente existen ciertos elementos que me pueden ayudar a determinarlo.
+Al final del día, ¿cómo sé que lo que estoy haciendo es lo correcto y que verdaderamente estoy avanzando en mi carrera como desarrollador de software? Pues bien, actualmente existen ciertos elementos que me pueden ayudar a determinarlo.
 
 == Trabajo ético
 
@@ -67,9 +67,9 @@ No existe otra manera de avanzar en una carrera si no es aprendiendo continuamen
 
 Por lo anterior, deberá ser muy importante plantear un escenario en donde aprendas, y puedes tener una lista de elementos que no conoces y escribirla honestamente, para trabajar en ella.
 
-Aquí lo difícil es para cualquiera que comience a hacer esta lista, saber qué que desconoce realmente, sin embargo, puede ser muy sencillo resolver esta duda, con solamente una cuestión.
+Aquí lo difícil es para cualquiera que comience a hacer esta lista, saber qué es lo que desconoce realmente, sin embargo, puede ser muy sencillo resolver esta duda, con solamente una cuestión.
 
-Toma el software que más te guste, ya sea tu celular o una aplicación en tu equipo de cómputo, un intermedio inclusive, y preguntate: ¿de qué elementos está hecho?, ¿Qué tecnologías usa o que herramientas ocupan dentro de la organización que está haciendo ese software? Con esto podrás darte una idea de lo que desconoces y que posiblemente deberás de conocer de alguna u otra manera y en algún punto en tu carrera.
+Toma el software que más te guste, ya sea tu celular o una aplicación en tu equipo de cómputo, un intermedio inclusive, y preguntate: ¿de qué elementos está hecho?, ¿Qué tecnologías usa o qué herramientas ocupan dentro de la organización que está haciendo ese software? Con esto podrás darte una idea de lo que desconoces y que posiblemente deberás de conocer de alguna u otra manera y en algún punto en tu carrera.
 
 Lo importante aquí es tener esa lista, ordenarla y priorizarla, y buscar los elementos que sean necesarios para comprender en su totalidad los elementos conceptuales que rodean a los puntos a atacar.
 
