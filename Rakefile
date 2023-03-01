@@ -102,7 +102,7 @@ def create_payload
   {
     "From" => @from_recipient,
     "To" => @mail_recipients,
-    "TemplateId"  => @template_id,
+    "TemplateId" => @template_id,
     "TemplateModel" => {
       "changelog" => File.read("log_history").to_s.split("\n").map { |s| {message:s} }
     },
